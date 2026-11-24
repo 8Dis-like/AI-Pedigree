@@ -1,0 +1,11 @@
+.DS_Store
+.obsidian/
+.codex-pets/
+.trash/
+Scripts/watcher.log
+Sources/*.pdf
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example

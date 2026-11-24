@@ -1,0 +1,7924 @@
+[
+  {
+    "source": "Christopher Longuet-Higgins",
+    "target": "Geoffrey Hinton",
+    "relation": "PhD advisor of",
+    "dates": "",
+    "source_ids": [
+      "H05",
+      "H06"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-3d2c4bccda"
+  },
+  {
+    "source": "Stephen Isard",
+    "target": "Geoffrey Hinton",
+    "relation": "doctoral mentor / effective co-advisor",
+    "dates": "",
+    "source_ids": [
+      "H06"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "First-person recollection; formal co-supervisor status unconfirmed.",
+    "id": "rel-3539bc7b59"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "University of Cambridge",
+    "relation": "BA in Experimental Psychology",
+    "dates": "1967–1970",
+    "source_ids": [
+      "H01",
+      "H02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-1ef578c048"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "University of Edinburgh",
+    "relation": "PhD in Artificial Intelligence",
+    "dates": "doctoral study 1972–1975; awarded 1978",
+    "source_ids": [
+      "H01",
+      "H02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-348cec7172"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "University of Sussex",
+    "relation": "research fellow",
+    "dates": "1976–1978",
+    "source_ids": [
+      "H02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-88ba859f39"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "University of California, San Diego",
+    "relation": "visiting scholar",
+    "dates": "1978–1980",
+    "source_ids": [
+      "H02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-ea2afe41f7"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Carnegie Mellon University",
+    "relation": "assistant/associate professor",
+    "dates": "1982–1987",
+    "source_ids": [
+      "H02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-e7beae8059"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "University of Toronto",
+    "relation": "professor; later emeritus",
+    "dates": "1987–1998; 2001–2013; emeritus from 2014",
+    "source_ids": [
+      "H02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-1f4ca5424c"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "founding director",
+    "dates": "1998–2001",
+    "source_ids": [
+      "H02",
+      "H14",
+      "dm05"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-c9d79fab28"
+  },
+  {
+    "source": "Gatsby Computational Neuroscience Unit",
+    "target": "University College London",
+    "relation": "research unit of",
+    "dates": "established July 1998",
+    "source_ids": [
+      "H14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-b1713e9760"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Google",
+    "relation": "researcher; later VP and Engineering Fellow",
+    "dates": "2013–2023",
+    "source_ids": [
+      "H01",
+      "H02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-8ed8f32ca5"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "DNNresearch",
+    "relation": "cofounder",
+    "dates": "November 2012",
+    "source_ids": [
+      "H10"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-3c823df339"
+  },
+  {
+    "source": "DNNresearch",
+    "target": "Google",
+    "relation": "acquired by",
+    "dates": "2013",
+    "source_ids": [
+      "H11"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-e5d334ac38"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Ilya Sutskever",
+    "relation": "PhD advisor of",
+    "dates": "",
+    "source_ids": [
+      "H03",
+      "H07"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Advisor's roster gives 2012; university alumni article gives degree year 2013. Do not silently merge these dates.",
+    "id": "rel-38395482bc"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Ruslan Salakhutdinov",
+    "relation": "PhD advisor of",
+    "dates": "PhD 2009",
+    "source_ids": [
+      "H03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-2a19fc9996"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Volodymyr Mnih",
+    "relation": "PhD advisor of",
+    "dates": "PhD 2013",
+    "source_ids": [
+      "H03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Listed as Vlad Mnih; distinct from Andriy Mnih.",
+    "id": "rel-55518dd27f"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Radford Neal",
+    "relation": "PhD advisor of",
+    "dates": "PhD 1994",
+    "source_ids": [
+      "H03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-4df816dade"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Richard Zemel",
+    "relation": "PhD advisor of",
+    "dates": "PhD 1994",
+    "source_ids": [
+      "H03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-1c8b8a075a"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Brendan Frey",
+    "relation": "PhD advisor of",
+    "dates": "PhD 1997",
+    "source_ids": [
+      "H03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-6209b3068d"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Yee Whye Teh",
+    "relation": "PhD advisor of",
+    "dates": "PhD 2003",
+    "source_ids": [
+      "H03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-899233cc9b"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Yann LeCun",
+    "relation": "postdoctoral mentor of",
+    "dates": "",
+    "source_ids": [
+      "H04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-254d74b0fe"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Peter Dayan",
+    "relation": "postdoctoral mentor of",
+    "dates": "",
+    "source_ids": [
+      "H04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-dd64819efe"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Zoubin Ghahramani",
+    "relation": "postdoctoral mentor of",
+    "dates": "",
+    "source_ids": [
+      "H04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-846140586a"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Max Welling",
+    "relation": "postdoctoral mentor of",
+    "dates": "",
+    "source_ids": [
+      "H04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-22028369fa"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Alex Graves",
+    "relation": "postdoctoral mentor of",
+    "dates": "",
+    "source_ids": [
+      "H04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-e4dc9c95c9"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "University of Toronto",
+    "relation": "graduate student; PhD alumnus",
+    "dates": "",
+    "source_ids": [
+      "H07",
+      "H09"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "PhD year 2013 in alumni source, 2012 in advisor roster.",
+    "id": "rel-75008e2170"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "DNNresearch",
+    "relation": "cofounder",
+    "dates": "",
+    "source_ids": [
+      "H07"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-7f045f7935"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "Stanford University",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "H07"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-f7677954fc"
+  },
+  {
+    "source": "Andrew Ng",
+    "target": "Ilya Sutskever",
+    "relation": "postdoctoral mentor of",
+    "dates": "",
+    "source_ids": [
+      "H07"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-2bd09eb141"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "Google Brain",
+    "relation": "research scientist",
+    "dates": "three years; historical role",
+    "source_ids": [
+      "H07"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-8f1220a4b8"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "OpenAI",
+    "relation": "cofounder; founding research director",
+    "dates": "2015",
+    "source_ids": [
+      "H07",
+      "H19"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Historical position; stale personal page does not establish current employment.",
+    "id": "rel-3f51b68742"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "Safe Superintelligence",
+    "relation": "CEO",
+    "dates": "from July 2025 announcement",
+    "source_ids": [
+      "H20"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-56b239ec08"
+  },
+  {
+    "source": "Alex Krizhevsky",
+    "target": "University of Toronto",
+    "relation": "BSc and MSc alumnus",
+    "dates": "BSc 2007; MSc 2009",
+    "source_ids": [
+      "H08",
+      "H09"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-67bfe1aab3"
+  },
+  {
+    "source": "Alex Krizhevsky",
+    "target": "Google",
+    "relation": "worked at",
+    "dates": "March 2013–September 2017",
+    "source_ids": [
+      "H08"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-84dc3c5247"
+  },
+  {
+    "source": "Ruslan Salakhutdinov",
+    "target": "University of Toronto",
+    "relation": "PhD student",
+    "dates": "2005–2009",
+    "source_ids": [
+      "H12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-564c19df44"
+  },
+  {
+    "source": "Ruslan Salakhutdinov",
+    "target": "Massachusetts Institute of Technology",
+    "relation": "postdoctoral researcher",
+    "dates": "2009–2011",
+    "source_ids": [
+      "H12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-678e3703f8"
+  },
+  {
+    "source": "Ruslan Salakhutdinov",
+    "target": "University of Toronto",
+    "relation": "assistant professor",
+    "dates": "2011–January 2016",
+    "source_ids": [
+      "H12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-d4da6efd35"
+  },
+  {
+    "source": "Ruslan Salakhutdinov",
+    "target": "Carnegie Mellon University",
+    "relation": "faculty member",
+    "dates": "from February 2016",
+    "source_ids": [
+      "H12",
+      "H13"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-7ed6f0acf8"
+  },
+  {
+    "source": "Peter Dayan",
+    "target": "University of Toronto",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "H15"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-defc6ebc78"
+  },
+  {
+    "source": "Peter Dayan",
+    "target": "Salk Institute",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "H15"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-f3a1578a3d"
+  },
+  {
+    "source": "Peter Dayan",
+    "target": "Massachusetts Institute of Technology",
+    "relation": "worked at",
+    "dates": "moved in 1995",
+    "source_ids": [
+      "H15"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-4ac15ca1cb"
+  },
+  {
+    "source": "Peter Dayan",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "cofounder; director",
+    "dates": "cofounder 1998; director 2002–2017",
+    "source_ids": [
+      "H14",
+      "H15"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-ab0de3f009"
+  },
+  {
+    "source": "Peter Dayan",
+    "target": "Max Planck Institute for Biological Cybernetics",
+    "relation": "director",
+    "dates": "appointed 2018",
+    "source_ids": [
+      "H15",
+      "H16"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-00bbf1076e"
+  },
+  {
+    "source": "Zoubin Ghahramani",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "founding faculty",
+    "dates": "1998–2005",
+    "source_ids": [
+      "H14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-2b6e57a3e6"
+  },
+  {
+    "source": "Li Zhaoping",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "founding faculty",
+    "dates": "1998–2001",
+    "source_ids": [
+      "H14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-f4cf49fc70"
+  },
+  {
+    "source": "John Hopfield",
+    "target": "David MacKay",
+    "relation": "PhD advisor of",
+    "dates": "",
+    "source_ids": [
+      "H17"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-1d32141f25"
+  },
+  {
+    "source": "David MacKay",
+    "target": "California Institute of Technology",
+    "relation": "PhD student",
+    "dates": "",
+    "source_ids": [
+      "H17"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-1316fc402c"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "David MacKay",
+    "relation": "colleague and intellectual influence",
+    "dates": "",
+    "source_ids": [
+      "H17"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Not a PhD-supervision edge.",
+    "id": "rel-3ed4a6a346"
+  },
+  {
+    "source": "David MacKay",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "worked at",
+    "dates": "",
+    "source_ids": [
+      "H17"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-a667230fce"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "University of Toronto",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "H18"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-e4d55ff41f"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "AT&T Bell Laboratories",
+    "relation": "researcher",
+    "dates": "joined 1988",
+    "source_ids": [
+      "H18"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-b5bb98e607"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "New York University",
+    "relation": "professor",
+    "dates": "joined 2003",
+    "source_ids": [
+      "H18"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-f853df3f9a"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "FAIR",
+    "relation": "founding director",
+    "dates": "2013–2017",
+    "source_ids": [
+      "H18"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-7d8baf87bc"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "Meta",
+    "relation": "chief AI scientist",
+    "dates": "2018–2025",
+    "source_ids": [
+      "H18"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-9163569c1f"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "AMI Labs",
+    "relation": "executive chairman",
+    "dates": "as of September 2026",
+    "source_ids": [
+      "H18"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-39a4e71e28"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "DeepMind",
+    "relation": "co-founded",
+    "dates": "2010",
+    "source_ids": [
+      "dm01"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-0a6386c0fc"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "DeepMind",
+    "relation": "co-founded",
+    "dates": "2010",
+    "source_ids": [
+      "dm01"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-7bcd505e93"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "DeepMind",
+    "relation": "co-founded",
+    "dates": "2010",
+    "source_ids": [
+      "dm01"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-ecdde05385"
+  },
+  {
+    "source": "Eleanor Maguire",
+    "target": "Demis Hassabis",
+    "relation": "primary PhD supervisor",
+    "dates": "completed 2009",
+    "source_ids": [
+      "dm03",
+      "dm02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-5aa6977e39"
+  },
+  {
+    "source": "Geraint Rees",
+    "target": "Demis Hassabis",
+    "relation": "secondary PhD supervisor",
+    "dates": "completed 2009",
+    "source_ids": [
+      "dm03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-59c756a804"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "University College London",
+    "relation": "PhD in Cognitive Neuroscience",
+    "dates": "2005–2009",
+    "source_ids": [
+      "dm04",
+      "dm02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-f730b25773"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "University of Cambridge",
+    "relation": "BA in Computer Science",
+    "dates": "1994–1997",
+    "source_ids": [
+      "dm04",
+      "dm19"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-7cef06ba24"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Queens' College, Cambridge",
+    "relation": "undergraduate member",
+    "dates": "1994–1997",
+    "source_ids": [
+      "dm04",
+      "dm19"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-59497bcd5c"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "dm04",
+      "dm06",
+      "dm12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Exact end date not normalized: CV lists joint postdoc 2009–2010; UCL alumni roster lists Gatsby membership 2009–2012.",
+    "id": "rel-c607f3b4ee"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "dm06",
+      "dm12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Use affiliation without exact interval; UCL current alumni roster lists 2010–2011.",
+    "id": "rel-a705cde17b"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Massachusetts Institute of Technology",
+    "relation": "joint postdoctoral fellow",
+    "dates": "2009–2010",
+    "source_ids": [
+      "dm04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "McGovern Institute; no doctoral supervision implied.",
+    "id": "rel-8bd1a2285d"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Harvard University",
+    "relation": "joint postdoctoral fellow",
+    "dates": "2009–2010",
+    "source_ids": [
+      "dm04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Department of Psychology; no degree implied.",
+    "id": "rel-102673695e"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Elixir Studios",
+    "relation": "founder and CEO",
+    "dates": "1998–2005",
+    "source_ids": [
+      "dm04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-79c1cca046"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Bullfrog Productions",
+    "relation": "game developer",
+    "dates": "",
+    "source_ids": [
+      "dm04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "CV groups Bullfrog and Lionhead roles in 1993–1998; individual tenure dates deliberately omitted.",
+    "id": "rel-1d127083b8"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Lionhead Studios",
+    "relation": "founding team member; lead AI programmer",
+    "dates": "",
+    "source_ids": [
+      "dm04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Founding member is not asserted to mean corporate co-founder.",
+    "id": "rel-fc6f7e8c23"
+  },
+  {
+    "source": "Gatsby Computational Neuroscience Unit",
+    "target": "University College London",
+    "relation": "academic unit of",
+    "dates": "established July 1998",
+    "source_ids": [
+      "dm05"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-61dde1ee86"
+  },
+  {
+    "source": "Peter Dayan",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "director",
+    "dates": "2002–2017",
+    "source_ids": [
+      "dm05"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-2c2f38f61a"
+  },
+  {
+    "source": "Zoubin Ghahramani",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "faculty member",
+    "dates": "1998–2005",
+    "source_ids": [
+      "dm05"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-b1dd83a796"
+  },
+  {
+    "source": "Marcus Hutter",
+    "target": "Shane Legg",
+    "relation": "PhD supervisor",
+    "dates": "completed 2008",
+    "source_ids": [
+      "dm07",
+      "dm08"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-d7fd7c67be"
+  },
+  {
+    "source": "Jürgen Schmidhuber",
+    "target": "Shane Legg",
+    "relation": "PhD co-advisor",
+    "dates": "defence 2008",
+    "source_ids": [
+      "dm08"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "USI defence announcement explicitly uses co-advisor.",
+    "id": "rel-eea43ca63c"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "Università della Svizzera italiana",
+    "relation": "PhD",
+    "dates": "2008",
+    "source_ids": [
+      "dm07"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Degree-awarding university; do not substitute IDSIA for the degree-awarding institution.",
+    "id": "rel-c4a3c10788"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "David Silver",
+    "relation": "PhD co-supervisor",
+    "dates": "completed 2009",
+    "source_ids": [
+      "dm09"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-bbb46a5fd1"
+  },
+  {
+    "source": "Martin Müller",
+    "target": "David Silver",
+    "relation": "PhD co-supervisor",
+    "dates": "completed 2009",
+    "source_ids": [
+      "dm09"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-f32f53010e"
+  },
+  {
+    "source": "David Silver",
+    "target": "University of Alberta",
+    "relation": "PhD",
+    "dates": "2009",
+    "source_ids": [
+      "dm09"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-54bf614db8"
+  },
+  {
+    "source": "David Silver",
+    "target": "DeepMind",
+    "relation": "reinforcement-learning research lead",
+    "dates": "historical; end date not recorded",
+    "source_ids": [
+      "dm11"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-1eaf46df5e"
+  },
+  {
+    "source": "David Silver",
+    "target": "University College London",
+    "relation": "professor",
+    "dates": "profile observed 2026-10-22",
+    "source_ids": [
+      "dm11"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-cdcebfa9fb"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "University of Alberta",
+    "relation": "professor",
+    "dates": "documented 2017",
+    "source_ids": [
+      "dm12",
+      "dm10"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-fb87cef372"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "DeepMind",
+    "relation": "first scientific advisor",
+    "dates": "2010",
+    "source_ids": [
+      "dm12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-54dbcba3fc"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "DeepMind Alberta",
+    "relation": "co-led office",
+    "dates": "announced 2017-07-05",
+    "source_ids": [
+      "dm12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-e5118d141b"
+  },
+  {
+    "source": "DeepMind Alberta",
+    "target": "DeepMind",
+    "relation": "research office of",
+    "dates": "established 2017",
+    "source_ids": [
+      "dm12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-bcc89d1462"
+  },
+  {
+    "source": "DeepMind Alberta",
+    "target": "University of Alberta",
+    "relation": "research collaboration",
+    "dates": "announced 2017-07-05",
+    "source_ids": [
+      "dm12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Partnership does not imply university ownership.",
+    "id": "rel-f7fbafddfc"
+  },
+  {
+    "source": "DeepMind",
+    "target": "Google",
+    "relation": "acquired by",
+    "dates": "January 2014",
+    "source_ids": [
+      "dm20",
+      "dm02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "No acquisition price asserted.",
+    "id": "rel-4e7c255a24"
+  },
+  {
+    "source": "DeepMind",
+    "target": "Google DeepMind",
+    "relation": "combined into",
+    "dates": "2023-04-20",
+    "source_ids": [
+      "dm13",
+      "dm14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-817b672c97"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Google DeepMind",
+    "relation": "combined into",
+    "dates": "2023-04-20",
+    "source_ids": [
+      "dm13",
+      "dm14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-5b39ba490c"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Google Research",
+    "relation": "team within",
+    "dates": "at reorganization on 2023-04-20",
+    "source_ids": [
+      "dm13",
+      "dm14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-419b22d511"
+  },
+  {
+    "source": "Google DeepMind",
+    "target": "Google",
+    "relation": "research unit of",
+    "dates": "formed 2023-04-20",
+    "source_ids": [
+      "dm14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-4df33b1328"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Google DeepMind",
+    "relation": "appointed CEO",
+    "dates": "2023-04-20",
+    "source_ids": [
+      "dm14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Appointment event, not a claim about current title.",
+    "id": "rel-59f7006744"
+  },
+  {
+    "source": "Jeff Dean",
+    "target": "Google",
+    "relation": "appointed Chief Scientist",
+    "dates": "2023-04-20",
+    "source_ids": [
+      "dm14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-261a13ff73"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Google",
+    "relation": "joined in new role",
+    "dates": "2019",
+    "source_ids": [
+      "dm01"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-a45219e2b6"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Inflection AI",
+    "relation": "co-founder and former CEO",
+    "dates": "",
+    "source_ids": [
+      "dm16",
+      "dm15"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-6cb1226ec4"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Microsoft AI",
+    "relation": "appointed CEO",
+    "dates": "2024-03-19",
+    "source_ids": [
+      "dm15"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-b94d21a216"
+  },
+  {
+    "source": "Microsoft AI",
+    "target": "Microsoft",
+    "relation": "division of",
+    "dates": "announced 2024-03-19",
+    "source_ids": [
+      "dm15"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-7fabc322b8"
+  },
+  {
+    "source": "Andrew Barto",
+    "target": "Richard Sutton",
+    "relation": "PhD adviser",
+    "dates": "PhD 1984",
+    "source_ids": [
+      "R01"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-b0ff2c5bac"
+  },
+  {
+    "source": "Andrew Barto",
+    "target": "Richard Sutton",
+    "relation": "postdoctoral mentor",
+    "dates": "",
+    "source_ids": [
+      "R01"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-254323d06e"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Stanford University",
+    "relation": "BA Psychology",
+    "dates": "1978",
+    "source_ids": [
+      "R02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-faf75db501"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "University of Massachusetts Amherst",
+    "relation": "MS and PhD",
+    "dates": "MS 1980; PhD 1984",
+    "source_ids": [
+      "R02"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-1415385289"
+  },
+  {
+    "source": "Andrew Barto",
+    "target": "University of Massachusetts Amherst",
+    "relation": "faculty member",
+    "dates": "associate professor 1982; professor 1991",
+    "source_ids": [
+      "R05"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-1633968d66"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Amii",
+    "relation": "Chief Scientific Advisor",
+    "dates": "profile checked 2026-10-22",
+    "source_ids": [
+      "R03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-4108fbdca6"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "RLAI Lab",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "R03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-ec97d94ebf"
+  },
+  {
+    "source": "RLAI Lab",
+    "target": "University of Alberta",
+    "relation": "lab within",
+    "dates": "",
+    "source_ids": [
+      "R03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-66aabb0e98"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Openmind Research Institute",
+    "relation": "founder",
+    "dates": "profile checked 2026-10-22",
+    "source_ids": [
+      "R03"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-3d2ace1dba"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Keen Technologies",
+    "relation": "research partnership",
+    "dates": "2023",
+    "source_ids": [
+      "R04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-db23c6b38e"
+  },
+  {
+    "source": "John Carmack",
+    "target": "Keen Technologies",
+    "relation": "founder",
+    "dates": "2022",
+    "source_ids": [
+      "R04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-2848023223"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "John Carmack",
+    "relation": "research collaborator",
+    "dates": "2023",
+    "source_ids": [
+      "R04"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-785c973931"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "AT&T Shannon Laboratory",
+    "relation": "technical staff member",
+    "dates": "1998–2002",
+    "source_ids": [
+      "R01"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-e8dda0c8a4"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Adam White",
+    "relation": "PhD adviser",
+    "dates": "2015",
+    "source_ids": [
+      "R06"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-bf702fc1ee"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Adam White",
+    "relation": "MSc adviser",
+    "dates": "2006",
+    "source_ids": [
+      "R06"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-d30e30c219"
+  },
+  {
+    "source": "Adam White",
+    "target": "University of Alberta",
+    "relation": "MSc and PhD",
+    "dates": "2006; 2015",
+    "source_ids": [
+      "R06"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-10cd2d9fac"
+  },
+  {
+    "source": "Adam White",
+    "target": "DeepMind",
+    "relation": "research scientist",
+    "dates": "2017–2023",
+    "source_ids": [
+      "R06"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-ac92002d05"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Doina Precup",
+    "relation": "academic mentor",
+    "dates": "",
+    "source_ids": [
+      "R08"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Degree-specific supervision awaits thesis-record confirmation in this edition.",
+    "id": "rel-e798e16d74"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Cam Linke",
+    "relation": "academic mentor",
+    "dates": "",
+    "source_ids": [
+      "R08"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Do not infer a PhD from a general mentorship statement.",
+    "id": "rel-92d553ef1d"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Joseph Modayil",
+    "relation": "postdoctoral mentor",
+    "dates": "",
+    "source_ids": [
+      "R10"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-c4bfa092ec"
+  },
+  {
+    "source": "Doina Precup",
+    "target": "McGill University",
+    "relation": "faculty affiliation",
+    "dates": "profile checked 2026-10-22",
+    "source_ids": [
+      "R07"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-bdc5374b42"
+  },
+  {
+    "source": "Doina Precup",
+    "target": "Mila",
+    "relation": "research affiliation",
+    "dates": "profile checked 2026-10-22",
+    "source_ids": [
+      "R07"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-9296ee4c20"
+  },
+  {
+    "source": "Doina Precup",
+    "target": "DeepMind Montreal",
+    "relation": "research team lead",
+    "dates": "profile checked 2026-10-22",
+    "source_ids": [
+      "R07"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-e46fe5e96c"
+  },
+  {
+    "source": "DeepMind Montreal",
+    "target": "DeepMind",
+    "relation": "research office",
+    "dates": "",
+    "source_ids": [
+      "R07"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-255522ab75"
+  },
+  {
+    "source": "Michael Bowling",
+    "target": "DeepMind Alberta",
+    "relation": "co-led office",
+    "dates": "announced 2017",
+    "source_ids": [
+      "R09"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-58f03b1274"
+  },
+  {
+    "source": "Michael Bowling",
+    "target": "University of Alberta",
+    "relation": "professor",
+    "dates": "documented 2017",
+    "source_ids": [
+      "R09"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-f864f2f3f0"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Michael Bowling",
+    "relation": "Alberta Plan coauthor",
+    "dates": "2022",
+    "source_ids": [
+      "R11"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Collaboration does not imply a student–adviser relationship.",
+    "id": "rel-73c1133540"
+  },
+  {
+    "source": "Patrick Pilarski",
+    "target": "DeepMind Alberta",
+    "relation": "co-led office",
+    "dates": "announced 2017",
+    "source_ids": [
+      "R09"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-cba5146962"
+  },
+  {
+    "source": "Patrick Pilarski",
+    "target": "University of Alberta",
+    "relation": "professor",
+    "dates": "documented 2017",
+    "source_ids": [
+      "R09"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-3669015f76"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "Patrick Pilarski",
+    "relation": "Alberta Plan coauthor",
+    "dates": "2022",
+    "source_ids": [
+      "R11"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Collaboration does not imply a student–adviser relationship.",
+    "id": "rel-04fa6698ff"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Chris Maddison",
+    "relation": "MSc supervisor",
+    "dates": "2012–2014",
+    "source_ids": [
+      "R12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-d4b1f3c4cd"
+  },
+  {
+    "source": "Chris Maddison",
+    "target": "University of Toronto",
+    "relation": "MSc",
+    "dates": "2012–2014",
+    "source_ids": [
+      "R12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-347990b1cb"
+  },
+  {
+    "source": "Chris Maddison",
+    "target": "University of Oxford",
+    "relation": "DPhil",
+    "dates": "2016–2020",
+    "source_ids": [
+      "R12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-e7ff19f42e"
+  },
+  {
+    "source": "Yee Whye Teh",
+    "target": "Chris Maddison",
+    "relation": "DPhil co-supervisor",
+    "dates": "2016–2020",
+    "source_ids": [
+      "R12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-88e5298972"
+  },
+  {
+    "source": "Arnaud Doucet",
+    "target": "Chris Maddison",
+    "relation": "DPhil co-supervisor",
+    "dates": "2016–2020",
+    "source_ids": [
+      "R12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-31b253dc99"
+  },
+  {
+    "source": "Chris Maddison",
+    "target": "Google Brain",
+    "relation": "intern",
+    "dates": "2014",
+    "source_ids": [
+      "R12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-d4a01f8359"
+  },
+  {
+    "source": "Chris Maddison",
+    "target": "DeepMind",
+    "relation": "research scientist",
+    "dates": "2016–2018; later senior scientist in historical CV",
+    "source_ids": [
+      "R12"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-1bfbed0b84"
+  },
+  {
+    "source": "David Silver",
+    "target": "Arthur Guez",
+    "relation": "PhD co-supervisor",
+    "dates": "2015",
+    "source_ids": [
+      "R13"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-4240e3c21c"
+  },
+  {
+    "source": "Peter Dayan",
+    "target": "Arthur Guez",
+    "relation": "PhD co-supervisor",
+    "dates": "2015",
+    "source_ids": [
+      "R13"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-350139ee57"
+  },
+  {
+    "source": "Joelle Pineau",
+    "target": "Arthur Guez",
+    "relation": "MSc supervisor",
+    "dates": "2010",
+    "source_ids": [
+      "R13"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-e30807d230"
+  },
+  {
+    "source": "Arthur Guez",
+    "target": "University College London",
+    "relation": "PhD",
+    "dates": "2015",
+    "source_ids": [
+      "R13"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-583669df80"
+  },
+  {
+    "source": "Arthur Guez",
+    "target": "McGill University",
+    "relation": "MSc",
+    "dates": "2010",
+    "source_ids": [
+      "R13"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-6251b9ad08"
+  },
+  {
+    "source": "Arthur Guez",
+    "target": "Google DeepMind",
+    "relation": "research scientist",
+    "dates": "profile checked 2026-10-22",
+    "source_ids": [
+      "R13"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-22afd63e69"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "Koray Kavukcuoglu",
+    "relation": "PhD adviser",
+    "dates": "2010",
+    "source_ids": [
+      "R14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-9938d81180"
+  },
+  {
+    "source": "Koray Kavukcuoglu",
+    "target": "New York University",
+    "relation": "PhD",
+    "dates": "2010",
+    "source_ids": [
+      "R14"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-1f549b9e15"
+  },
+  {
+    "source": "Sam Altman",
+    "target": "OpenAI",
+    "relation": "co-chair at founding",
+    "dates": "2015",
+    "source_ids": [
+      "R16"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-3b293210dd"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "OpenAI",
+    "relation": "co-chair at founding",
+    "dates": "2015",
+    "source_ids": [
+      "R16"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-e4d86d80f9"
+  },
+  {
+    "source": "Greg Brockman",
+    "target": "OpenAI",
+    "relation": "founding CTO",
+    "dates": "2015",
+    "source_ids": [
+      "R16"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-581d8fa1c0"
+  },
+  {
+    "source": "John Schulman",
+    "target": "OpenAI",
+    "relation": "founding member",
+    "dates": "2015",
+    "source_ids": [
+      "R16"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-ceea638e01"
+  },
+  {
+    "source": "Peter Thiel",
+    "target": "OpenAI",
+    "relation": "listed founding supporter",
+    "dates": "2015",
+    "source_ids": [
+      "R16"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Funding commitment, not a claim of employment or doctoral supervision.",
+    "id": "rel-79a09a7ee4"
+  },
+  {
+    "source": "Reid Hoffman",
+    "target": "OpenAI",
+    "relation": "listed founding supporter",
+    "dates": "2015",
+    "source_ids": [
+      "R16"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Funding commitment, not a claim of employment or doctoral supervision.",
+    "id": "rel-be09049c88"
+  },
+  {
+    "source": "Andrew Ng",
+    "target": "Google Brain",
+    "relation": "founding lead",
+    "dates": "",
+    "source_ids": [
+      "R17"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-2bdcd6c05d"
+  },
+  {
+    "source": "Andrew Ng",
+    "target": "Stanford University",
+    "relation": "adjunct professor",
+    "dates": "profile checked 2026-10-22",
+    "source_ids": [
+      "R17"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-3a4e84ec7d"
+  },
+  {
+    "source": "Andrew Ng",
+    "target": "Baidu",
+    "relation": "former chief scientist",
+    "dates": "",
+    "source_ids": [
+      "R17"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-89ee7da411"
+  },
+  {
+    "source": "Dario Amodei",
+    "target": "Anthropic",
+    "relation": "cofounder",
+    "dates": "",
+    "source_ids": [
+      "R18"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-3204358ccf"
+  },
+  {
+    "source": "Daniela Amodei",
+    "target": "Anthropic",
+    "relation": "cofounder",
+    "dates": "",
+    "source_ids": [
+      "R18"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-87005ed8da"
+  },
+  {
+    "source": "John Jumper",
+    "target": "Google DeepMind",
+    "relation": "Nobel-time affiliation",
+    "dates": "2024",
+    "source_ids": [
+      "R19"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-74fc4e3c61"
+  },
+  {
+    "source": "David Baker",
+    "target": "University of Washington",
+    "relation": "Nobel-time affiliation",
+    "dates": "2024",
+    "source_ids": [
+      "R20"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-30a58afcda"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "Oriol Vinyals",
+    "relation": "seq2seq coauthor",
+    "dates": "2014",
+    "source_ids": [
+      "R21"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-5ef176d37e"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "Quoc V. Le",
+    "relation": "seq2seq coauthor",
+    "dates": "2014",
+    "source_ids": [
+      "R21"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-6ba16beff6"
+  },
+  {
+    "source": "Noam Brown",
+    "target": "OpenAI",
+    "relation": "research scientist",
+    "dates": "profile checked 2026-10-23",
+    "source_ids": [
+      "R25"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-f71f272d26"
+  },
+  {
+    "source": "Noam Brown",
+    "target": "FAIR",
+    "relation": "researcher",
+    "dates": "former role; exact interval not set",
+    "source_ids": [
+      "R25"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-ffc4c38505"
+  },
+  {
+    "source": "Noam Brown",
+    "target": "Carnegie Mellon University",
+    "relation": "PhD in computer science",
+    "dates": "completed; year not set",
+    "source_ids": [
+      "R25"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "",
+    "id": "rel-35d283a446"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "University of Cambridge",
+    "relation": "undergraduate student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      88,
+      93,
+      97,
+      103
+    ],
+    "status": "book",
+    "note": "Studied computer science; entered in 1994 and graduated in 1997.",
+    "id": "rel-477ee0a581"
+  },
+  {
+    "source": "David Silver",
+    "target": "University of Cambridge",
+    "relation": "undergraduate student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      97,
+      99,
+      100
+    ],
+    "status": "book",
+    "note": "Hassabis's fellow computer science undergraduate.",
+    "id": "rel-91b5bba476"
+  },
+  {
+    "source": "John Daugman",
+    "target": "University of Cambridge",
+    "relation": "professor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      100,
+      101
+    ],
+    "status": "book",
+    "note": "Taught information theory and computer vision; gave small-group tutorials.",
+    "id": "rel-f1a7285485"
+  },
+  {
+    "source": "John Daugman",
+    "target": "Demis Hassabis",
+    "relation": "undergraduate tutor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      100,
+      101
+    ],
+    "status": "book",
+    "note": "Hassabis attended Daugman's tutorials in his third year; not a PhD supervision relation.",
+    "id": "rel-5daa1d601e"
+  },
+  {
+    "source": "John Daugman",
+    "target": "David Silver",
+    "relation": "undergraduate tutor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      100,
+      101
+    ],
+    "status": "book",
+    "note": "Silver attended the same tutorials as Hassabis.",
+    "id": "rel-26c9e3cfbf"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "David Silver",
+    "relation": "university peers and collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      97,
+      105,
+      106
+    ],
+    "status": "book",
+    "note": "Cambridge friends later founded Elixir together.",
+    "id": "rel-94ec481b14"
+  },
+  {
+    "source": "Peter Molyneux",
+    "target": "Bullfrog Productions",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      86,
+      87
+    ],
+    "status": "book",
+    "note": "Game-company founder and Hassabis's employer.",
+    "id": "rel-f0e4efa642"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Bullfrog Productions",
+    "relation": "employee and later consultant",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      88,
+      93,
+      95
+    ],
+    "status": "book",
+    "note": "Worked on Theme Park before Cambridge; later consulting relationship.",
+    "id": "rel-c970444217"
+  },
+  {
+    "source": "Peter Molyneux",
+    "target": "Demis Hassabis",
+    "relation": "professional mentor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      88,
+      89,
+      103,
+      104
+    ],
+    "status": "book",
+    "note": "Early game-development mentor; gave him GEB.",
+    "id": "rel-01889c8b78"
+  },
+  {
+    "source": "Douglas Hofstadter",
+    "target": "Demis Hassabis",
+    "relation": "intellectual influence",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      89,
+      90,
+      122
+    ],
+    "status": "book",
+    "note": "GEB influenced Hassabis's view of cognition.",
+    "id": "rel-94cfedc487"
+  },
+  {
+    "source": "Iain M. Banks",
+    "target": "Demis Hassabis",
+    "relation": "literary influence",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      91,
+      92,
+      94,
+      134
+    ],
+    "status": "book",
+    "note": "Culture novels informed the vision of AI and society.",
+    "id": "rel-7a4c84df7a"
+  },
+  {
+    "source": "Isaac Asimov",
+    "target": "Demis Hassabis",
+    "relation": "literary influence",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      90,
+      134
+    ],
+    "status": "book",
+    "note": "Foundation series influenced his thinking.",
+    "id": "rel-16be88595f"
+  },
+  {
+    "source": "Claude Shannon",
+    "target": "Demis Hassabis",
+    "relation": "intellectual influence",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      84,
+      101
+    ],
+    "status": "book",
+    "note": "Chess and information theory influenced him.",
+    "id": "rel-9b31100a57"
+  },
+  {
+    "source": "David Levy",
+    "target": "Demis Hassabis",
+    "relation": "intellectual influence",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      83,
+      84,
+      85
+    ],
+    "status": "book",
+    "note": "Chess-computer manual shaped early programming.",
+    "id": "rel-213bb2a357"
+  },
+  {
+    "source": "Immanuel Kant",
+    "target": "Demis Hassabis",
+    "relation": "intellectual influence",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      64,
+      121,
+      122
+    ],
+    "status": "book",
+    "note": "Philosophical ideas explicitly discussed by Hassabis.",
+    "id": "rel-43d3cae99a"
+  },
+  {
+    "source": "Richard Feynman",
+    "target": "Demis Hassabis",
+    "relation": "intellectual influence",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      64,
+      69
+    ],
+    "status": "book",
+    "note": "Building to understand was an explicit exemplar.",
+    "id": "rel-ffba955021"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Elixir Studios",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      105,
+      106,
+      108
+    ],
+    "status": "book",
+    "note": "Established game studio in 1998.",
+    "id": "rel-de022cc303"
+  },
+  {
+    "source": "David Silver",
+    "target": "Elixir Studios",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      105,
+      106,
+      107
+    ],
+    "status": "book",
+    "note": "Joined Hassabis's new game studio.",
+    "id": "rel-9081f79d60"
+  },
+  {
+    "source": "Joe McDonagh",
+    "target": "Elixir Studios",
+    "relation": "founding team / designer",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      106,
+      107,
+      109
+    ],
+    "status": "book",
+    "note": "Recruited by Hassabis; subsequent page refers to three co-founders.",
+    "id": "rel-da5efaf9fa"
+  },
+  {
+    "source": "Tim Clarke",
+    "target": "Elixir Studios",
+    "relation": "founding team / programmer",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      106,
+      107,
+      111
+    ],
+    "status": "book",
+    "note": "Recruited by Hassabis; subsequent page refers to three co-founders.",
+    "id": "rel-b51720274b"
+  },
+  {
+    "source": "Peter Molyneux",
+    "target": "Elixir Studios",
+    "relation": "angel investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      108
+    ],
+    "status": "book",
+    "note": "Contributed some early funding.",
+    "id": "rel-5e1813d864"
+  },
+  {
+    "source": "Eidos Interactive",
+    "target": "Elixir Studios",
+    "relation": "financier and publisher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      110,
+      113
+    ],
+    "status": "book",
+    "note": "Provided financing by late 1998.",
+    "id": "rel-8e1feeb8d5"
+  },
+  {
+    "source": "Tim Clarke",
+    "target": "NASA",
+    "relation": "summer employee",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      106
+    ],
+    "status": "book",
+    "note": "Obtained summer work after Mars simulation program.",
+    "id": "rel-986c8e5bbb"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "University of Alberta",
+    "relation": "faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      116,
+      117
+    ],
+    "status": "book",
+    "note": "Author of reinforcement-learning textbook; Alberta computer scientist.",
+    "id": "rel-d7c9f5484b"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "David Silver",
+    "relation": "doctoral supervisor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      116,
+      117,
+      159
+    ],
+    "status": "book",
+    "note": "Silver read Sutton's textbook, applied to him for PhD, and moved to Alberta in 2004.",
+    "id": "rel-d362d104ed"
+  },
+  {
+    "source": "David Silver",
+    "target": "University of Alberta",
+    "relation": "doctoral student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      117
+    ],
+    "status": "book",
+    "note": "Moved to Alberta in 2004 for reinforcement-learning PhD.",
+    "id": "rel-f4657102c1"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "University College London",
+    "relation": "doctoral student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      118,
+      119,
+      120
+    ],
+    "status": "book",
+    "note": "Neuroscience PhD study under Maguire.",
+    "id": "rel-39fba01f17"
+  },
+  {
+    "source": "Eleanor Maguire",
+    "target": "Demis Hassabis",
+    "relation": "doctoral supervisor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      118,
+      120
+    ],
+    "status": "book",
+    "note": "Explicitly identified as PhD mentor.",
+    "id": "rel-8af4e81624"
+  },
+  {
+    "source": "Eleanor Maguire",
+    "target": "University College London",
+    "relation": "faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      118,
+      120
+    ],
+    "status": "book",
+    "note": "Supervised Hassabis in UCL neuroscience.",
+    "id": "rel-d31c066d90"
+  },
+  {
+    "source": "Dharshan Kumaran",
+    "target": "University College London",
+    "relation": "doctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      119,
+      120
+    ],
+    "status": "book",
+    "note": "Fellow neuroscience PhD researcher and medical doctor.",
+    "id": "rel-459d105d66"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Dharshan Kumaran",
+    "relation": "research collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      119,
+      120
+    ],
+    "status": "book",
+    "note": "Conducted hippocampal damage, imagination and memory research.",
+    "id": "rel-d30b642b1f"
+  },
+  {
+    "source": "Eleanor Maguire",
+    "target": "Dharshan Kumaran",
+    "relation": "research collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      120
+    ],
+    "status": "book",
+    "note": "Coauthored 2007 study; do not infer doctoral supervision solely from this passage.",
+    "id": "rel-e4eb460695"
+  },
+  {
+    "source": "Gatsby Computational Neuroscience Unit",
+    "target": "University College London",
+    "relation": "unit of",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      123
+    ],
+    "status": "book",
+    "note": "Described as UCL unit.",
+    "id": "rel-b0e60f88cd"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "founding director",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      124
+    ],
+    "status": "book",
+    "note": "Founded the centre before Dayan's leadership.",
+    "id": "rel-5bdef78b72"
+  },
+  {
+    "source": "Peter Dayan",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "director",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      123,
+      124,
+      244
+    ],
+    "status": "book",
+    "note": "Director when Hassabis joined.",
+    "id": "rel-3e0e3048a0"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      123,
+      124
+    ],
+    "status": "book",
+    "note": "Joined after PhD to explore AI and neuroscience.",
+    "id": "rel-b4b6dbf4a9"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "Gatsby Computational Neuroscience Unit",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      124,
+      126,
+      132
+    ],
+    "status": "book",
+    "note": "Joined April 2009; met Hassabis there.",
+    "id": "rel-d75a549cb4"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Massachusetts Institute of Technology",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      124,
+      125,
+      329
+    ],
+    "status": "book",
+    "note": "Held postdoctoral appointment in 2009.",
+    "id": "rel-ceeab0fd79"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Harvard University",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      124,
+      125
+    ],
+    "status": "book",
+    "note": "Book says concurrent Harvard postdoctoral appointment; adviser unspecified.",
+    "id": "rel-394ddb331c"
+  },
+  {
+    "source": "Tomaso Poggio",
+    "target": "Demis Hassabis",
+    "relation": "postdoctoral mentor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      124,
+      125
+    ],
+    "status": "book",
+    "note": "Explicit MIT postdoctoral supervision; not PhD supervision.",
+    "id": "rel-1974a621d6"
+  },
+  {
+    "source": "Tomaso Poggio",
+    "target": "Massachusetts Institute of Technology",
+    "relation": "faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      124
+    ],
+    "status": "book",
+    "note": "Computational neuroscience and machine-learning course.",
+    "id": "rel-08d08364ce"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "University of Toronto",
+    "relation": "faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      124
+    ],
+    "status": "book",
+    "note": "Toronto affiliation during MIT visit.",
+    "id": "rel-7425d8b29e"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Demis Hassabis",
+    "relation": "met / scientific contact",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      124,
+      125
+    ],
+    "status": "book",
+    "note": "Met during Hassabis's MIT stay; no doctoral-adviser claim.",
+    "id": "rel-6e6dfacf5e"
+  },
+  {
+    "source": "Marvin Minsky",
+    "target": "Massachusetts Institute of Technology",
+    "relation": "faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      125
+    ],
+    "status": "book",
+    "note": "MIT AI elder in narrative.",
+    "id": "rel-c450475ebe"
+  },
+  {
+    "source": "Patrick Winston",
+    "target": "Massachusetts Institute of Technology",
+    "relation": "faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      125
+    ],
+    "status": "book",
+    "note": "Discussed startup plan with Hassabis.",
+    "id": "rel-c2a9794847"
+  },
+  {
+    "source": "Hilary Putnam",
+    "target": "Harvard University",
+    "relation": "faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      100
+    ],
+    "status": "book",
+    "note": "Harvard philosopher quoted.",
+    "id": "rel-1b64396089"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "University of Waikato",
+    "relation": "undergraduate student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      128
+    ],
+    "status": "book",
+    "note": "Studied mathematics.",
+    "id": "rel-2454aa9090"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "University of Auckland",
+    "relation": "master's student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      128
+    ],
+    "status": "book",
+    "note": "Completed mathematics master's thesis.",
+    "id": "rel-4af4e4debc"
+  },
+  {
+    "source": "Ben Goertzel",
+    "target": "IntelliGenesis",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      128,
+      129
+    ],
+    "status": "book",
+    "note": "Founded startup in 1997.",
+    "id": "rel-044f530396"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "IntelliGenesis",
+    "relation": "employee",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      128,
+      129,
+      130
+    ],
+    "status": "book",
+    "note": "Joined late 1999; moved to New York.",
+    "id": "rel-2a7b65ef4c"
+  },
+  {
+    "source": "Ben Goertzel",
+    "target": "Shane Legg",
+    "relation": "former employer and intellectual collaborator",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      129,
+      130
+    ],
+    "status": "book",
+    "note": "Goertzel employed Legg and sought comments on AGI book.",
+    "id": "rel-9356af8134"
+  },
+  {
+    "source": "Ray Kurzweil",
+    "target": "Shane Legg",
+    "relation": "intellectual influence",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      130,
+      131
+    ],
+    "status": "book",
+    "note": "Age of Spiritual Machines motivated AI doctoral study.",
+    "id": "rel-bf8972e0f3"
+  },
+  {
+    "source": "Marcus Hutter",
+    "target": "Shane Legg",
+    "relation": "doctoral supervisor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      131,
+      135
+    ],
+    "status": "book",
+    "note": "Supervised Legg at IDSIA; collaborated on intelligence measure.",
+    "id": "rel-30609ad76e"
+  },
+  {
+    "source": "Marcus Hutter",
+    "target": "IDSIA",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      131
+    ],
+    "status": "book",
+    "note": "IDSIA researcher in Switzerland.",
+    "id": "rel-96abbf7ccc"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "IDSIA",
+    "relation": "doctoral research affiliation",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      131
+    ],
+    "status": "book",
+    "note": "Studied with Hutter; awarding university not identified here.",
+    "id": "rel-6f043bb0e6"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "DeepMind",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      76,
+      136
+    ],
+    "status": "book",
+    "note": "Agreed to found company with Hassabis in December 2009.",
+    "id": "rel-61fd6964c0"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "DeepMind",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      40,
+      64,
+      136
+    ],
+    "status": "book",
+    "note": "Founded AI company in 2010.",
+    "id": "rel-4e560eb04d"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "DeepMind",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      57,
+      136
+    ],
+    "status": "book",
+    "note": "Introduced as third member of founding team.",
+    "id": "rel-28c8cd90ae"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "University of Oxford",
+    "relation": "student; withdrew without degree",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      138,
+      139
+    ],
+    "status": "book",
+    "note": "Entered philosophy and theology; left summer 2004.",
+    "id": "rel-fc5b1ae3d4"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Queen Elizabeth's School, Barnet",
+    "relation": "student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      137
+    ],
+    "status": "book",
+    "note": "Attended before Oxford.",
+    "id": "rel-6a3b0398f5"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Reos Partners",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      140
+    ],
+    "status": "book",
+    "note": "Co-founded conflict-resolution consultancy.",
+    "id": "rel-632b0e39b4"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Muslim Youth Helpline",
+    "relation": "early nonprofit work",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      139,
+      140
+    ],
+    "status": "book",
+    "note": "Chinese text says joined friend's nonprofit; avoid inferring founder from this passage.",
+    "id": "rel-ab3650f75c"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Mayor of London's Office",
+    "relation": "employee",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      140
+    ],
+    "status": "book",
+    "note": "Previous role before technology.",
+    "id": "rel-b286bd3774"
+  },
+  {
+    "source": "George Hassabis",
+    "target": "Demis Hassabis",
+    "relation": "younger brother",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      86,
+      138
+    ],
+    "status": "book",
+    "note": "Explicit sibling relationship.",
+    "id": "rel-063d2322ef"
+  },
+  {
+    "source": "George Hassabis",
+    "target": "Mustafa Suleyman",
+    "relation": "friend and business partner",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      137,
+      138,
+      139
+    ],
+    "status": "book",
+    "note": "Childhood friendship and milkshake business.",
+    "id": "rel-c63162ec53"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Mustafa Suleyman",
+    "relation": "early property business partners",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      140
+    ],
+    "status": "book",
+    "note": "2007 property investment arrangement before DeepMind.",
+    "id": "rel-8f3367de41"
+  },
+  {
+    "source": "Reid Hoffman",
+    "target": "LinkedIn",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      66,
+      243
+    ],
+    "status": "book",
+    "note": "Editorial identification.",
+    "id": "rel-3e50d47249"
+  },
+  {
+    "source": "Nick Bostrom",
+    "target": "University of Oxford",
+    "relation": "academic affiliation",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      67
+    ],
+    "status": "book",
+    "note": "Oxford philosopher.",
+    "id": "rel-706556faff"
+  },
+  {
+    "source": "Jie Tang",
+    "target": "Tsinghua University",
+    "relation": "professor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      35
+    ],
+    "status": "book",
+    "note": "Foreword title identifies chair professor.",
+    "id": "rel-0a452c7330"
+  },
+  {
+    "source": "Jie Tang",
+    "target": "Zhipu AI",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      35
+    ],
+    "status": "book",
+    "note": "Foreword title identifies founder.",
+    "id": "rel-75c00ebff7"
+  },
+  {
+    "source": "Yang Bin",
+    "target": "Tsinghua University School of Economics and Management",
+    "relation": "professor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      25
+    ],
+    "status": "book",
+    "note": "Foreword title.",
+    "id": "rel-6f6be22b7a"
+  },
+  {
+    "source": "Tian Tao",
+    "target": "Huawei",
+    "relation": "management adviser",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      16
+    ],
+    "status": "book",
+    "note": "Foreword title.",
+    "id": "rel-97ab963942"
+  },
+  {
+    "source": "Zhou Jiangong",
+    "target": "Weijin Research",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      38
+    ],
+    "status": "book",
+    "note": "Foreword title.",
+    "id": "rel-930ed55053"
+  },
+  {
+    "source": "Bowen Zhou",
+    "target": "Shanghai Artificial Intelligence Laboratory",
+    "relation": "director and chief scientist",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      48
+    ],
+    "status": "book",
+    "note": "Endorsement attribution.",
+    "id": "rel-7cc01232d6"
+  },
+  {
+    "source": "Hu Yangzhong",
+    "target": "Hikvision",
+    "relation": "chairman",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      46
+    ],
+    "status": "book",
+    "note": "Endorsement attribution.",
+    "id": "rel-96a10e9155"
+  },
+  {
+    "source": "Dan Bin",
+    "target": "Oriental Harbor Investment",
+    "relation": "chairman",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      47
+    ],
+    "status": "book",
+    "note": "Endorsement attribution.",
+    "id": "rel-5738563b58"
+  },
+  {
+    "source": "Fang Xingdong",
+    "target": "Zhejiang University College of Media and International Culture",
+    "relation": "senior deputy dean",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      49
+    ],
+    "status": "book",
+    "note": "Endorsement attribution.",
+    "id": "rel-2313c90251"
+  },
+  {
+    "source": "Duan Yongchao",
+    "target": "Weicao Zhiku",
+    "relation": "founding partner",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      49
+    ],
+    "status": "book",
+    "note": "Endorsement attribution.",
+    "id": "rel-b3cfc76f8c"
+  },
+  {
+    "source": "Duan Yongchao",
+    "target": "Information Society 50 Forum",
+    "relation": "executive chair",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      49
+    ],
+    "status": "book",
+    "note": "Endorsement attribution.",
+    "id": "rel-e69760bed7"
+  },
+  {
+    "source": "Michael Moritz",
+    "target": "Sequoia Capital",
+    "relation": "former director",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      51
+    ],
+    "status": "book",
+    "note": "Endorsement attribution.",
+    "id": "rel-4e2458075a"
+  },
+  {
+    "source": "Google",
+    "target": "DeepMind",
+    "relation": "acquired",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      40,
+      68
+    ],
+    "status": "book",
+    "note": "2014 acquisition described.",
+    "id": "rel-10a9efbce8"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Google DeepMind",
+    "relation": "merged into",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      44
+    ],
+    "status": "book",
+    "note": "Merged with DeepMind under Hassabis.",
+    "id": "rel-7c77b21bfe"
+  },
+  {
+    "source": "DeepMind",
+    "target": "Google DeepMind",
+    "relation": "merged into",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      44,
+      54
+    ],
+    "status": "book",
+    "note": "Later merged organization/name.",
+    "id": "rel-ba7a936d12"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Google DeepMind",
+    "relation": "CEO",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      44
+    ],
+    "status": "book",
+    "note": "Led merged organization.",
+    "id": "rel-8fef6191d2"
+  },
+  {
+    "source": "Eric Schmidt",
+    "target": "Google",
+    "relation": "executive",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      38
+    ],
+    "status": "book",
+    "note": "Foreword Wuzhen account.",
+    "id": "rel-bfa2a0fc34"
+  },
+  {
+    "source": "Jeff Dean",
+    "target": "Google Brain",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      38,
+      354
+    ],
+    "status": "book",
+    "note": "Foreword Wuzhen account.",
+    "id": "rel-5cfdac2670"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Ilya Sutskever",
+    "relation": "teacher/student; degree needs external confirmation",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      42
+    ],
+    "status": "book",
+    "note": "Foreword calls Sutskever Hinton's student.",
+    "id": "rel-109edbe80d"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Alex Krizhevsky",
+    "relation": "teacher/student; degree needs external confirmation",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      42
+    ],
+    "status": "book",
+    "note": "Foreword calls Krizhevsky Hinton's student.",
+    "id": "rel-92d3feb834"
+  },
+  {
+    "source": "Peter Thiel",
+    "target": "Founders Fund",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      41
+    ],
+    "status": "book",
+    "note": "Foreword identifies fund leader.",
+    "id": "rel-a1c166b9bb"
+  },
+  {
+    "source": "Luke Nosek",
+    "target": "Founders Fund",
+    "relation": "partner",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      41,
+      182,
+      193
+    ],
+    "status": "book",
+    "note": "Foreword identifies Thiel's partner.",
+    "id": "rel-b6975702a5"
+  },
+  {
+    "source": "David Gammon",
+    "target": "DeepMind",
+    "relation": "early investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      41
+    ],
+    "status": "book",
+    "note": "Foreword describes financial backing.",
+    "id": "rel-b5928b851c"
+  },
+  {
+    "source": "Luke Nosek",
+    "target": "SpaceX",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      41
+    ],
+    "status": "book",
+    "note": "Foreword investment context.",
+    "id": "rel-b9946781e3"
+  },
+  {
+    "source": "Ray Kurzweil",
+    "target": "Singularity University",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      130
+    ],
+    "status": "book",
+    "note": "Editorial note.",
+    "id": "rel-a0e3e8c7fe"
+  },
+  {
+    "source": "Ray Kurzweil",
+    "target": "Google",
+    "relation": "engineering director",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      130
+    ],
+    "status": "book",
+    "note": "Editorial note.",
+    "id": "rel-afc945206f"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Microsoft",
+    "relation": "AI leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      141
+    ],
+    "status": "book",
+    "note": "Book interview calls Suleyman recently appointed Microsoft AI head.",
+    "id": "rel-80539fee24"
+  },
+  {
+    "source": "Sergey Brin",
+    "target": "Google",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      143,
+      212
+    ],
+    "status": "book",
+    "note": "Wired profile identified him as Google co-founder.",
+    "id": "rel-e8f59bb08e"
+  },
+  {
+    "source": "Tomaso Poggio",
+    "target": "DeepMind",
+    "relation": "early investor / funding commitment",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      146
+    ],
+    "status": "book",
+    "note": "Committed GBP100,000 to support Hassabis's startup.",
+    "id": "rel-2c614279af"
+  },
+  {
+    "source": "Peter Thiel",
+    "target": "PayPal",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      146,
+      147
+    ],
+    "status": "book",
+    "note": "Narrative identifies founder.",
+    "id": "rel-c2a13c1eac"
+  },
+  {
+    "source": "Peter Thiel",
+    "target": "Palantir",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      147
+    ],
+    "status": "book",
+    "note": "Narrative identifies founder.",
+    "id": "rel-24be55511a"
+  },
+  {
+    "source": "Peter Thiel",
+    "target": "Facebook",
+    "relation": "early investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      147
+    ],
+    "status": "book",
+    "note": "Narrative identifies early investment.",
+    "id": "rel-3242745e42"
+  },
+  {
+    "source": "Founders Fund",
+    "target": "SpaceX",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      147
+    ],
+    "status": "book",
+    "note": "2008 investment described.",
+    "id": "rel-54a5986cee"
+  },
+  {
+    "source": "Eliezer Yudkowsky",
+    "target": "Demis Hassabis",
+    "relation": "introduced to investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      148
+    ],
+    "status": "book",
+    "note": "Introduced Hassabis and Legg to Thiel at 2010 post-summit gathering.",
+    "id": "rel-8caf8b9ba3"
+  },
+  {
+    "source": "Eliezer Yudkowsky",
+    "target": "Shane Legg",
+    "relation": "professional contact",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      147,
+      148
+    ],
+    "status": "book",
+    "note": "Knew Legg through doctorate work and earlier summit; introduced him to Thiel.",
+    "id": "rel-9ef8e51f39"
+  },
+  {
+    "source": "Eliezer Yudkowsky",
+    "target": "Peter Thiel",
+    "relation": "professional contact",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      148
+    ],
+    "status": "book",
+    "note": "Six-year acquaintance; vouched for DeepMind founders.",
+    "id": "rel-6ce9c776b5"
+  },
+  {
+    "source": "Founders Fund",
+    "target": "DeepMind",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      155,
+      160,
+      193,
+      194
+    ],
+    "status": "book",
+    "note": "Invested $2.3m in December 2010 and $7.9m in December 2011 according to book.",
+    "id": "rel-ac1d74f396"
+  },
+  {
+    "source": "Luke Nosek",
+    "target": "Halcyon Molecular",
+    "relation": "president and investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      153
+    ],
+    "status": "book",
+    "note": "Narrative identifies appointment approximately a year before 2010 meeting.",
+    "id": "rel-b2b288895e"
+  },
+  {
+    "source": "Luke Nosek",
+    "target": "DeepMind",
+    "relation": "investor / board involvement",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      154,
+      155
+    ],
+    "status": "book",
+    "note": "Championed investment and insisted on board participation; check formal dates externally.",
+    "id": "rel-e4363a1764"
+  },
+  {
+    "source": "Founders Fund",
+    "target": "Halcyon Molecular",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      152,
+      153
+    ],
+    "status": "book",
+    "note": "Portfolio company visited by founders.",
+    "id": "rel-faa5ac6f7a"
+  },
+  {
+    "source": "Founders Fund",
+    "target": "Palantir",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      152
+    ],
+    "status": "book",
+    "note": "Portfolio company visited by founders.",
+    "id": "rel-39efbb809a"
+  },
+  {
+    "source": "David Silver",
+    "target": "University College London",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      158
+    ],
+    "status": "book",
+    "note": "Returned from Canada to postdoctoral appointment.",
+    "id": "rel-7c8a7331dd"
+  },
+  {
+    "source": "David Silver",
+    "target": "DeepMind",
+    "relation": "early part-time consultant",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      158,
+      159
+    ],
+    "status": "book",
+    "note": "Initially consulted rather than joining full time.",
+    "id": "rel-82b08a3158"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "DeepMind",
+    "relation": "scientific adviser",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      159
+    ],
+    "status": "book",
+    "note": "Accepted senior advisory role at startup.",
+    "id": "rel-fcf14241bd"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "DeepMind",
+    "relation": "scientific adviser",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      159
+    ],
+    "status": "book",
+    "note": "Accepted collaboration/advisory relationship alongside Hinton.",
+    "id": "rel-e819fdb14d"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "New York University",
+    "relation": "faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      159
+    ],
+    "status": "book",
+    "note": "NYU AI pioneer; declined early DeepMind recruitment/advising.",
+    "id": "rel-ef0851effa"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "OpenAI",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      159
+    ],
+    "status": "book",
+    "note": "Identified retrospectively as OpenAI co-founder.",
+    "id": "rel-378f604639"
+  },
+  {
+    "source": "Dharshan Kumaran",
+    "target": "DeepMind",
+    "relation": "early full-time researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      159
+    ],
+    "status": "book",
+    "note": "Only full-time AI/neuroscience scientist joining in first half-year per narrative.",
+    "id": "rel-43a1184e0b"
+  },
+  {
+    "source": "Daan Wierstra",
+    "target": "DeepMind",
+    "relation": "early researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      159,
+      160
+    ],
+    "status": "book",
+    "note": "Joined September 2011.",
+    "id": "rel-68e96b9d12"
+  },
+  {
+    "source": "Daan Wierstra",
+    "target": "Shane Legg",
+    "relation": "graduate-school friends",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      160
+    ],
+    "status": "book",
+    "note": "Described as close friends from graduate school.",
+    "id": "rel-1725c2c284"
+  },
+  {
+    "source": "Jaan Tallinn",
+    "target": "Skype",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      160,
+      194
+    ],
+    "status": "book",
+    "note": "Narrative explicitly identifies.",
+    "id": "rel-4b57d6143f"
+  },
+  {
+    "source": "Jaan Tallinn",
+    "target": "DeepMind",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      160,
+      194,
+      202
+    ],
+    "status": "book",
+    "note": "Invested approximately $2m in 2011 financing.",
+    "id": "rel-c6a363ee82"
+  },
+  {
+    "source": "Cameron Gammon",
+    "target": "David Gammon",
+    "relation": "son",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      151,
+      152
+    ],
+    "status": "book",
+    "note": "Youngest child on family investment committee.",
+    "id": "rel-adfbf0472e"
+  },
+  {
+    "source": "Helen King",
+    "target": "DeepMind",
+    "relation": "first project manager",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      163
+    ],
+    "status": "book",
+    "note": "Narrative explicitly identifies first project-manager hire.",
+    "id": "rel-8368a0edbd"
+  },
+  {
+    "source": "Trevor Back",
+    "target": "DeepMind",
+    "relation": "project lead",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      163
+    ],
+    "status": "book",
+    "note": "Led fashion recommendation team.",
+    "id": "rel-acfd2a32c9"
+  },
+  {
+    "source": "Fei-Fei Li",
+    "target": "Stanford University",
+    "relation": "faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      164
+    ],
+    "status": "book",
+    "note": "Explicit Stanford affiliation.",
+    "id": "rel-4cbd8350ae"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Alex Krizhevsky",
+    "relation": "graduate supervisor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      164
+    ],
+    "status": "book",
+    "note": "Krizhevsky called Hinton's graduate student; degree level should be checked separately.",
+    "id": "rel-5d02ad8859"
+  },
+  {
+    "source": "Volodymyr Mnih",
+    "target": "University of Toronto",
+    "relation": "undergraduate and PhD student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      165,
+      168,
+      169
+    ],
+    "status": "book",
+    "note": "Book describes undergraduate study followed by return from Alberta for doctorate in 2008.",
+    "id": "rel-6a5d68b3fc"
+  },
+  {
+    "source": "Volodymyr Mnih",
+    "target": "University of Alberta",
+    "relation": "master's student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      165,
+      167,
+      168
+    ],
+    "status": "book",
+    "note": "Obtained master's in 2008 before Toronto doctorate.",
+    "id": "rel-45bb47409c"
+  },
+  {
+    "source": "Csaba Szepesvári",
+    "target": "Volodymyr Mnih",
+    "relation": "master's supervisor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      167,
+      168
+    ],
+    "status": "book",
+    "note": "Graduate mentor in Alberta; next page explicitly says this phase ended with master's degree.",
+    "id": "rel-0fabb397dd"
+  },
+  {
+    "source": "Csaba Szepesvári",
+    "target": "University of Alberta",
+    "relation": "faculty / graduate supervisor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      167
+    ],
+    "status": "book",
+    "note": "Supervised Mnih's Alberta work.",
+    "id": "rel-f3aae9999e"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Volodymyr Mnih",
+    "relation": "doctoral supervisor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      168,
+      169,
+      200
+    ],
+    "status": "book",
+    "note": "Explicitly called Hinton's new PhD student on 2008 return.",
+    "id": "rel-d47f5b7fef"
+  },
+  {
+    "source": "Andriy Mnih",
+    "target": "Volodymyr Mnih",
+    "relation": "older brother",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      169
+    ],
+    "status": "book",
+    "note": "Explicit sibling relationship.",
+    "id": "rel-7eb452bb59"
+  },
+  {
+    "source": "Andriy Mnih",
+    "target": "University College London",
+    "relation": "postdoctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      169
+    ],
+    "status": "book",
+    "note": "Knew Legg while working at UCL.",
+    "id": "rel-396cfb25cc"
+  },
+  {
+    "source": "Andriy Mnih",
+    "target": "Shane Legg",
+    "relation": "professional contact",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      169
+    ],
+    "status": "book",
+    "note": "Acquainted through UCL; vouched for DeepMind to brother.",
+    "id": "rel-fa8ed87f42"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "Volodymyr Mnih",
+    "relation": "recruiter / research contact",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      169,
+      170
+    ],
+    "status": "book",
+    "note": "Approached Mnih at 2012 Scotland AI meeting.",
+    "id": "rel-09372e2cc5"
+  },
+  {
+    "source": "Daan Wierstra",
+    "target": "Volodymyr Mnih",
+    "relation": "recruiter / research contact",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      169,
+      170
+    ],
+    "status": "book",
+    "note": "Approached Mnih with Legg; discussed combining deep learning and RL.",
+    "id": "rel-2eb4b7e023"
+  },
+  {
+    "source": "Volodymyr Mnih",
+    "target": "DeepMind",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      172
+    ],
+    "status": "book",
+    "note": "Joined in May 2013, on the same day Silver became full-time.",
+    "id": "rel-35dd24afa7"
+  },
+  {
+    "source": "David Silver",
+    "target": "DeepMind",
+    "relation": "joined full-time",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      172
+    ],
+    "status": "book",
+    "note": "Became full-time in May 2013.",
+    "id": "rel-f0a9e4d3aa"
+  },
+  {
+    "source": "Chris Summerfield",
+    "target": "DeepMind neuroscience team",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      172
+    ],
+    "status": "book",
+    "note": "Named with Kumaran in the neuroscience team.",
+    "id": "rel-bdb89b159c"
+  },
+  {
+    "source": "Dharshan Kumaran",
+    "target": "DeepMind neuroscience team",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      172
+    ],
+    "status": "book",
+    "note": "Named with Summerfield in neuroscience work.",
+    "id": "rel-3a48a8ef88"
+  },
+  {
+    "source": "DeepMind neuroscience team",
+    "target": "DeepMind",
+    "relation": "part of",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      172
+    ],
+    "status": "book",
+    "note": "Neuroscience group within DeepMind.",
+    "id": "rel-c3bb1916e9"
+  },
+  {
+    "source": "Daan Wierstra",
+    "target": "DeepMind",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      172
+    ],
+    "status": "book",
+    "note": "Participates in DeepMind's research.",
+    "id": "rel-cec693f9a1"
+  },
+  {
+    "source": "Koray Kavukcuoglu",
+    "target": "DeepMind",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      174,
+      207
+    ],
+    "status": "book",
+    "note": "Contributes to DQN and remains at DeepMind after a Facebook offer.",
+    "id": "rel-75d7215057"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "Koray Kavukcuoglu",
+    "relation": "mentored / former group member",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      174,
+      207
+    ],
+    "status": "book",
+    "note": "Book describes Kavukcuoglu as coming from LeCun's team; precise degree status requires primary verification.",
+    "id": "rel-ba7feb02fb"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "DeepMind",
+    "relation": "adviser",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      200
+    ],
+    "status": "book",
+    "note": "Book describes Hinton advising DeepMind.",
+    "id": "rel-574458ee98"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "David Silver",
+    "relation": "doctoral mentor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      178,
+      223
+    ],
+    "status": "book",
+    "note": "Sutton is identified as Silver's PhD mentor; other co-supervisors may exist.",
+    "id": "rel-745bafa2bd"
+  },
+  {
+    "source": "Peter Thiel",
+    "target": "Founders Fund",
+    "relation": "partner",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      188,
+      193
+    ],
+    "status": "book",
+    "note": "Founders Fund partner in funding discussions.",
+    "id": "rel-23b7ab7ef2"
+  },
+  {
+    "source": "Brian Singerman",
+    "target": "Founders Fund",
+    "relation": "partner",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      193
+    ],
+    "status": "book",
+    "note": "Described as a partner.",
+    "id": "rel-ca80affd49"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "DeepMind",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      194,
+      199,
+      475
+    ],
+    "status": "book",
+    "note": "Participated in funding described in the book.",
+    "id": "rel-2b24adfb79"
+  },
+  {
+    "source": "David Gammon",
+    "target": "DeepMind",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      194
+    ],
+    "status": "book",
+    "note": "Named as a backer.",
+    "id": "rel-ecbd9bc678"
+  },
+  {
+    "source": "Tomaso Poggio",
+    "target": "DeepMind",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      194
+    ],
+    "status": "book",
+    "note": "Named as a backer together with his wife.",
+    "id": "rel-5a1b47a848"
+  },
+  {
+    "source": "Solina Chau",
+    "target": "DeepMind",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      196,
+      199
+    ],
+    "status": "book",
+    "note": "Backed the company during fundraising.",
+    "id": "rel-bf93eb69a4"
+  },
+  {
+    "source": "Solina Chau",
+    "target": "Li Ka-shing",
+    "relation": "wealth-management associate",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      196
+    ],
+    "status": "book",
+    "note": "Book associates Chau's investment work with Li's wealth.",
+    "id": "rel-9cba0b327a"
+  },
+  {
+    "source": "Larry Page",
+    "target": "Google",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      182,
+      212
+    ],
+    "status": "book",
+    "note": "Identified as Google co-founder.",
+    "id": "rel-af4d23a171"
+  },
+  {
+    "source": "Alan Eustace",
+    "target": "Google",
+    "relation": "engineering executive",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      189
+    ],
+    "status": "book",
+    "note": "Google executive in early acquisition discussions.",
+    "id": "rel-ff208c7c28"
+  },
+  {
+    "source": "Patrick Pichette",
+    "target": "Google",
+    "relation": "chief financial officer",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      190,
+      488
+    ],
+    "status": "book",
+    "note": "Identified as Google CFO.",
+    "id": "rel-880a008006"
+  },
+  {
+    "source": "Don Harrison",
+    "target": "Google",
+    "relation": "executive / acquisition negotiator",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      210,
+      211
+    ],
+    "status": "book",
+    "note": "Represented Google in the acquisition process.",
+    "id": "rel-7a96a00fd6"
+  },
+  {
+    "source": "Mark Zuckerberg",
+    "target": "Facebook",
+    "relation": "founder / executive",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      204,
+      205
+    ],
+    "status": "book",
+    "note": "Leads Facebook in acquisition discussions.",
+    "id": "rel-1290b6ce5a"
+  },
+  {
+    "source": "Amin Zoufonoun",
+    "target": "Facebook",
+    "relation": "corporate development executive",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      205
+    ],
+    "status": "book",
+    "note": "Represents Facebook corporate development.",
+    "id": "rel-3be308d368"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "FAIR",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      206,
+      207
+    ],
+    "status": "book",
+    "note": "Joined Facebook in 2013 to lead AI research.",
+    "id": "rel-765ca9299c"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "New York University",
+    "relation": "professor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      206,
+      207
+    ],
+    "status": "book",
+    "note": "Retained academic position while joining Facebook.",
+    "id": "rel-e8b1158368"
+  },
+  {
+    "source": "FAIR",
+    "target": "Facebook",
+    "relation": "part of",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      206,
+      207
+    ],
+    "status": "book",
+    "note": "Facebook AI research organization.",
+    "id": "rel-e1a61c86b4"
+  },
+  {
+    "source": "DeepMind",
+    "target": "Google",
+    "relation": "acquired by",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      212
+    ],
+    "status": "book",
+    "note": "Acquisition announced in January 2014.",
+    "id": "rel-c1a444dd0c"
+  },
+  {
+    "source": "David Silver",
+    "target": "Aja Huang",
+    "relation": "recruited",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      218
+    ],
+    "status": "book",
+    "note": "Recruited Huang to DeepMind in 2012.",
+    "id": "rel-34f2279b93"
+  },
+  {
+    "source": "Aja Huang",
+    "target": "DeepMind",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      218
+    ],
+    "status": "book",
+    "note": "Joined in 2012 for computer Go work.",
+    "id": "rel-91705731f2"
+  },
+  {
+    "source": "Chris Maddison",
+    "target": "Google",
+    "relation": "intern",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      219
+    ],
+    "status": "book",
+    "note": "Described as a Google intern before the London visit.",
+    "id": "rel-bfdf5dbe84"
+  },
+  {
+    "source": "Chris Maddison",
+    "target": "DeepMind",
+    "relation": "research visitor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      220
+    ],
+    "status": "book",
+    "note": "Spent approximately three months with the team.",
+    "id": "rel-f93b52c9fb"
+  },
+  {
+    "source": "Arthur Guez",
+    "target": "University College London",
+    "relation": "doctoral researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      224
+    ],
+    "status": "book",
+    "note": "Book identifies a UCL PhD connection.",
+    "id": "rel-080033804f"
+  },
+  {
+    "source": "David Silver",
+    "target": "Arthur Guez",
+    "relation": "doctoral supervisor (book names one)",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      224
+    ],
+    "status": "book",
+    "note": "Book names Silver; primary evidence also identifies Peter Dayan as co-supervisor.",
+    "id": "rel-8cf513588b"
+  },
+  {
+    "source": "Thore Graepel",
+    "target": "Microsoft",
+    "relation": "former researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      225
+    ],
+    "status": "book",
+    "note": "Worked at Microsoft before DeepMind.",
+    "id": "rel-6de93865d0"
+  },
+  {
+    "source": "Thore Graepel",
+    "target": "DeepMind",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      225
+    ],
+    "status": "book",
+    "note": "Joined in April 2015.",
+    "id": "rel-1570952fe4"
+  },
+  {
+    "source": "Fan Hui",
+    "target": "DeepMind",
+    "relation": "contributor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      231,
+      234
+    ],
+    "status": "book",
+    "note": "Became involved after the initial AlphaGo test match.",
+    "id": "rel-ad3968e179"
+  },
+  {
+    "source": "Jeff Dean",
+    "target": "Google",
+    "relation": "AI / engineering leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      207,
+      301,
+      316
+    ],
+    "status": "book",
+    "note": "Google engineering and later AI leadership.",
+    "id": "rel-7e2c57afd6"
+  },
+  {
+    "source": "Eric Schmidt",
+    "target": "Google",
+    "relation": "chairman during described events",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      231,
+      232
+    ],
+    "status": "book",
+    "note": "Attended AlphaGo events as Google chairman.",
+    "id": "rel-01c4c03e8b"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "SpaceX",
+    "relation": "founder / leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      182,
+      237
+    ],
+    "status": "book",
+    "note": "SpaceX founder and leader.",
+    "id": "rel-7307a5aca6"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Tesla",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      209,
+      238
+    ],
+    "status": "book",
+    "note": "Tesla leadership in the period described.",
+    "id": "rel-bdaf3835cf"
+  },
+  {
+    "source": "Sam Altman",
+    "target": "Y Combinator",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      238,
+      239
+    ],
+    "status": "book",
+    "note": "Led the startup accelerator.",
+    "id": "rel-c91e5e842a"
+  },
+  {
+    "source": "Sam Altman",
+    "target": "OpenAI",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      247
+    ],
+    "status": "book",
+    "note": "Among OpenAI founders.",
+    "id": "rel-fac9f770f4"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "OpenAI",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      247
+    ],
+    "status": "book",
+    "note": "Among OpenAI founders.",
+    "id": "rel-bd3011372f"
+  },
+  {
+    "source": "Reid Hoffman",
+    "target": "OpenAI",
+    "relation": "supporter",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      247
+    ],
+    "status": "book",
+    "note": "Supported the founding effort.",
+    "id": "rel-2c82ef0204"
+  },
+  {
+    "source": "Max Tegmark",
+    "target": "Massachusetts Institute of Technology",
+    "relation": "physicist",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      238
+    ],
+    "status": "book",
+    "note": "Editorial note identifies MIT affiliation.",
+    "id": "rel-bbec7db8af"
+  },
+  {
+    "source": "Max Tegmark",
+    "target": "Future of Life Institute",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      238
+    ],
+    "status": "book",
+    "note": "Editorial note identifies co-founder role.",
+    "id": "rel-00edd8ab0b"
+  },
+  {
+    "source": "Toby Ord",
+    "target": "University of Oxford",
+    "relation": "philosopher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      244
+    ],
+    "status": "book",
+    "note": "Oxford philosopher attending safety discussion.",
+    "id": "rel-6bbf9201d9"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "DeepMind Applied",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      249
+    ],
+    "status": "book",
+    "note": "Led the applied division.",
+    "id": "rel-428e274776"
+  },
+  {
+    "source": "DeepMind Applied",
+    "target": "DeepMind",
+    "relation": "part of",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      249
+    ],
+    "status": "book",
+    "note": "Applied division of DeepMind.",
+    "id": "rel-6b3c77a8c4"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "University of Oxford",
+    "relation": "attended; left before completion",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      250
+    ],
+    "status": "book",
+    "note": "Early study at Oxford followed by departure.",
+    "id": "rel-c78ab6bdf3"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Muslim Youth Helpline",
+    "relation": "co-founder / early work",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      250
+    ],
+    "status": "book",
+    "note": "Early youth-support work described in biography.",
+    "id": "rel-d5e3793840"
+  },
+  {
+    "source": "Chris Laing",
+    "target": "Royal Free Hospital",
+    "relation": "physician",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      252,
+      253
+    ],
+    "status": "book",
+    "note": "Hospital physician collaborating on clinical software.",
+    "id": "rel-fb836ccfb7"
+  },
+  {
+    "source": "Chris Laing",
+    "target": "DeepMind Health",
+    "relation": "clinical collaborator",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      252,
+      253,
+      264
+    ],
+    "status": "book",
+    "note": "Collaborated on healthcare work; no employee status inferred.",
+    "id": "rel-58c1a0f8a2"
+  },
+  {
+    "source": "Dominic King",
+    "target": "DeepMind Health",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      254
+    ],
+    "status": "book",
+    "note": "Recruited in 2015 to lead healthcare work.",
+    "id": "rel-58b9dca742"
+  },
+  {
+    "source": "DeepMind Health",
+    "target": "DeepMind",
+    "relation": "part of historically",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      254,
+      258
+    ],
+    "status": "book",
+    "note": "Healthcare initiative within DeepMind.",
+    "id": "rel-1ccef1a087"
+  },
+  {
+    "source": "Moorfields Eye Hospital",
+    "target": "DeepMind Health",
+    "relation": "research collaborator",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      254,
+      264
+    ],
+    "status": "book",
+    "note": "Collaborated on retinal diagnosis research.",
+    "id": "rel-ba43c95180"
+  },
+  {
+    "source": "Pearse Keane",
+    "target": "University College London",
+    "relation": "clinical academic",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      264
+    ],
+    "status": "book",
+    "note": "Identified as UCL lecturer.",
+    "id": "rel-9c8be2a6ee"
+  },
+  {
+    "source": "Pearse Keane",
+    "target": "DeepMind Health",
+    "relation": "clinical research collaborator",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      264
+    ],
+    "status": "book",
+    "note": "Collaborated on retinal imaging research.",
+    "id": "rel-8dce493715"
+  },
+  {
+    "source": "Dario Amodei",
+    "target": "Anthropic",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      264,
+      348,
+      369
+    ],
+    "status": "book",
+    "note": "Identified as company founder.",
+    "id": "rel-7cbf1bb5ef"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "DeepMind Alberta",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      271
+    ],
+    "status": "book",
+    "note": "Joined the new Edmonton office.",
+    "id": "rel-e795199f62"
+  },
+  {
+    "source": "DeepMind Alberta",
+    "target": "DeepMind",
+    "relation": "part of",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      271
+    ],
+    "status": "book",
+    "note": "New Edmonton research office.",
+    "id": "rel-462a093fb5"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "Google",
+    "relation": "researcher historically",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      219,
+      274,
+      277
+    ],
+    "status": "book",
+    "note": "Worked at Google before OpenAI.",
+    "id": "rel-b687525d9c"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "OpenAI",
+    "relation": "research leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      277
+    ],
+    "status": "book",
+    "note": "Joined as research leader at founding.",
+    "id": "rel-fd11f6ff41"
+  },
+  {
+    "source": "Oriol Vinyals",
+    "target": "Google",
+    "relation": "researcher historically",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      274
+    ],
+    "status": "book",
+    "note": "Sequence-to-sequence research with Sutskever and Le.",
+    "id": "rel-09aef01b22"
+  },
+  {
+    "source": "Quoc V. Le",
+    "target": "Google",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      274
+    ],
+    "status": "book",
+    "note": "Sequence-to-sequence research with Sutskever and Vinyals.",
+    "id": "rel-7ff0a954ea"
+  },
+  {
+    "source": "Yoshua Bengio",
+    "target": "Université de Montréal",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      276
+    ],
+    "status": "book",
+    "note": "Montreal affiliation in attention research discussion.",
+    "id": "rel-3b702ec7a8"
+  },
+  {
+    "source": "Alec Radford",
+    "target": "OpenAI",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      280,
+      281,
+      282
+    ],
+    "status": "book",
+    "note": "Developed early language-model work.",
+    "id": "rel-0557e7bc77"
+  },
+  {
+    "source": "Marc'Aurelio Ranzato",
+    "target": "Facebook",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      289
+    ],
+    "status": "book",
+    "note": "Described as working at Facebook.",
+    "id": "rel-a54fd174d6"
+  },
+  {
+    "source": "Jack Rae",
+    "target": "DeepMind",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      289
+    ],
+    "status": "book",
+    "note": "DeepMind language-model research advocacy.",
+    "id": "rel-2af7c067b6"
+  },
+  {
+    "source": "Drew Purves",
+    "target": "DeepMind",
+    "relation": "computational ecology researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      290,
+      291
+    ],
+    "status": "book",
+    "note": "Led Gaia initiative.",
+    "id": "rel-023801f197"
+  },
+  {
+    "source": "Richard Hamming",
+    "target": "AT&T Bell Laboratories",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      280
+    ],
+    "status": "book",
+    "note": "Bell Labs affiliation in anecdote; speech date not accepted without checking.",
+    "id": "rel-b98e69fd7c"
+  },
+  {
+    "source": "Jim Simons",
+    "target": "Renaissance Technologies",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      302
+    ],
+    "status": "book",
+    "note": "Founded quantitative investment firm.",
+    "id": "rel-691e27de59"
+  },
+  {
+    "source": "Peter Brown",
+    "target": "Renaissance Technologies",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      302
+    ],
+    "status": "book",
+    "note": "Described as leader at the firm.",
+    "id": "rel-b77ef7aa1a"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Peter Brown",
+    "relation": "mentor / pupil relationship",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      302
+    ],
+    "status": "book",
+    "note": "Book calls Brown Hinton's pupil; no degree relationship inferred.",
+    "id": "rel-b75cdf938d"
+  },
+  {
+    "source": "Sundar Pichai",
+    "target": "Google",
+    "relation": "chief executive",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      302,
+      316
+    ],
+    "status": "book",
+    "note": "Google CEO during governance discussions.",
+    "id": "rel-6ab6c3fb76"
+  },
+  {
+    "source": "Sundar Pichai",
+    "target": "Wharton School",
+    "relation": "MBA alumnus",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      302
+    ],
+    "status": "book",
+    "note": "Book identifies a Wharton MBA.",
+    "id": "rel-d56a799e74"
+  },
+  {
+    "source": "David Drummond",
+    "target": "Google",
+    "relation": "chief legal officer",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      303,
+      309
+    ],
+    "status": "book",
+    "note": "Legal executive involved in DeepMind governance talks.",
+    "id": "rel-d6e6e6181a"
+  },
+  {
+    "source": "Kent Walker",
+    "target": "Alphabet",
+    "relation": "legal and policy executive",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      307
+    ],
+    "status": "book",
+    "note": "Alphabet legal/policy role.",
+    "id": "rel-9e55017698"
+  },
+  {
+    "source": "Angela Kane",
+    "target": "United Nations",
+    "relation": "former official",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      307
+    ],
+    "status": "book",
+    "note": "UN career background; proposed DeepMind appointment did not establish employment.",
+    "id": "rel-77358c5c58"
+  },
+  {
+    "source": "Jim Gao",
+    "target": "Google",
+    "relation": "engineer historically",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      310
+    ],
+    "status": "book",
+    "note": "Google engineer before DeepMind applied work.",
+    "id": "rel-faefbb4815"
+  },
+  {
+    "source": "Jim Gao",
+    "target": "DeepMind Applied",
+    "relation": "research / engineering staff",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      310,
+      321
+    ],
+    "status": "book",
+    "note": "Joined applied energy work; later left in 2019.",
+    "id": "rel-b9cde6dcac"
+  },
+  {
+    "source": "Greg Brockman",
+    "target": "OpenAI",
+    "relation": "co-founder / operating leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      312,
+      313
+    ],
+    "status": "book",
+    "note": "Leadership role in OpenAI.",
+    "id": "rel-3884df8c0c"
+  },
+  {
+    "source": "John Giannandrea",
+    "target": "Google",
+    "relation": "AI executive historically",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      316
+    ],
+    "status": "book",
+    "note": "Worked at Google before Apple.",
+    "id": "rel-172917c216"
+  },
+  {
+    "source": "John Giannandrea",
+    "target": "Apple",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      316
+    ],
+    "status": "book",
+    "note": "Moved to Apple in April 2018.",
+    "id": "rel-c903506ce7"
+  },
+  {
+    "source": "Ruth Barnett",
+    "target": "DeepMind",
+    "relation": "communications director",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      320
+    ],
+    "status": "book",
+    "note": "Identified as communications director.",
+    "id": "rel-fec42e0187"
+  },
+  {
+    "source": "Kay Coles James",
+    "target": "The Heritage Foundation",
+    "relation": "president",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      322
+    ],
+    "status": "book",
+    "note": "Identified as Heritage Foundation leader.",
+    "id": "rel-6aa4bd7380"
+  },
+  {
+    "source": "Kay Coles James",
+    "target": "Advanced Technology External Advisory Council",
+    "relation": "appointed member",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      322
+    ],
+    "status": "book",
+    "note": "Invited to Google's council in 2019; council soon disbanded.",
+    "id": "rel-8550e8c515"
+  },
+  {
+    "source": "Advanced Technology External Advisory Council",
+    "target": "Google",
+    "relation": "advisory council",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      322
+    ],
+    "status": "book",
+    "note": "Short-lived Google advisory council.",
+    "id": "rel-40c796f396"
+  },
+  {
+    "source": "David Baker",
+    "target": "University of Washington",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      329,
+      331
+    ],
+    "status": "book",
+    "note": "Protein researcher at Washington.",
+    "id": "rel-f071634aa3"
+  },
+  {
+    "source": "Baker Laboratory",
+    "target": "University of Washington",
+    "relation": "laboratory at",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      331
+    ],
+    "status": "book",
+    "note": "Baker's research group at Washington.",
+    "id": "rel-d2f18629e4"
+  },
+  {
+    "source": "Marek Barwinski",
+    "target": "DeepMind",
+    "relation": "protein-folding team researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      330
+    ],
+    "status": "book",
+    "note": "Named in early protein-folding work.",
+    "id": "rel-3e2aa1a545"
+  },
+  {
+    "source": "Andrew Senior",
+    "target": "DeepMind",
+    "relation": "protein-folding team leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      331,
+      332
+    ],
+    "status": "book",
+    "note": "Led protein-folding team from 2016.",
+    "id": "rel-8b99f1fdf7"
+  },
+  {
+    "source": "John Jumper",
+    "target": "D. E. Shaw Research",
+    "relation": "former researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      332
+    ],
+    "status": "book",
+    "note": "Worked for three years before doctoral study.",
+    "id": "rel-b2d7ffa27c"
+  },
+  {
+    "source": "John Jumper",
+    "target": "University of Chicago",
+    "relation": "doctoral alumnus",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      332,
+      333
+    ],
+    "status": "book",
+    "note": "Chicago doctoral research described.",
+    "id": "rel-a95bb07910"
+  },
+  {
+    "source": "John Jumper",
+    "target": "DeepMind",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      332
+    ],
+    "status": "book",
+    "note": "Joined in October 2017.",
+    "id": "rel-8a1f83b71a"
+  },
+  {
+    "source": "Andrew Senior",
+    "target": "John Jumper",
+    "relation": "recruited",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      332
+    ],
+    "status": "book",
+    "note": "Recruited Jumper to the protein-folding team.",
+    "id": "rel-0d6ee9fc45"
+  },
+  {
+    "source": "Oriol Vinyals",
+    "target": "DeepMind",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      295
+    ],
+    "status": "book",
+    "note": "Joined DeepMind in 2016.",
+    "id": "rel-abe1bf5c8d"
+  },
+  {
+    "source": "Oriol Vinyals",
+    "target": "David Silver",
+    "relation": "research collaborator",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      295,
+      297
+    ],
+    "status": "book",
+    "note": "Co-led the AlphaStar research effort.",
+    "id": "rel-a8fef2b09f"
+  },
+  {
+    "source": "Microsoft",
+    "target": "OpenAI",
+    "relation": "investor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      298
+    ],
+    "status": "book",
+    "note": "Book describes Microsoft's 2019 investment.",
+    "id": "rel-52762e8cea"
+  },
+  {
+    "source": "LinkedIn",
+    "target": "Microsoft",
+    "relation": "acquired by",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      306
+    ],
+    "status": "book",
+    "note": "Hoffman's sale of LinkedIn to Microsoft is mentioned.",
+    "id": "rel-b200fdebe9"
+  },
+  {
+    "source": "Reid Hoffman",
+    "target": "Greylock",
+    "relation": "partner",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      307
+    ],
+    "status": "book",
+    "note": "Book identifies Greylock as his venture-capital firm.",
+    "id": "rel-b47f1e65b1"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Google",
+    "relation": "research group within",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      314
+    ],
+    "status": "book",
+    "note": "Named as Google's research organization.",
+    "id": "rel-fe5a67508f"
+  },
+  {
+    "source": "DeepMind Health",
+    "target": "Google",
+    "relation": "team transferred",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      317,
+      321
+    ],
+    "status": "book",
+    "note": "Book describes transfer announced in November 2018 and subsequent handover; do not equate announcement with exact completion date.",
+    "id": "rel-ad3f7fcfad"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Google",
+    "relation": "vice president",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      322
+    ],
+    "status": "book",
+    "note": "Joined Google in late 2019 following departure from DeepMind.",
+    "id": "rel-236f54b4e4"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Google DeepMind",
+    "relation": "chief executive",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      323
+    ],
+    "status": "book",
+    "note": "Book identifies him as CEO following combined research organization.",
+    "id": "rel-ebe07d68a7"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Microsoft AI",
+    "relation": "chief executive",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      323
+    ],
+    "status": "book",
+    "note": "Book identifies his later CEO position.",
+    "id": "rel-8f5fe9c4ee"
+  },
+  {
+    "source": "David Baker",
+    "target": "Baker Laboratory",
+    "relation": "research group leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      329,
+      331
+    ],
+    "status": "book",
+    "note": "Protein research group named for Baker.",
+    "id": "rel-21017702f9"
+  },
+  {
+    "source": "John Jumper",
+    "target": "DeepMind",
+    "relation": "protein-team leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      341
+    ],
+    "status": "book",
+    "note": "Hassabis appointed Jumper to lead the enlarged AlphaFold group after 2018 CASP.",
+    "id": "rel-aa1eb617fb"
+  },
+  {
+    "source": "Andrew Senior",
+    "target": "DeepMind",
+    "relation": "earlier protein-team leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      336,
+      341
+    ],
+    "status": "book",
+    "note": "Led team before Jumper; stepped back when leadership changed.",
+    "id": "rel-0a89faf0bd"
+  },
+  {
+    "source": "Clemens Meyer",
+    "target": "DeepMind",
+    "relation": "AlphaFold project manager",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      343,
+      344
+    ],
+    "status": "book",
+    "note": "Managed the protein team and progress milestones.",
+    "id": "rel-1af9b3b3fc"
+  },
+  {
+    "source": "John Jumper",
+    "target": "Oriol Vinyals",
+    "relation": "research consultation",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      342
+    ],
+    "status": "book",
+    "note": "Discussed applying sequence modelling to amino-acid data.",
+    "id": "rel-6d9f9e9f37"
+  },
+  {
+    "source": "John Moult",
+    "target": "CASP",
+    "relation": "founder and organizer",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      344,
+      345
+    ],
+    "status": "book",
+    "note": "Organized CASP and reviewed 2020 outcomes.",
+    "id": "rel-9fd1d9bf96"
+  },
+  {
+    "source": "Andrei Lupas",
+    "target": "John Moult",
+    "relation": "evaluation collaborator",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      345
+    ],
+    "status": "book",
+    "note": "Designed a test of AlphaFold on an unsolved protein.",
+    "id": "rel-e7a381cbb8"
+  },
+  {
+    "source": "DeepMind",
+    "target": "EMBL-EBI",
+    "relation": "database collaboration",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      346
+    ],
+    "status": "book",
+    "note": "Collaborated to make AlphaFold structures searchable.",
+    "id": "rel-61a5e2d89e"
+  },
+  {
+    "source": "Geoffrey Irving",
+    "target": "OpenAI",
+    "relation": "former researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      348,
+      349,
+      350
+    ],
+    "status": "book",
+    "note": "Worked with Amodei and Christiano on model safety.",
+    "id": "rel-bfb3e22a3f"
+  },
+  {
+    "source": "Geoffrey Irving",
+    "target": "DeepMind",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      348,
+      351
+    ],
+    "status": "book",
+    "note": "Joined in autumn 2019.",
+    "id": "rel-dee1469974"
+  },
+  {
+    "source": "Geoffrey Irving",
+    "target": "UK AI Safety Institute",
+    "relation": "chief scientist (book claim)",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      348
+    ],
+    "status": "book",
+    "note": "Book names later chief scientist role.",
+    "id": "rel-41a0bae93c"
+  },
+  {
+    "source": "Paul Christiano",
+    "target": "US AI Safety Institute",
+    "relation": "chief scientist (book claim)",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      348
+    ],
+    "status": "book",
+    "note": "Book names later chief scientist role.",
+    "id": "rel-6a1518c861"
+  },
+  {
+    "source": "Jack Rae",
+    "target": "DeepMind",
+    "relation": "language-model researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      351,
+      353,
+      354
+    ],
+    "status": "book",
+    "note": "Led language-model work with Irving.",
+    "id": "rel-f20501781f"
+  },
+  {
+    "source": "Jack Rae",
+    "target": "OpenAI",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      361
+    ],
+    "status": "book",
+    "note": "Left DeepMind in early 2022 with four unnamed engineers.",
+    "id": "rel-b9e61ff715"
+  },
+  {
+    "source": "Koray Kavukcuoglu",
+    "target": "DeepMind",
+    "relation": "research leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      353
+    ],
+    "status": "book",
+    "note": "Personally led expanded language-model task force.",
+    "id": "rel-98d6f56fc7"
+  },
+  {
+    "source": "Laura Weidinger",
+    "target": "DeepMind",
+    "relation": "AI risk researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      360,
+      361,
+      366
+    ],
+    "status": "book",
+    "note": "Collaborated with Irving on risks and Sparrow rules.",
+    "id": "rel-f9bb85223f"
+  },
+  {
+    "source": "Timnit Gebru",
+    "target": "Google",
+    "relation": "ethical AI co-lead (historical)",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      360
+    ],
+    "status": "book",
+    "note": "Book describes her as co-leader of AI ethics team.",
+    "id": "rel-a898d45888"
+  },
+  {
+    "source": "Margaret Mitchell",
+    "target": "Google",
+    "relation": "ethical AI co-lead (historical)",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      360
+    ],
+    "status": "book",
+    "note": "Book describes her as co-leader of AI ethics team.",
+    "id": "rel-c39d9b1131"
+  },
+  {
+    "source": "Jan Leike",
+    "target": "DeepMind",
+    "relation": "safety researcher (historical)",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      369
+    ],
+    "status": "book",
+    "note": "Worked on safety and coauthored 2017 RLHF paper.",
+    "id": "rel-2616888720"
+  },
+  {
+    "source": "Jan Leike",
+    "target": "OpenAI",
+    "relation": "safety researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      369,
+      370
+    ],
+    "status": "book",
+    "note": "Joined in 2021 after Amodei recruited him.",
+    "id": "rel-dc022227ab"
+  },
+  {
+    "source": "Dario Amodei",
+    "target": "Jan Leike",
+    "relation": "recruited",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      369
+    ],
+    "status": "book",
+    "note": "Amodei recruited Leike from DeepMind to OpenAI.",
+    "id": "rel-1649e132bd"
+  },
+  {
+    "source": "Eliezer Yudkowsky",
+    "target": "Jan Leike",
+    "relation": "intellectual influence",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      369
+    ],
+    "status": "book",
+    "note": "Leike read Yudkowsky's safety writings as a student.",
+    "id": "rel-378f5b691c"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "Paul Christiano",
+    "relation": "coauthored RLHF paper",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      369
+    ],
+    "status": "book",
+    "note": "Book lists Legg, Leike, Christiano and Amodei among 2017 coauthors.",
+    "id": "rel-c833b70691"
+  },
+  {
+    "source": "Mustafa Suleyman",
+    "target": "Inflection AI",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      374
+    ],
+    "status": "book",
+    "note": "Founded startup behind Pi chatbot.",
+    "id": "rel-c815ffb33c"
+  },
+  {
+    "source": "Paul Graham",
+    "target": "Sam Altman",
+    "relation": "professional mentor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      375
+    ],
+    "status": "book",
+    "note": "Book calls Graham one of Altman's closest professional mentors.",
+    "id": "rel-909ab5ed2d"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "University College London",
+    "relation": "PhD alumnus",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      374
+    ],
+    "status": "book",
+    "note": "Book refers to UCL as Hassabis's doctoral institution.",
+    "id": "rel-0ff6083054"
+  },
+  {
+    "source": "DeepMind",
+    "target": "Google Brain",
+    "relation": "merged with",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      378,
+      379
+    ],
+    "status": "book",
+    "note": "Google announced the merger on 20 April 2023.",
+    "id": "rel-a102c5978a"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Google DeepMind",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      379,
+      380
+    ],
+    "status": "book",
+    "note": "Chosen to lead combined organization.",
+    "id": "rel-8f6b167219"
+  },
+  {
+    "source": "Sundar Pichai",
+    "target": "Google",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      376,
+      377,
+      378
+    ],
+    "status": "book",
+    "note": "Directed consolidation and product strategy.",
+    "id": "rel-8d5292939c"
+  },
+  {
+    "source": "Sergey Brin",
+    "target": "Google",
+    "relation": "cofounder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      400
+    ],
+    "status": "book",
+    "note": "Book calls Brin company cofounder and describes support for Gemini.",
+    "id": "rel-e5f3be07de"
+  },
+  {
+    "source": "Satya Nadella",
+    "target": "Microsoft",
+    "relation": "CEO",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      379
+    ],
+    "status": "book",
+    "note": "Announced Bing integration on 7 February 2023.",
+    "id": "rel-fefe63361f"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Google",
+    "relation": "left",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      384
+    ],
+    "status": "book",
+    "note": "Book dates resignation to May 2023.",
+    "id": "rel-788803c086"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "Meta",
+    "relation": "AI leader (historical)",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      387
+    ],
+    "status": "book",
+    "note": "Book describes former responsibility for Meta AI.",
+    "id": "rel-2c278a6d2f"
+  },
+  {
+    "source": "Marc Andreessen",
+    "target": "Andreessen Horowitz",
+    "relation": "cofounder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      388
+    ],
+    "status": "book",
+    "note": "Identified as venture-capital firm's cofounder.",
+    "id": "rel-1c82309469"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "xAI",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      391
+    ],
+    "status": "book",
+    "note": "Book describes creation during 2023 pause-letter period.",
+    "id": "rel-2703c726ad"
+  },
+  {
+    "source": "Jan Leike",
+    "target": "Ilya Sutskever",
+    "relation": "co-led Superalignment",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      389
+    ],
+    "status": "book",
+    "note": "Formed OpenAI Superalignment team in summer 2023.",
+    "id": "rel-5c440e7483"
+  },
+  {
+    "source": "Ben Buchanan",
+    "target": "US National Security Council",
+    "relation": "government staff",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      395
+    ],
+    "status": "book",
+    "note": "Worked at NSC before AI advisory role.",
+    "id": "rel-9b94369c7b"
+  },
+  {
+    "source": "Drew Houston",
+    "target": "Dropbox",
+    "relation": "executive",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      404
+    ],
+    "status": "book",
+    "note": "Book identifies Houston with Dropbox.",
+    "id": "rel-359df08a3d"
+  },
+  {
+    "source": "Mark Zuckerberg",
+    "target": "Meta",
+    "relation": "executive",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      404
+    ],
+    "status": "book",
+    "note": "Book identifies Zuckerberg with Meta.",
+    "id": "rel-c3ba270c2d"
+  },
+  {
+    "source": "Emmett Shear",
+    "target": "OpenAI",
+    "relation": "interim CEO",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      405
+    ],
+    "status": "book",
+    "note": "Appointed during November 2023 board crisis.",
+    "id": "rel-5b5601bcac"
+  },
+  {
+    "source": "Geoffrey Hinton",
+    "target": "Ilya Sutskever",
+    "relation": "teacher/student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      405
+    ],
+    "status": "book",
+    "note": "Book explicitly calls Sutskever Hinton's student.",
+    "id": "rel-3a00cf84c3"
+  },
+  {
+    "source": "Sebastian Borgeaud",
+    "target": "Google DeepMind",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      411
+    ],
+    "status": "book",
+    "note": "RETRO developer and Gemini 1.5 core member.",
+    "id": "rel-596de96aa2"
+  },
+  {
+    "source": "Jack Rae",
+    "target": "Google DeepMind",
+    "relation": "returned to",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      411
+    ],
+    "status": "book",
+    "note": "Returned in summer 2023 after OpenAI stint.",
+    "id": "rel-0b418de4a3"
+  },
+  {
+    "source": "Paul Graham",
+    "target": "Y Combinator",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      414
+    ],
+    "status": "book",
+    "note": "Book explicitly calls Graham YC founder.",
+    "id": "rel-c67e06f51c"
+  },
+  {
+    "source": "Google Responsible AI team",
+    "target": "Google",
+    "relation": "team within",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      414,
+      415
+    ],
+    "status": "book",
+    "note": "Book states separate from Google DeepMind at time of incident.",
+    "id": "rel-ee6ad24d3e"
+  },
+  {
+    "source": "Noam Brown",
+    "target": "OpenAI",
+    "relation": "o1 core researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      424
+    ],
+    "status": "book",
+    "note": "Book credits him as key o1 scientist.",
+    "id": "rel-73023658f0"
+  },
+  {
+    "source": "Noam Brown",
+    "target": "DeepMind",
+    "relation": "former affiliation (book claim)",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      424
+    ],
+    "status": "disputed",
+    "note": "Book says Brown came from DeepMind; verify independently before accepting.",
+    "id": "rel-9f307f4638"
+  },
+  {
+    "source": "Noam Shazeer",
+    "target": "Google",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      425
+    ],
+    "status": "book",
+    "note": "Joined 2000; later departed and returned under company agreement.",
+    "id": "rel-61a44f31d5"
+  },
+  {
+    "source": "Noam Shazeer",
+    "target": "Jack Rae",
+    "relation": "reasoning-program co-leads",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      425,
+      426,
+      427,
+      428
+    ],
+    "status": "book",
+    "note": "Led October 2024 reasoning push.",
+    "id": "rel-3445b5109e"
+  },
+  {
+    "source": "Richard Sutton",
+    "target": "David Silver",
+    "relation": "academic mentor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      439
+    ],
+    "status": "book",
+    "note": "Book explicitly calls Sutton Silver's academic mentor; coauthored experience-era paper.",
+    "id": "rel-101a4de318"
+  },
+  {
+    "source": "Hartmut Neven",
+    "target": "Google Quantum AI",
+    "relation": "leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      456
+    ],
+    "status": "book",
+    "note": "Book explicitly identifies Neven as lab head.",
+    "id": "rel-8cb791d69e"
+  },
+  {
+    "source": "Scott Moyers",
+    "target": "Penguin Press",
+    "relation": "publisher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      459
+    ],
+    "status": "book",
+    "note": "Acknowledgments name publisher.",
+    "id": "rel-4c79c96e4c"
+  },
+  {
+    "source": "Michael Froman",
+    "target": "Council on Foreign Relations",
+    "relation": "president",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      460
+    ],
+    "status": "book",
+    "note": "Acknowledgments name role.",
+    "id": "rel-0e7f659716"
+  },
+  {
+    "source": "Shannon O'Neil",
+    "target": "Council on Foreign Relations",
+    "relation": "research-program leader",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      460
+    ],
+    "status": "book",
+    "note": "Acknowledgments name role.",
+    "id": "rel-99150bb7ab"
+  },
+  {
+    "source": "Sebastian Elbaum",
+    "target": "University of Virginia",
+    "relation": "computer-science faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      460
+    ],
+    "status": "book",
+    "note": "Acknowledgments identify department.",
+    "id": "rel-ddcc05803a"
+  },
+  {
+    "source": "Deven Parekh",
+    "target": "Insight Partners",
+    "relation": "managing partner",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      460
+    ],
+    "status": "book",
+    "note": "Acknowledgments name role.",
+    "id": "rel-a4a4dba95b"
+  },
+  {
+    "source": "Deven Parekh",
+    "target": "Council on Foreign Relations",
+    "relation": "board member",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      460
+    ],
+    "status": "book",
+    "note": "Acknowledgments name role.",
+    "id": "rel-2d20b01acd"
+  },
+  {
+    "source": "Erik Serrano Berntsen",
+    "target": "Stable Asset Management",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      462
+    ],
+    "status": "book",
+    "note": "Acknowledgments name founder.",
+    "id": "rel-9e42f5920b"
+  },
+  {
+    "source": "Steve Drobny",
+    "target": "Clocktower",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      462
+    ],
+    "status": "book",
+    "note": "Acknowledgments name founder.",
+    "id": "rel-2035b85f6b"
+  },
+  {
+    "source": "Raffi Khatchadourian",
+    "target": "The New Yorker",
+    "relation": "journalist",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      463
+    ],
+    "status": "book",
+    "note": "Endnote identifies journalist and publication.",
+    "id": "rel-09b3bc7730"
+  },
+  {
+    "source": "Richard Evans",
+    "target": "Peter Molyneux",
+    "relation": "worked for",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      465
+    ],
+    "status": "book",
+    "note": "Endnote says Evans worked for and lived with Molyneux.",
+    "id": "rel-a09449b8dd"
+  },
+  {
+    "source": "Aron Cohen",
+    "target": "DeepMind",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      466
+    ],
+    "status": "book",
+    "note": "Cambridge chemist recruited by Hassabis.",
+    "id": "rel-b6603f342f"
+  },
+  {
+    "source": "Richard Evans",
+    "target": "Lionhead Studios",
+    "relation": "chief AI programmer",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      467
+    ],
+    "status": "book",
+    "note": "Endnote explicitly states role.",
+    "id": "rel-2d9ba907c4"
+  },
+  {
+    "source": "Daniel Kudenko",
+    "target": "University of York",
+    "relation": "professor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      468
+    ],
+    "status": "book",
+    "note": "Named visiting reinforcement-learning professor.",
+    "id": "rel-2365e7bb01"
+  },
+  {
+    "source": "Demis Hassabis",
+    "target": "Dharshan Kumaran",
+    "relation": "neuroscience coauthors",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      468
+    ],
+    "status": "book",
+    "note": "Coauthored hippocampal memory/imagination work.",
+    "id": "rel-898d6870da"
+  },
+  {
+    "source": "Adrian Bolton",
+    "target": "DeepMind",
+    "relation": "first employee after founders",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      472
+    ],
+    "status": "book",
+    "note": "Endnote states recruitment ordering.",
+    "id": "rel-bfab1a5907"
+  },
+  {
+    "source": "Jeff Hawkins",
+    "target": "Numenta",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      472
+    ],
+    "status": "book",
+    "note": "Company founded in 2005.",
+    "id": "rel-d47fcd9af3"
+  },
+  {
+    "source": "Dileep George",
+    "target": "Numenta",
+    "relation": "CTO",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      472
+    ],
+    "status": "book",
+    "note": "Left CTO role in 2010.",
+    "id": "rel-7f0973f6fb"
+  },
+  {
+    "source": "Dileep George",
+    "target": "Vicarious",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      472
+    ],
+    "status": "book",
+    "note": "Founded after Numenta departure.",
+    "id": "rel-6a8dbfd5d6"
+  },
+  {
+    "source": "Ben Coppin",
+    "target": "DeepMind",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      472
+    ],
+    "status": "book",
+    "note": "Joined April 2012.",
+    "id": "rel-14ba4f3c1e"
+  },
+  {
+    "source": "Shane Legg",
+    "target": "David Silver",
+    "relation": "early manager at DeepMind",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      473
+    ],
+    "status": "book",
+    "note": "Silver initially reported to Legg.",
+    "id": "rel-f3e37d1e00"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "Koray Kavukcuoglu",
+    "relation": "PhD advisor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      474
+    ],
+    "status": "book",
+    "note": "Endnote explicitly states supervision.",
+    "id": "rel-51115d2d4a"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "Karol Gregor",
+    "relation": "coauthor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      474
+    ],
+    "status": "book",
+    "note": "Endnote states paper collaboration.",
+    "id": "rel-aed1a6673f"
+  },
+  {
+    "source": "Michael Bowling",
+    "target": "University of Alberta",
+    "relation": "faculty",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      474
+    ],
+    "status": "book",
+    "note": "Book names university.",
+    "id": "rel-0690d205cf"
+  },
+  {
+    "source": "Joel Veness",
+    "target": "University of Alberta",
+    "relation": "research colleague",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      474
+    ],
+    "status": "book",
+    "note": "Book names Alberta affiliation.",
+    "id": "rel-be7faac5a1"
+  },
+  {
+    "source": "Joel Veness",
+    "target": "DeepMind",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      474
+    ],
+    "status": "book",
+    "note": "Joined 2012.",
+    "id": "rel-bc4628008a"
+  },
+  {
+    "source": "Marc Bellemare",
+    "target": "University of Alberta",
+    "relation": "PhD student",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      474
+    ],
+    "status": "book",
+    "note": "Book describes student in Alberta ALE project; does not explicitly name advisor.",
+    "id": "rel-21397f4af6"
+  },
+  {
+    "source": "Patrick Pichette",
+    "target": "Google",
+    "relation": "CFO",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      475
+    ],
+    "status": "book",
+    "note": "Held role 2008–2015.",
+    "id": "rel-4f25bf76f9"
+  },
+  {
+    "source": "Ray Kurzweil",
+    "target": "Google",
+    "relation": "hired",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      476
+    ],
+    "status": "book",
+    "note": "Page hired Kurzweil January 2013.",
+    "id": "rel-54a4ab71df"
+  },
+  {
+    "source": "Don Harrison",
+    "target": "Google",
+    "relation": "chief acquisition negotiator",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      477
+    ],
+    "status": "book",
+    "note": "Book explicitly names role.",
+    "id": "rel-f8515f4502"
+  },
+  {
+    "source": "Marc'Aurelio Ranzato",
+    "target": "Meta",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      477
+    ],
+    "status": "book",
+    "note": "Endnote names Facebook scientist.",
+    "id": "rel-d6b5269e02"
+  },
+  {
+    "source": "Yann LeCun",
+    "target": "Meta",
+    "relation": "agreed to join",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      477
+    ],
+    "status": "book",
+    "note": "Agreed late November 2013.",
+    "id": "rel-a05fb4e770"
+  },
+  {
+    "source": "Martin Müller",
+    "target": "David Silver",
+    "relation": "PhD co-advisor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      478
+    ],
+    "status": "book",
+    "note": "Book explicitly says one of Silver's doctoral advisors.",
+    "id": "rel-9b535c90bf"
+  },
+  {
+    "source": "Ilya Sutskever",
+    "target": "Vinod Nair",
+    "relation": "Go-network coauthors",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      478
+    ],
+    "status": "book",
+    "note": "Published Toronto Go-network paper in 2008.",
+    "id": "rel-a3a368645c"
+  },
+  {
+    "source": "Elon Musk",
+    "target": "Neuralink",
+    "relation": "founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      481
+    ],
+    "status": "book",
+    "note": "Book dates founding to 2016.",
+    "id": "rel-ac0e402b12"
+  },
+  {
+    "source": "Geraint Rees",
+    "target": "University College London",
+    "relation": "neuroscientist",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      483
+    ],
+    "status": "book",
+    "note": "Worked with Hassabis at UCL.",
+    "id": "rel-4d2203abe3"
+  },
+  {
+    "source": "Dominic King",
+    "target": "UnitedHealth Group",
+    "relation": "former employee",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      483
+    ],
+    "status": "book",
+    "note": "Left role in late 2024.",
+    "id": "rel-c7986ce684"
+  },
+  {
+    "source": "Dominic King",
+    "target": "Microsoft",
+    "relation": "joined",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      483
+    ],
+    "status": "book",
+    "note": "Announced December 2024 move to work with Suleyman.",
+    "id": "rel-795c6c0396"
+  },
+  {
+    "source": "Julian Huppert",
+    "target": "DeepMind Health Independent Reviewers",
+    "relation": "chair",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      483
+    ],
+    "status": "book",
+    "note": "Book identifies panel chair.",
+    "id": "rel-79a0e53e1c"
+  },
+  {
+    "source": "David Silver",
+    "target": "Julian Schrittwieser",
+    "relation": "AlphaZero collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      485
+    ],
+    "status": "book",
+    "note": "Named core colleague.",
+    "id": "rel-820d151654"
+  },
+  {
+    "source": "David Silver",
+    "target": "Thomas Hubert",
+    "relation": "AlphaZero collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      485
+    ],
+    "status": "book",
+    "note": "Named core colleague.",
+    "id": "rel-a07f5effeb"
+  },
+  {
+    "source": "David Silver",
+    "target": "Ioannis Antonoglou",
+    "relation": "AlphaZero collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      485
+    ],
+    "status": "book",
+    "note": "Named core colleague.",
+    "id": "rel-ade59c54d0"
+  },
+  {
+    "source": "Andrei Rusu",
+    "target": "DeepMind",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      487
+    ],
+    "status": "book",
+    "note": "Explicit DeepMind Gaia researcher.",
+    "id": "rel-eb4e61e080"
+  },
+  {
+    "source": "Jim Gao",
+    "target": "DeepMind",
+    "relation": "energy-project lead",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      489
+    ],
+    "status": "book",
+    "note": "Identified in endnote.",
+    "id": "rel-fe912a04a2"
+  },
+  {
+    "source": "Tim Stevens",
+    "target": "University of Cambridge",
+    "relation": "computational biologist",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      490
+    ],
+    "status": "book",
+    "note": "Identified in endnote as university friend from protein discussion.",
+    "id": "rel-eeb0ad531e"
+  },
+  {
+    "source": "Kathryn Tunyasuvunakool",
+    "target": "DeepMind",
+    "relation": "protein-team researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      490
+    ],
+    "status": "book",
+    "note": "Joined protein team and recalled Foldit approach.",
+    "id": "rel-f688cd908e"
+  },
+  {
+    "source": "Nat McAleese",
+    "target": "DeepMind",
+    "relation": "GopherChat engineer",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      491
+    ],
+    "status": "book",
+    "note": "Identified in Jack Rae's account of GopherChat.",
+    "id": "rel-add101502c"
+  },
+  {
+    "source": "Aidan Clark",
+    "target": "DeepMind",
+    "relation": "former employee",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      492
+    ],
+    "status": "book",
+    "note": "Explicitly among engineers who left for OpenAI.",
+    "id": "rel-4950aabaad"
+  },
+  {
+    "source": "Aidan Clark",
+    "target": "OpenAI",
+    "relation": "joined from DeepMind",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      492
+    ],
+    "status": "book",
+    "note": "Explicit employment move.",
+    "id": "rel-03a9d0c2b3"
+  },
+  {
+    "source": "Trevor Cai",
+    "target": "DeepMind",
+    "relation": "former employee",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      492
+    ],
+    "status": "book",
+    "note": "Explicitly among engineers who left for OpenAI.",
+    "id": "rel-927c338569"
+  },
+  {
+    "source": "Trevor Cai",
+    "target": "OpenAI",
+    "relation": "joined from DeepMind",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      492
+    ],
+    "status": "book",
+    "note": "Explicit employment move.",
+    "id": "rel-0e1fd930f0"
+  },
+  {
+    "source": "Francis Song",
+    "target": "DeepMind",
+    "relation": "former employee",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      492
+    ],
+    "status": "book",
+    "note": "Explicitly among engineers who left for OpenAI.",
+    "id": "rel-befdae8668"
+  },
+  {
+    "source": "Francis Song",
+    "target": "OpenAI",
+    "relation": "joined from DeepMind",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      492
+    ],
+    "status": "book",
+    "note": "Explicit employment move.",
+    "id": "rel-1e3acce9e2"
+  },
+  {
+    "source": "Jacob Menick",
+    "target": "DeepMind",
+    "relation": "former employee",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      492
+    ],
+    "status": "book",
+    "note": "Explicitly among engineers who left for OpenAI.",
+    "id": "rel-9e1badc304"
+  },
+  {
+    "source": "Jacob Menick",
+    "target": "OpenAI",
+    "relation": "joined from DeepMind",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      492
+    ],
+    "status": "book",
+    "note": "Explicit employment move.",
+    "id": "rel-5be05cefd4"
+  },
+  {
+    "source": "Jeff Wu",
+    "target": "OpenAI",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      493
+    ],
+    "status": "book",
+    "note": "Safety-oriented researcher who remained when others departed.",
+    "id": "rel-3ad1b983d6"
+  },
+  {
+    "source": "John Schulman",
+    "target": "OpenAI",
+    "relation": "co-founder / ChatGPT lead",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      494
+    ],
+    "status": "book",
+    "note": "Explicit identification in note.",
+    "id": "rel-dda6741f10"
+  },
+  {
+    "source": "Chris Gibson",
+    "target": "Recursion Pharmaceuticals",
+    "relation": "CEO",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      494
+    ],
+    "status": "book",
+    "note": "Explicit identification.",
+    "id": "rel-e7a36bb51f"
+  },
+  {
+    "source": "Noam Shazeer",
+    "target": "Character.AI",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      494
+    ],
+    "status": "book",
+    "note": "Founded after leaving Google in 2021.",
+    "id": "rel-645fd136ac"
+  },
+  {
+    "source": "Daniel De Freitas",
+    "target": "Character.AI",
+    "relation": "co-founder",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      494
+    ],
+    "status": "book",
+    "note": "Founded with Shazeer after leaving Google in 2021.",
+    "id": "rel-1dd9e5dfc5"
+  },
+  {
+    "source": "Daniel De Freitas",
+    "target": "Google",
+    "relation": "former researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      494
+    ],
+    "status": "book",
+    "note": "Language expert; left in 2021.",
+    "id": "rel-32ed0a0684"
+  },
+  {
+    "source": "Jacob Devlin",
+    "target": "Google",
+    "relation": "former researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      494
+    ],
+    "status": "book",
+    "note": "Left January 2023.",
+    "id": "rel-419a2474f6"
+  },
+  {
+    "source": "Jacob Devlin",
+    "target": "OpenAI",
+    "relation": "joined from Google",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      494
+    ],
+    "status": "book",
+    "note": "Immediately joined OpenAI after Google departure.",
+    "id": "rel-b3b4822ccb"
+  },
+  {
+    "source": "Ethan Mollick",
+    "target": "Wharton School",
+    "relation": "professor",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      495
+    ],
+    "status": "book",
+    "note": "Explicit affiliation.",
+    "id": "rel-59b379151e"
+  },
+  {
+    "source": "Sandhini Agarwal",
+    "target": "OpenAI",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      495
+    ],
+    "status": "book",
+    "note": "Explicit affiliation.",
+    "id": "rel-78adddb769"
+  },
+  {
+    "source": "Vinod Khosla",
+    "target": "OpenAI",
+    "relation": "financial backer",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      495
+    ],
+    "status": "book",
+    "note": "Identified as supporting OpenAI; do not infer precise investment date or vehicle.",
+    "id": "rel-64311f8f38"
+  },
+  {
+    "source": "Ken Macdonald",
+    "target": "Mustafa Suleyman",
+    "relation": "legal representative",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      488
+    ],
+    "status": "book",
+    "note": "Part of Suleyman's legal team.",
+    "id": "rel-4f27f837ab"
+  },
+  {
+    "source": "DeepMind",
+    "target": "Frontier Model Forum",
+    "relation": "founding member",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      496
+    ],
+    "status": "book",
+    "note": "Founded forum after July 2023 White House meeting with OpenAI, Anthropic and Microsoft.",
+    "id": "rel-799ca418ff"
+  },
+  {
+    "source": "OpenAI",
+    "target": "Frontier Model Forum",
+    "relation": "founding member",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      496
+    ],
+    "status": "book",
+    "note": "Explicit founding membership.",
+    "id": "rel-06ac7c68f3"
+  },
+  {
+    "source": "Anthropic",
+    "target": "Frontier Model Forum",
+    "relation": "founding member",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      496
+    ],
+    "status": "book",
+    "note": "Explicit founding membership.",
+    "id": "rel-5a87073d55"
+  },
+  {
+    "source": "Microsoft",
+    "target": "Frontier Model Forum",
+    "relation": "founding member",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      496
+    ],
+    "status": "book",
+    "note": "Explicit founding membership.",
+    "id": "rel-706c7b2819"
+  },
+  {
+    "source": "Jonas Adler",
+    "target": "DeepMind",
+    "relation": "AlphaFold task-force researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      498
+    ],
+    "status": "book",
+    "note": "Identified among Rae's London collaborators and as former AlphaFold task-force member.",
+    "id": "rel-1152b5a544"
+  },
+  {
+    "source": "Jonas Adler",
+    "target": "Jack Rae",
+    "relation": "research collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      498
+    ],
+    "status": "book",
+    "note": "Collaborated in London on Gemini work.",
+    "id": "rel-bb5e7ba550"
+  },
+  {
+    "source": "Alexander Pritzel",
+    "target": "Jack Rae",
+    "relation": "research collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      498
+    ],
+    "status": "book",
+    "note": "Named London collaborator.",
+    "id": "rel-3a192bb690"
+  },
+  {
+    "source": "Sebastian Borgeaud",
+    "target": "Jack Rae",
+    "relation": "research collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      498
+    ],
+    "status": "book",
+    "note": "Named London collaborator.",
+    "id": "rel-53f2ce63f3"
+  },
+  {
+    "source": "Jonathan Lai",
+    "target": "Google DeepMind",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      498
+    ],
+    "status": "book",
+    "note": "Identified as coauthor of May 2024 internal RLVR paper.",
+    "id": "rel-a66066f0cc"
+  },
+  {
+    "source": "James An",
+    "target": "Google DeepMind",
+    "relation": "researcher",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      498
+    ],
+    "status": "book",
+    "note": "Identified as coauthor of May 2024 internal RLVR paper.",
+    "id": "rel-b1ac2b6c9e"
+  },
+  {
+    "source": "Jonathan Lai",
+    "target": "James An",
+    "relation": "research collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      498
+    ],
+    "status": "book",
+    "note": "Coauthored influential internal RLVR paper.",
+    "id": "rel-cdf8c5a5eb"
+  },
+  {
+    "source": "Hunter Lightman",
+    "target": "Noam Brown",
+    "relation": "research collaborators",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      499
+    ],
+    "status": "book",
+    "note": "OpenAI colleagues researching longer reasoning and verification.",
+    "id": "rel-ca6c653ecb"
+  },
+  {
+    "source": "Behnam Neyshabur",
+    "target": "Blueshift team",
+    "relation": "co-lead",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      499
+    ],
+    "status": "book",
+    "note": "Led reasoning-research group with Ethan Dyer.",
+    "id": "rel-ee98276d2a"
+  },
+  {
+    "source": "Ethan Dyer",
+    "target": "Blueshift team",
+    "relation": "co-lead",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      499
+    ],
+    "status": "book",
+    "note": "Led reasoning-research group with Behnam Neyshabur.",
+    "id": "rel-6952797421"
+  },
+  {
+    "source": "Behnam Neyshabur",
+    "target": "Anthropic",
+    "relation": "joined from Google DeepMind",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      499
+    ],
+    "status": "book",
+    "note": "Explicit departure for Anthropic.",
+    "id": "rel-805c0ca5e3"
+  },
+  {
+    "source": "Ethan Dyer",
+    "target": "Anthropic",
+    "relation": "joined from Google DeepMind",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      499
+    ],
+    "status": "book",
+    "note": "Explicit departure for Anthropic.",
+    "id": "rel-d95b4e63ec"
+  },
+  {
+    "source": "David Silver",
+    "target": "Richard Sutton",
+    "relation": "research coauthors",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      501
+    ],
+    "status": "book",
+    "note": "Welcome to the Era of Experience, 2025.",
+    "id": "rel-d88ac450ed"
+  },
+  {
+    "source": "Cui Shuang",
+    "target": "Yingke Law Firm",
+    "relation": "lawyer",
+    "dates": "",
+    "source_ids": [
+      "BOOK"
+    ],
+    "book_pages": [
+      504
+    ],
+    "status": "book",
+    "note": "Listed as book legal adviser at Yingke.",
+    "id": "rel-626f5dc17b"
+  },
+  {
+    "source": "EMBL-EBI",
+    "target": "EMBL",
+    "relation": "part of",
+    "dates": "",
+    "source_ids": [
+      "R24"
+    ],
+    "book_pages": [],
+    "status": "verified",
+    "note": "Located near Cambridge; do not infer University of Cambridge membership.",
+    "id": "rel-882bf0efbe"
+  }
+]

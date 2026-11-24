@@ -1,0 +1,3983 @@
+{
+  "nodes": [
+    {
+      "id": "31409dbfd66e403a",
+      "type": "group",
+      "x": -35,
+      "y": 20595,
+      "width": 2430,
+      "height": 2045,
+      "label": "Other — cultural, fictional, project or event context",
+      "color": "#526178"
+    },
+    {
+      "id": "8ff0cc4207fb4bc0",
+      "type": "group",
+      "x": -35,
+      "y": 19015,
+      "width": 2430,
+      "height": 1385,
+      "label": "Identity / spelling review",
+      "color": "#526178"
+    },
+    {
+      "id": "71943b6d4e49e4bb",
+      "type": "group",
+      "x": -35,
+      "y": -55,
+      "width": 2430,
+      "height": 18875,
+      "label": "Human names — affiliation not established here",
+      "color": "#526178"
+    },
+    {
+      "id": "1548df8dafe2f3df",
+      "type": "text",
+      "x": 0,
+      "y": -360,
+      "width": 2000,
+      "height": 170,
+      "text": "# Context and unresolved identities\n\nNames retained from narrative, forewords, credits and notes. No affiliation edge is invented where evidence is absent. Fictional figures and cultural references are a separate class.\n\n[[00 Start Here|Guide]] · [[01 Map Index|All maps]] · [[03 Evidence and Open Questions|Evidence rules]]"
+    },
+    {
+      "id": "4e98e03f329a1109",
+      "type": "text",
+      "x": 2100,
+      "y": -360,
+      "width": 1450,
+      "height": 170,
+      "text": "**● HUMAN** blue · **◆ INSTITUTION** purple · **■ COMPANY** amber · **▣ LAB / TEAM** green · **◇ CONTEXT** grey\n\n**V** green edges = primary-source checked. **B** amber edges = book report. Full evidence and dates are in the linked notes. Grouping is navigation, not a current org chart."
+    },
+    {
+      "id": "df783698a2ab99d6",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Aaron Pezzullo|Aaron Pezzullo]]\n\nCFR research collaborator, later law student.\n\n[[Sources/Hassabis - source book.pdf#page=460|PDF p. 460]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "3b982190af766399",
+      "type": "text",
+      "x": 410,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Abby Parks|Abby Parks]]\n\nBiography author cited.\n\n[[Sources/Hassabis - source book.pdf#page=464|PDF p. 464]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "3417f2179743a0c5",
+      "type": "text",
+      "x": 820,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Adam Segal|Adam Segal]]\n\nAuthor's CFR colleague.\n\n[[Sources/Hassabis - source book.pdf#page=460|PDF p. 460]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c61a43dff8ee67f3",
+      "type": "text",
+      "x": 1230,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Adam Smith|Adam Smith]]\n\nStatue mentioned in foreword\n\n[[Sources/Hassabis - source book.pdf#page=23|PDF p. 23]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5d80b7775996ded3",
+      "type": "text",
+      "x": 1640,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Al Gore|Al Gore]]\n\nFormer US vice president consulted in governance discussions.\n\n[[Sources/Hassabis - source book.pdf#page=308|PDF p. 308]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5970e9a6d0d8aaca",
+      "type": "text",
+      "x": 2050,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alan Levinovitz|Alan Levinovitz]]\n\nWired journalist.\n\n[[Sources/Hassabis - source book.pdf#page=478|PDF p. 478]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f569b0d4b8573b53",
+      "type": "text",
+      "x": 0,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alan Turing|Alan Turing]]\n\nComputing pioneer and Hassabis intellectual exemplar\n\n[[Sources/Hassabis - source book.pdf#page=19|PDF p. 19]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5a2e5a11a9fef48c",
+      "type": "text",
+      "x": 410,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Albert Einstein|Albert Einstein]]\n\nScientific exemplar and theoretical-physics reference\n\n[[Sources/Hassabis - source book.pdf#page=19|PDF p. 19]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "79f60b97e80c747a",
+      "type": "text",
+      "x": 820,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alessandro Volta|Alessandro Volta]]\n\nPhysics analogy.\n\n[[Sources/Hassabis - source book.pdf#page=473|PDF p. 473]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0a5fa53a20af7191",
+      "type": "text",
+      "x": 1230,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Alex Graves|Alex Graves]]\n\nIncluded because a sourced relationship names this entity.\n\nSee linked evidence note",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "1b6e6f63e6bf3c21",
+      "type": "text",
+      "x": 1640,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alex Hern|Alex Hern]]\n\nGuardian journalist.\n\n[[Sources/Hassabis - source book.pdf#page=484|PDF p. 484]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "33139288a222c8cf",
+      "type": "text",
+      "x": 2050,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alex Konrad|Alex Konrad]]\n\nForbes journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=495|PDF p. 495]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a6bbbb02aebedfc9",
+      "type": "text",
+      "x": 0,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alex Williams|Alex Williams]]\n\nPolitical-economy author.\n\n[[Sources/Hassabis - source book.pdf#page=483|PDF p. 483]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "cd12722e9213a210",
+      "type": "text",
+      "x": 410,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alexander Bondarenko|Alexander Bondarenko]]\n\nAuthor of specification-gaming paper\n\n[[Sources/Hassabis - source book.pdf#page=500|PDF p. 500]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b399ff3fe44de090",
+      "type": "text",
+      "x": 820,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alexander Pritzel|Alexander Pritzel]]\n\nJack Rae's London collaborator\n\n[[Sources/Hassabis - source book.pdf#page=498|PDF p. 498]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "2100843fdaba4db7",
+      "type": "text",
+      "x": 1230,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alexandra Mousavizadeh|Alexandra Mousavizadeh]]\n\nAI entrepreneur and early reader.\n\n[[Sources/Hassabis - source book.pdf#page=462|PDF p. 462]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e6604060c9cb1e92",
+      "type": "text",
+      "x": 1640,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alfred Nobel|Alfred Nobel]]\n\nNobel Prize founder.\n\n[[Sources/Hassabis - source book.pdf#page=1|PDF p. 1]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "ae19f76387190ee4",
+      "type": "text",
+      "x": 2050,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Ali Ojjeh|Ali Ojjeh]]\n\nCapital partner investor.\n\n[[Sources/Hassabis - source book.pdf#page=475|PDF p. 475]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "256e10b2b704bbf4",
+      "type": "text",
+      "x": 0,
+      "y": 990,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alisa Rosenthal|Alisa Rosenthal]]\n\nOpenAI sales leader identified in endnote\n\n[[Sources/Hassabis - source book.pdf#page=493|PDF p. 493]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d23c6ead78d51ccb",
+      "type": "text",
+      "x": 410,
+      "y": 990,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Alistair Connell|Alistair Connell]]\n\nHealth study coauthor.\n\n[[Sources/Hassabis - source book.pdf#page=484|PDF p. 484]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "22715c864ddf3dc3",
+      "type": "text",
+      "x": 820,
+      "y": 990,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Allan Dafoe|Allan Dafoe]]\n\nAI governance interview source commenting on feasibility of pauses\n\n[[Sources/Hassabis - source book.pdf#page=496|PDF p. 496]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "72f2f069fbb29e15",
+      "type": "text",
+      "x": 1230,
+      "y": 990,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Amelia Glaese|Amelia Glaese]]\n\nAuthor of Improving Alignment of Dialogue Agents via Targeted Human Judgements\n\n[[Sources/Hassabis - source book.pdf#page=492|PDF p. 492]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "04aed94d2520e43f",
+      "type": "text",
+      "x": 1640,
+      "y": 990,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Anand Madhavan|Anand Madhavan]]\n\nGPU deep-learning paper coauthor.\n\n[[Sources/Hassabis - source book.pdf#page=469|PDF p. 469]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "de321fb39bd9ebb0",
+      "type": "text",
+      "x": 2050,
+      "y": 990,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Andrei Lupas|Andrei Lupas]]\n\nExperimental structural biologist who helped test AlphaFold predictions.\n\n[[Sources/Hassabis - source book.pdf#page=345|PDF p. 345]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "86a4112a606bf4db",
+      "type": "text",
+      "x": 0,
+      "y": 1320,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Andrew Imbrie|Andrew Imbrie]]\n\nNew Fire coauthor; p480 OCR variant 'Michael Imbrie'.\n\n[[Sources/Hassabis - source book.pdf#page=480|PDF p. 480]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5261c7c1a4cb43eb",
+      "type": "text",
+      "x": 410,
+      "y": 1320,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Andrew Marantz|Andrew Marantz]]\n\nNew Yorker journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=495|PDF p. 495]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "476342a4d7e0e511",
+      "type": "text",
+      "x": 820,
+      "y": 1320,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Andrew McAfee|Andrew McAfee]]\n\nEndorsement writer and author\n\n[[Sources/Hassabis - source book.pdf#page=51|PDF p. 51]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "2b6306210dd51cb1",
+      "type": "text",
+      "x": 1230,
+      "y": 1320,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Andrew Ross Sorkin|Andrew Ross Sorkin]]\n\nJournalist/interviewer.\n\n[[Sources/Hassabis - source book.pdf#page=481|PDF p. 481]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "ac7383dac7d2378c",
+      "type": "text",
+      "x": 1640,
+      "y": 1320,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Andy Murray|Andy Murray]]\n\nTennis player in Wimbledon anecdote.\n\n[[Sources/Hassabis - source book.pdf#page=176|PDF p. 176]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e2f748d7985a96be",
+      "type": "text",
+      "x": 2050,
+      "y": 1320,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Angelina McMillan-Major|Angelina McMillan-Major]]\n\nCoauthor of On the Dangers of Stochastic Parrots\n\n[[Sources/Hassabis - source book.pdf#page=487|PDF p. 487]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "feb58e0e27164d58",
+      "type": "text",
+      "x": 0,
+      "y": 1650,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Anil Seth|Anil Seth]]\n\nConsciousness researcher and cited author.\n\n[[Sources/Hassabis - source book.pdf#page=469|PDF p. 469]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e82b84ef0ddac3c7",
+      "type": "text",
+      "x": 410,
+      "y": 1650,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Antoine Miech|Antoine Miech]]\n\nCoauthor of DeepMind visual-language model post\n\n[[Sources/Hassabis - source book.pdf#page=492|PDF p. 492]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "4133c31557cce577",
+      "type": "text",
+      "x": 820,
+      "y": 1650,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Ara Darzi|Ara Darzi]]\n\nSurgeon and former minister.\n\n[[Sources/Hassabis - source book.pdf#page=483|PDF p. 483]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9230dbc5468799ec",
+      "type": "text",
+      "x": 1230,
+      "y": 1650,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Arnaud Doucet|Arnaud Doucet]]\n\nMaddison doctoral co-supervisor; linked source is student’s CV.\n\n[Profile / source](https://www.cs.toronto.edu/~cmaddis/maddison_cv.pdf)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9e26291025e13cc3",
+      "type": "text",
+      "x": 1640,
+      "y": 1650,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Arthur C. Clarke|Arthur C. Clarke]]\n\nScience-fiction author.\n\n[[Sources/Hassabis - source book.pdf#page=240|PDF p. 240]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "fb772f459cd20a42",
+      "type": "text",
+      "x": 2050,
+      "y": 1650,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Arthur Samuel|Arthur Samuel]]\n\nAI pioneer credited with pruning search.\n\n[[Sources/Hassabis - source book.pdf#page=464|PDF p. 464]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "949f5d4670196776",
+      "type": "text",
+      "x": 0,
+      "y": 1980,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Ayn Rand|Ayn Rand]]\n\nAuthor in investor background.\n\n[[Sources/Hassabis - source book.pdf#page=194|PDF p. 194]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0c1fea4c3b0bd706",
+      "type": "text",
+      "x": 410,
+      "y": 1980,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Barack Obama|Barack Obama]]\n\nUS president mentioned in meeting/consultation context.\n\n[[Sources/Hassabis - source book.pdf#page=255|PDF p. 255]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "28aaa4a92b7f4e57",
+      "type": "text",
+      "x": 820,
+      "y": 1980,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Baruch Spinoza|Baruch Spinoza]]\n\nPhilosopher in religion/science discussion.\n\n[[Sources/Hassabis - source book.pdf#page=186|PDF p. 186]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f9000e662d623323",
+      "type": "text",
+      "x": 1230,
+      "y": 1980,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Berber Jin|Berber Jin]]\n\nWall Street Journal reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=494|PDF p. 494]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5fed1cb301bff5ca",
+      "type": "text",
+      "x": 1640,
+      "y": 1980,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Bertrand Russell|Bertrand Russell]]\n\nPhilosopher in nuclear-policy discussion.\n\n[[Sources/Hassabis - source book.pdf#page=482|PDF p. 482]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "23ae1b99b73b04ba",
+      "type": "text",
+      "x": 2050,
+      "y": 1980,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Betsy Bizot|Betsy Bizot]]\n\nTaulbee survey coauthor.\n\n[[Sources/Hassabis - source book.pdf#page=473|PDF p. 473]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0e285947c7ec6da2",
+      "type": "text",
+      "x": 0,
+      "y": 2310,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Bill Gates|Bill Gates]]\n\nMicrosoft philanthropist comparison\n\n[[Sources/Hassabis - source book.pdf#page=71|PDF p. 71]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0efbe46aadbf721d",
+      "type": "text",
+      "x": 410,
+      "y": 2310,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Blake Lemoine|Blake Lemoine]]\n\nGoogle engineer involved in LaMDA controversy.\n\n[[Sources/Hassabis - source book.pdf#page=370|PDF p. 370]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "6eb04e0fd76700af",
+      "type": "text",
+      "x": 820,
+      "y": 2310,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Bobby Fischer|Bobby Fischer]]\n\nChess champion in historical comparison.\n\n[[Sources/Hassabis - source book.pdf#page=231|PDF p. 231]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "07dbdba6d88c6dbc",
+      "type": "text",
+      "x": 1230,
+      "y": 2310,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Boris Spassky|Boris Spassky]]\n\nChess champion in historical comparison.\n\n[[Sources/Hassabis - source book.pdf#page=231|PDF p. 231]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d19c2dac32cdde46",
+      "type": "text",
+      "x": 1640,
+      "y": 2310,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Bowen Baker|Bowen Baker]]\n\nAuthor of reasoning-model monitoring/obfuscation paper\n\n[[Sources/Hassabis - source book.pdf#page=500|PDF p. 500]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "dde368d9562f919c",
+      "type": "text",
+      "x": 2050,
+      "y": 2310,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Brendan Frey|Brendan Frey]]\n\nIncluded because a sourced relationship names this entity.\n\nSee linked evidence note",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9970c9525fc7ccab",
+      "type": "text",
+      "x": 0,
+      "y": 2640,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Bruce Reed|Bruce Reed]]\n\nBiden aide who supported Ben Buchanan's AI policy work\n\n[[Sources/Hassabis - source book.pdf#page=496|PDF p. 496]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e7341c067bbb8bd2",
+      "type": "text",
+      "x": 410,
+      "y": 2640,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Cade Metz|Cade Metz]]\n\nTechnology journalist.\n\n[[Sources/Hassabis - source book.pdf#page=230|PDF p. 230]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "765c5516618aa593",
+      "type": "text",
+      "x": 820,
+      "y": 2640,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Caitlyn Jenner|Caitlyn Jenner]]\n\nPerson in adversarial chatbot prompt.\n\n[[Sources/Hassabis - source book.pdf#page=415|PDF p. 415]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "fd92808aa2ea5889",
+      "type": "text",
+      "x": 1230,
+      "y": 2640,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Cam Linke|Cam Linke]]\n\nAmii leader; Sutton mentee, degree type not assigned here.\n\n[Profile / source](https://www.amii.ca/updates-insights/rich-sutton-turing)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "db7f781c33640061",
+      "type": "text",
+      "x": 1640,
+      "y": 2640,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Carl Sagan|Carl Sagan]]\n\nQuoted in philosophical discussion.\n\n[[Sources/Hassabis - source book.pdf#page=455|PDF p. 455]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "8d7900324b58f193",
+      "type": "text",
+      "x": 2050,
+      "y": 2640,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Carl Victor Page|Carl Victor Page]]\n\nLarry Page's father; early neural-network research mentioned.\n\n[[Sources/Hassabis - source book.pdf#page=182|PDF p. 182]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c9a21389e9308485",
+      "type": "text",
+      "x": 0,
+      "y": 2970,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Carson Denison|Carson Denison]]\n\nAuthor of reward-tampering paper\n\n[[Sources/Hassabis - source book.pdf#page=500|PDF p. 500]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "cf62648d88c60065",
+      "type": "text",
+      "x": 410,
+      "y": 2970,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Charlie Warzel|Charlie Warzel]]\n\nAtlantic reporter cited with Karen Hao\n\n[[Sources/Hassabis - source book.pdf#page=493|PDF p. 493]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "23d142595910f010",
+      "type": "text",
+      "x": 820,
+      "y": 2970,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Chen Lan|Chen Lan]]\n\nChinese edition responsible editor; name visually checked\n\n[[Sources/Hassabis - source book.pdf#page=504|PDF p. 504]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7ebf1d171df771c0",
+      "type": "text",
+      "x": 1230,
+      "y": 2970,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Chris Miller|Chris Miller]]\n\nEndorsement writer; Chip War author\n\n[[Sources/Hassabis - source book.pdf#page=50|PDF p. 50]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "754e86e4b5ca8567",
+      "type": "text",
+      "x": 1640,
+      "y": 2970,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Chris Parris-Lamb|Chris Parris-Lamb]]\n\nLiterary agent.\n\n[[Sources/Hassabis - source book.pdf#page=461|PDF p. 461]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "4c44d426008cb4fc",
+      "type": "text",
+      "x": 2050,
+      "y": 2970,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Christian Anfinsen|Christian Anfinsen]]\n\nProtein-folding researcher in historical scientific background.\n\n[[Sources/Hassabis - source book.pdf#page=328|PDF p. 328]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f79ba75e6a03278e",
+      "type": "text",
+      "x": 0,
+      "y": 3300,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Christopher Longuet-Higgins|Christopher Longuet-Higgins]]\n\nTheoretical chemist and cognitive scientist; Hinton's doctoral advisor.\n\n[Profile / source](https://homepages.inf.ed.ac.uk/steedman/hclhindependent.pdf)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "be2443292f6da213",
+      "type": "text",
+      "x": 410,
+      "y": 3300,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Christopher Michel|Christopher Michel]]\n\nPhoto credit\n\n[[Sources/Hassabis - source book.pdf#page=9|PDF p. 9]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9b80b13881c888c8",
+      "type": "text",
+      "x": 820,
+      "y": 3300,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Christopher Moyer|Christopher Moyer]]\n\nAtlantic author.\n\n[[Sources/Hassabis - source book.pdf#page=480|PDF p. 480]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "ef638ae48b9c5a03",
+      "type": "text",
+      "x": 1230,
+      "y": 3300,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Claire Cain Miller|Claire Cain Miller]]\n\nNew York Times journalist.\n\n[[Sources/Hassabis - source book.pdf#page=476|PDF p. 476]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "519f4d0e7c5f7daa",
+      "type": "text",
+      "x": 1640,
+      "y": 3300,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Claire Oldfield|Claire Oldfield]]\n\nDirector magazine author.\n\n[[Sources/Hassabis - source book.pdf#page=468|PDF p. 468]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "58ce0bba02e9eb2d",
+      "type": "text",
+      "x": 2050,
+      "y": 3300,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Claude Shannon|Claude Shannon]]\n\nInformation theorist and chess-computing pioneer; intellectual influence\n\n[[Sources/Hassabis - source book.pdf#page=84|PDF p. 84]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "2621626759f09931",
+      "type": "text",
+      "x": 0,
+      "y": 3630,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Clemency Burton-Hill|Clemency Burton-Hill]]\n\nJournalist cited.\n\n[[Sources/Hassabis - source book.pdf#page=467|PDF p. 467]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "bce5d30c2265de9f",
+      "type": "text",
+      "x": 410,
+      "y": 3630,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Clément Farabet|Clément Farabet]]\n\nAI researcher sought by Zuckerberg.\n\n[[Sources/Hassabis - source book.pdf#page=477|PDF p. 477]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e9a8daff3c02a9df",
+      "type": "text",
+      "x": 820,
+      "y": 3630,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Dan Teacher|Dan Teacher]]\n\nLawyer in Elixir financing.\n\n[[Sources/Hassabis - source book.pdf#page=467|PDF p. 467]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "fff29ef4cab8572f",
+      "type": "text",
+      "x": 1230,
+      "y": 3630,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Daniel Adiwardana|Daniel Adiwardana]]\n\nGoogle Research coauthor of Meena conversational-agent post\n\n[[Sources/Hassabis - source book.pdf#page=491|PDF p. 491]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "635bedb1f8f45645",
+      "type": "text",
+      "x": 1640,
+      "y": 3630,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Daniel Kahneman|Daniel Kahneman]]\n\nPsychologist cited for two-system thinking.\n\n[[Sources/Hassabis - source book.pdf#page=216|PDF p. 216]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "58981eba95b4811b",
+      "type": "text",
+      "x": 2050,
+      "y": 3630,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Daron Acemoglu|Daron Acemoglu]]\n\nEconomist; AI pause-letter signatory.\n\n[[Sources/Hassabis - source book.pdf#page=391|PDF p. 391]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9f5c22f80de4ee0f",
+      "type": "text",
+      "x": 0,
+      "y": 3960,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Daryl G. Kimball|Daryl G. Kimball]]\n\nNuclear-policy author.\n\n[[Sources/Hassabis - source book.pdf#page=482|PDF p. 482]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "df3445af1f9a7adc",
+      "type": "text",
+      "x": 410,
+      "y": 3960,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Dave Lawler|Dave Lawler]]\n\nAxios journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=499|PDF p. 499]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "79cbf951ab7fc356",
+      "type": "text",
+      "x": 820,
+      "y": 3960,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/David Aaronovitch|David Aaronovitch]]\n\nTimes journalist.\n\n[[Sources/Hassabis - source book.pdf#page=485|PDF p. 485]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e2f40a9ac3e6c820",
+      "type": "text",
+      "x": 1230,
+      "y": 3960,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/David Choe|David Choe]]\n\nArtist receiving Facebook stock.\n\n[[Sources/Hassabis - source book.pdf#page=206|PDF p. 206]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "1d916a46a54522de",
+      "type": "text",
+      "x": 1640,
+      "y": 3960,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/David Epstein|David Epstein]]\n\nEndorsement writer and author\n\n[[Sources/Hassabis - source book.pdf#page=51|PDF p. 51]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c3f2a4e3aaa06564",
+      "type": "text",
+      "x": 2050,
+      "y": 3960,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/David Gammon|David Gammon]]\n\nLondon financier and early DeepMind investor\n\n[[Sources/Hassabis - source book.pdf#page=41|PDF p. 41]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "45f20432b11c402a",
+      "type": "text",
+      "x": 0,
+      "y": 4290,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/David Hume|David Hume]]\n\nScottish philosopher discussed in foreword\n\n[[Sources/Hassabis - source book.pdf#page=22|PDF p. 22]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "6c75b8369d9fa1c4",
+      "type": "text",
+      "x": 410,
+      "y": 4290,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/David Levy|David Levy]]\n\nChess-computing author whose book influenced young Hassabis\n\n[[Sources/Hassabis - source book.pdf#page=83|PDF p. 83]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "719ab4a9f72cd2bd",
+      "type": "text",
+      "x": 820,
+      "y": 4290,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/David Rowan|David Rowan]]\n\nWired journalist.\n\n[[Sources/Hassabis - source book.pdf#page=476|PDF p. 476]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "eeb9e1e3f79cae2c",
+      "type": "text",
+      "x": 1230,
+      "y": 4290,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Daya Guo|Daya Guo]]\n\nAuthor of DeepSeek-R1 paper\n\n[[Sources/Hassabis - source book.pdf#page=500|PDF p. 500]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5dbea25bc1fb7941",
+      "type": "text",
+      "x": 1640,
+      "y": 4290,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Donald Trump|Donald Trump]]\n\nPolitical contextual mention\n\n[[Sources/Hassabis - source book.pdf#page=71|PDF p. 71]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "61b42f54e5b0a1c1",
+      "type": "text",
+      "x": 2050,
+      "y": 4290,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Douglas Hofstadter|Douglas Hofstadter]]\n\nAuthor of Gödel, Escher, Bach; intellectual influence on Hassabis and Silver\n\n[[Sources/Hassabis - source book.pdf#page=33|PDF p. 33]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "774c59d67e1a2c30",
+      "type": "text",
+      "x": 0,
+      "y": 4620,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Dzmitry Bahdanau|Dzmitry Bahdanau]]\n\nCoauthor of neural machine translation alignment/translation paper\n\n[[Sources/Hassabis - source book.pdf#page=486|PDF p. 486]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "525f18f98973b660",
+      "type": "text",
+      "x": 410,
+      "y": 4620,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Elias Canetti|Elias Canetti]]\n\nCrowds and Power author quoted by Hassabis\n\n[[Sources/Hassabis - source book.pdf#page=113|PDF p. 113]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "38f10add9ee160b1",
+      "type": "text",
+      "x": 820,
+      "y": 4620,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Eliezer Yudkowsky|Eliezer Yudkowsky]]\n\nAI thinker who introduced Hassabis and Legg to Thiel\n\n[[Sources/Hassabis - source book.pdf#page=147|PDF p. 147]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0c5783eabbdf4c5c",
+      "type": "text",
+      "x": 1230,
+      "y": 4620,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Elizabeth Gibney|Elizabeth Gibney]]\n\nNature journalist.\n\n[[Sources/Hassabis - source book.pdf#page=479|PDF p. 479]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "11ffca6ae8665c6c",
+      "type": "text",
+      "x": 1640,
+      "y": 4620,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Elizabeth I|Elizabeth I]]\n\nFounder of Queen Elizabeth's School in historical aside\n\n[[Sources/Hassabis - source book.pdf#page=137|PDF p. 137]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "fc9e76d0f76392ac",
+      "type": "text",
+      "x": 2050,
+      "y": 4620,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Emily M. Bender|Emily M. Bender]]\n\nCoauthor of On the Dangers of Stochastic Parrots\n\n[[Sources/Hassabis - source book.pdf#page=487|PDF p. 487]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7cba1b7f2d2d53e2",
+      "type": "text",
+      "x": 0,
+      "y": 4950,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Eric Topol|Eric Topol]]\n\nMedical commentator cited in healthcare discussion.\n\n[[Sources/Hassabis - source book.pdf#page=263|PDF p. 263]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e1bd193ca3d8e05d",
+      "type": "text",
+      "x": 410,
+      "y": 4950,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Eric Weiss|Eric Weiss]]\n\nBiographical source author.\n\n[[Sources/Hassabis - source book.pdf#page=464|PDF p. 464]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a5ceff3e8d097afa",
+      "type": "text",
+      "x": 820,
+      "y": 4950,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Ezra Klein|Ezra Klein]]\n\nNew York Times interviewer cited on government and AGI\n\n[[Sources/Hassabis - source book.pdf#page=496|PDF p. 496]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "afd49474840be59a",
+      "type": "text",
+      "x": 1230,
+      "y": 4950,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Farhad Manjoo|Farhad Manjoo]]\n\nNew York Times columnist quoted in governance slides\n\n[[Sources/Hassabis - source book.pdf#page=489|PDF p. 489]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b804a3689476aa06",
+      "type": "text",
+      "x": 1640,
+      "y": 4950,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Frances Butler|Frances Butler]]\n\nLawyer involved in acquisition.\n\n[[Sources/Hassabis - source book.pdf#page=477|PDF p. 477]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "48dab3494d036e4c",
+      "type": "text",
+      "x": 2050,
+      "y": 4950,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Francis Crick|Francis Crick]]\n\nDNA scientist and scientific exemplar\n\n[[Sources/Hassabis - source book.pdf#page=41|PDF p. 41]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "6bede88b7e61de36",
+      "type": "text",
+      "x": 0,
+      "y": 5280,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Frank Gehry|Frank Gehry]]\n\nArchitect of MIT computer-science building\n\n[[Sources/Hassabis - source book.pdf#page=125|PDF p. 125]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "87169270dada19c4",
+      "type": "text",
+      "x": 410,
+      "y": 5280,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Freeman Dyson|Freeman Dyson]]\n\nPhysicist; Dyson-sphere analogy.\n\n[[Sources/Hassabis - source book.pdf#page=450|PDF p. 450]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "45b83cad7a247497",
+      "type": "text",
+      "x": 820,
+      "y": 5280,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Fritz Lang|Fritz Lang]]\n\nMetropolis filmmaker\n\n[[Sources/Hassabis - source book.pdf#page=111|PDF p. 111]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c97ec1fb73f0877e",
+      "type": "text",
+      "x": 1230,
+      "y": 5280,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Garry Kasparov|Garry Kasparov]]\n\nChess champion defeated by IBM Deep Blue in 1997\n\n[[Sources/Hassabis - source book.pdf#page=84|PDF p. 84]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d8b118b991cf9030",
+      "type": "text",
+      "x": 1640,
+      "y": 5280,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Gary Carr|Gary Carr]]\n\nGame developer cited.\n\n[[Sources/Hassabis - source book.pdf#page=465|PDF p. 465]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e32ab4de98836b36",
+      "type": "text",
+      "x": 2050,
+      "y": 5280,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/George Hassabis|George Hassabis]]\n\nDemis's younger brother; Suleyman friend and business partner\n\n[[Sources/Hassabis - source book.pdf#page=86|PDF p. 86]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "fdff5a97bce1be69",
+      "type": "text",
+      "x": 0,
+      "y": 5610,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/George Orwell|George Orwell]]\n\nAuthor in model prompt example.\n\n[[Sources/Hassabis - source book.pdf#page=355|PDF p. 355]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e33f924ec7e75fa4",
+      "type": "text",
+      "x": 410,
+      "y": 5610,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Georgios Piliouras|Georgios Piliouras]]\n\nCoauthor of scalable AI safety via efficient debate paper\n\n[[Sources/Hassabis - source book.pdf#page=496|PDF p. 496]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "98416463dc628f06",
+      "type": "text",
+      "x": 820,
+      "y": 5610,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Gerrit De Vynck|Gerrit De Vynck]]\n\nWashington Post reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=494|PDF p. 494]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "3453e12ec92b4c96",
+      "type": "text",
+      "x": 1230,
+      "y": 5610,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Giles Turner|Giles Turner]]\n\nBloomberg reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=489|PDF p. 489]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "697738b60755628b",
+      "type": "text",
+      "x": 1640,
+      "y": 5610,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Gordon LaForge|Gordon LaForge]]\n\nAdviser/source who drew attention to Helen Keller quotation\n\n[[Sources/Hassabis - source book.pdf#page=491|PDF p. 491]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e82c53f23b6ed4ba",
+      "type": "text",
+      "x": 2050,
+      "y": 5610,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Greg Kohs|Greg Kohs]]\n\nAlphaGo documentary filmmaker.\n\n[[Sources/Hassabis - source book.pdf#page=480|PDF p. 480]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "372d2e09923fb1b1",
+      "type": "text",
+      "x": 0,
+      "y": 5940,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Gregory Stock|Gregory Stock]]\n\nBiophysicist at 2010 Singularity Summit\n\n[[Sources/Hassabis - source book.pdf#page=145|PDF p. 145]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "6abbecad054cbc27",
+      "type": "text",
+      "x": 410,
+      "y": 5940,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Gu Li|Gu Li]]\n\nProfessional Go player in match commentary context.\n\n[[Sources/Hassabis - source book.pdf#page=231|PDF p. 231]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "2daa9716d1eed0c2",
+      "type": "text",
+      "x": 820,
+      "y": 5940,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Guy Simmons|Guy Simmons]]\n\nBullfrog interviewee.\n\n[[Sources/Hassabis - source book.pdf#page=465|PDF p. 465]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7a83b394ca873c61",
+      "type": "text",
+      "x": 1230,
+      "y": 5940,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/H. G. Wells|H. G. Wells]]\n\nScience-fiction author.\n\n[[Sources/Hassabis - source book.pdf#page=471|PDF p. 471]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b1d95f7624962a69",
+      "type": "text",
+      "x": 1640,
+      "y": 5940,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Habryka|Habryka]]\n\nLessWrong archive contributor; pseudonym.\n\n[[Sources/Hassabis - source book.pdf#page=481|PDF p. 481]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "bf650b4ef37778b0",
+      "type": "text",
+      "x": 2050,
+      "y": 5940,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Hal Hodson|Hal Hodson]]\n\nNew Scientist journalist.\n\n[[Sources/Hassabis - source book.pdf#page=484|PDF p. 484]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "88f8f5314bba55e3",
+      "type": "text",
+      "x": 0,
+      "y": 6270,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Hang Li|Hang Li]]\n\nEndorsement writer; ACM, ACL and IEEE fellow\n\n[[Sources/Hassabis - source book.pdf#page=48|PDF p. 48]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "310a58474ce93bab",
+      "type": "text",
+      "x": 410,
+      "y": 6270,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Hannah Fry|Hannah Fry]]\n\nDeepMind podcast interviewer.\n\n[[Sources/Hassabis - source book.pdf#page=481|PDF p. 481]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "14f389e1dd35bad4",
+      "type": "text",
+      "x": 820,
+      "y": 6270,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Hans Moravec|Hans Moravec]]\n\nName appears as Moravec's paradox; no affiliation inferred.\n\n[[Sources/Hassabis - source book.pdf#page=268|PDF p. 268]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "2e4b6041014aa205",
+      "type": "text",
+      "x": 1230,
+      "y": 6270,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Harry Lambert|Harry Lambert]]\n\nNew Statesman journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=495|PDF p. 495]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "024d7a5fc6724b02",
+      "type": "text",
+      "x": 1640,
+      "y": 6270,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Hasan Chowdhury|Hasan Chowdhury]]\n\nBusiness Insider reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=494|PDF p. 494]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "518eb2beadbeb224",
+      "type": "text",
+      "x": 2050,
+      "y": 6270,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Helen Keller|Helen Keller]]\n\nQuoted on language and awareness.\n\n[[Sources/Hassabis - source book.pdf#page=352|PDF p. 352]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b358ae638786db6d",
+      "type": "text",
+      "x": 0,
+      "y": 6600,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Helen Toner|Helen Toner]]\n\nCoauthor of Decoding Intentions at CSET\n\n[[Sources/Hassabis - source book.pdf#page=497|PDF p. 497]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "88c80cd70984bb88",
+      "type": "text",
+      "x": 410,
+      "y": 6600,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Henri Bergson|Henri Bergson]]\n\nPhilosopher in memory discussion.\n\n[[Sources/Hassabis - source book.pdf#page=279|PDF p. 279]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e272d68034f1733e",
+      "type": "text",
+      "x": 820,
+      "y": 6600,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Henry Cavendish|Henry Cavendish]]\n\nForeword historical reference; passage about laboratory founding is chronologically suspect\n\n[[Sources/Hassabis - source book.pdf#page=41|PDF p. 41]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "959f3eab27a348d2",
+      "type": "text",
+      "x": 1230,
+      "y": 6600,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Holman W. Jenkins|Holman W. Jenkins]]\n\nWall Street Journal columnist.\n\n[[Sources/Hassabis - source book.pdf#page=476|PDF p. 476]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "cfc54323ca2d5f6a",
+      "type": "text",
+      "x": 1640,
+      "y": 6600,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Hugh Montgomery|Hugh Montgomery]]\n\nDoctor who introduced Suleyman to Laing.\n\n[[Sources/Hassabis - source book.pdf#page=483|PDF p. 483]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9321d7c0c5529b1a",
+      "type": "text",
+      "x": 2050,
+      "y": 6600,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Hunter Lightman|Hunter Lightman]]\n\nOpenAI researcher; Noam Brown collaborator; stepwise verification paper author\n\n[[Sources/Hassabis - source book.pdf#page=498|PDF p. 498]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "20eaa39174992dfe",
+      "type": "text",
+      "x": 0,
+      "y": 6930,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Iain M. Banks|Iain M. Banks]]\n\nCulture-series author; influence on Hassabis\n\n[[Sources/Hassabis - source book.pdf#page=91|PDF p. 91]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "259f6404cd17e4be",
+      "type": "text",
+      "x": 410,
+      "y": 6930,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Ilse Beddoes|Ilse Beddoes]]\n\nAuthor's family acknowledgment.\n\n[[Sources/Hassabis - source book.pdf#page=462|PDF p. 462]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b89fc92a2f14fc5a",
+      "type": "text",
+      "x": 820,
+      "y": 6930,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Immanuel Kant|Immanuel Kant]]\n\nPhilosophical influence discussed by Hassabis\n\n[[Sources/Hassabis - source book.pdf#page=18|PDF p. 18]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "78a402c1df8b62d5",
+      "type": "text",
+      "x": 1230,
+      "y": 6930,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Ioannis Antonoglou|Ioannis Antonoglou]]\n\nAlphaZero researcher.\n\n[[Sources/Hassabis - source book.pdf#page=485|PDF p. 485]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "503909c2a7468200",
+      "type": "text",
+      "x": 1640,
+      "y": 6930,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Isaac Asimov|Isaac Asimov]]\n\nFoundation author; influence on Hassabis\n\n[[Sources/Hassabis - source book.pdf#page=90|PDF p. 90]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f5668abf5dfb20ae",
+      "type": "text",
+      "x": 2050,
+      "y": 6930,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Isaac Newton|Isaac Newton]]\n\nScientific exemplar\n\n[[Sources/Hassabis - source book.pdf#page=41|PDF p. 41]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "187fd7f4cc26ef21",
+      "type": "text",
+      "x": 0,
+      "y": 7260,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/J. Robert Oppenheimer|J. Robert Oppenheimer]]\n\nAtomic-bomb comparison and quotation\n\n[[Sources/Hassabis - source book.pdf#page=19|PDF p. 19]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b94086af427272f5",
+      "type": "text",
+      "x": 410,
+      "y": 7260,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jack Ma|Jack Ma]]\n\nAlibaba founder used as funding comparison.\n\n[[Sources/Hassabis - source book.pdf#page=467|PDF p. 467]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "47626758f0662d5d",
+      "type": "text",
+      "x": 820,
+      "y": 7260,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jack Nicas|Jack Nicas]]\n\nNew York Times reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=489|PDF p. 489]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "3effc8e1d4db09f0",
+      "type": "text",
+      "x": 1230,
+      "y": 7260,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jai Chhatwal|Jai Chhatwal]]\n\nResearch intern.\n\n[[Sources/Hassabis - source book.pdf#page=461|PDF p. 461]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5df49a993044ca6c",
+      "type": "text",
+      "x": 1640,
+      "y": 7260,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jake Sullivan|Jake Sullivan]]\n\nUS national security adviser who supported Buchanan\n\n[[Sources/Hassabis - source book.pdf#page=496|PDF p. 496]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "288eabb10e7f9453",
+      "type": "text",
+      "x": 2050,
+      "y": 7260,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/James Cameron|James Cameron]]\n\nTerminator film director in editorial note\n\n[[Sources/Hassabis - source book.pdf#page=160|PDF p. 160]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "20f5e1f6c1efb987",
+      "type": "text",
+      "x": 0,
+      "y": 7590,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/James Clerk Maxwell|James Clerk Maxwell]]\n\nForeword Cavendish Laboratory inscription context\n\n[[Sources/Hassabis - source book.pdf#page=41|PDF p. 41]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "30fd7671140edc4a",
+      "type": "text",
+      "x": 410,
+      "y": 7590,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/James Gleick|James Gleick]]\n\nAuthor cited.\n\n[[Sources/Hassabis - source book.pdf#page=466|PDF p. 466]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "002c05aa6b960d4e",
+      "type": "text",
+      "x": 820,
+      "y": 7590,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/James Madison|James Madison]]\n\nUS constitutional history analogy; distinct from Chris Maddison.\n\n[[Sources/Hassabis - source book.pdf#page=306|PDF p. 306]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a2e3bfb2f66d43e7",
+      "type": "text",
+      "x": 1230,
+      "y": 7590,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/James Manyika|James Manyika]]\n\nAI-and-society author.\n\n[[Sources/Hassabis - source book.pdf#page=466|PDF p. 466]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b4158321b75e1dbf",
+      "type": "text",
+      "x": 1640,
+      "y": 7590,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/James Watson|James Watson]]\n\nDNA scientist dramatized in Life Story\n\n[[Sources/Hassabis - source book.pdf#page=93|PDF p. 93]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "40cdc04eccf52bea",
+      "type": "text",
+      "x": 2050,
+      "y": 7590,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jason Schreier|Jason Schreier]]\n\nKotaku journalist cited.\n\n[[Sources/Hassabis - source book.pdf#page=465|PDF p. 465]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "137a83cbdee2c934",
+      "type": "text",
+      "x": 0,
+      "y": 7920,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jason Wei|Jason Wei]]\n\nAuthor of Finetuned Language Models Are Zero-Shot Learners\n\n[[Sources/Hassabis - source book.pdf#page=492|PDF p. 492]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5befaccc475a66e3",
+      "type": "text",
+      "x": 410,
+      "y": 7920,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jean-Baptiste Alayrac|Jean-Baptiste Alayrac]]\n\nCoauthor of DeepMind visual-language model post\n\n[[Sources/Hassabis - source book.pdf#page=492|PDF p. 492]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "ad8a695331762c6e",
+      "type": "text",
+      "x": 820,
+      "y": 7920,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jeanine Banks|Jeanine Banks]]\n\nCoauthor of Google Gemma announcement\n\n[[Sources/Hassabis - source book.pdf#page=497|PDF p. 497]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "3e6e4116706e30ab",
+      "type": "text",
+      "x": 1230,
+      "y": 7920,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jeff Donahue|Jeff Donahue]]\n\nCoauthor of DeepMind visual-language model post\n\n[[Sources/Hassabis - source book.pdf#page=492|PDF p. 492]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5b0979445dac9d09",
+      "type": "text",
+      "x": 1640,
+      "y": 7920,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jeffrey De Fauw|Jeffrey De Fauw]]\n\nRetinal-disease deep-learning author.\n\n[[Sources/Hassabis - source book.pdf#page=485|PDF p. 485]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "29e0c70fe31247ee",
+      "type": "text",
+      "x": 2050,
+      "y": 7920,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jensen Huang|Jensen Huang]]\n\nNVIDIA leader, book-title subject.\n\n[[Sources/Hassabis - source book.pdf#page=480|PDF p. 480]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "229a3466b80851d2",
+      "type": "text",
+      "x": 0,
+      "y": 8250,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jeremy Kahn|Jeremy Kahn]]\n\nFortune journalist cited on AlphaFold\n\n[[Sources/Hassabis - source book.pdf#page=490|PDF p. 490]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b3f9cc443366a176",
+      "type": "text",
+      "x": 410,
+      "y": 8250,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Joe Biden|Joe Biden]]\n\nThen US president.\n\n[[Sources/Hassabis - source book.pdf#page=395|PDF p. 395]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "cc423ee28b96cfe0",
+      "type": "text",
+      "x": 820,
+      "y": 8250,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Joe Tsai|Joe Tsai]]\n\nPotential DeepMind investor approached but declined; no investment asserted.\n\n[[Sources/Hassabis - source book.pdf#page=317|PDF p. 317]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5bbc4cd565156b6b",
+      "type": "text",
+      "x": 1230,
+      "y": 8250,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Joelle Pineau|Joelle Pineau]]\n\nGuez MSc supervisor; linked source is student’s biography.\n\n[Profile / source](https://www.gatsby.ucl.ac.uk/~aguez/)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7e8664487f708142",
+      "type": "text",
+      "x": 1640,
+      "y": 8250,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Johann Sebastian Bach|Johann Sebastian Bach]]\n\nName appears in book title Gödel, Escher, Bach; no affiliation implied.\n\n[[Sources/Hassabis - source book.pdf#page=12|PDF p. 12]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "90046a8729ad5ea7",
+      "type": "text",
+      "x": 2050,
+      "y": 8250,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/John Cassy|John Cassy]]\n\nGuardian journalist.\n\n[[Sources/Hassabis - source book.pdf#page=468|PDF p. 468]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "64e39e2aa7bf768f",
+      "type": "text",
+      "x": 0,
+      "y": 8580,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/John Conway|John Conway]]\n\nMathematician associated with Game of Life.\n\n[[Sources/Hassabis - source book.pdf#page=291|PDF p. 291]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c3817ea34e074227",
+      "type": "text",
+      "x": 410,
+      "y": 8580,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/John Dewey|John Dewey]]\n\nEducational philosopher cited in learning discussion.\n\n[[Sources/Hassabis - source book.pdf#page=297|PDF p. 297]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d7986f668a37adcd",
+      "type": "text",
+      "x": 820,
+      "y": 8580,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/John Fowles|John Fowles]]\n\nThe Magus author; literary comparison\n\n[[Sources/Hassabis - source book.pdf#page=104|PDF p. 104]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a1078a6d50348764",
+      "type": "text",
+      "x": 1230,
+      "y": 8580,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/John Hopfield|John Hopfield]]\n\nIncluded because a sourced relationship names this entity.\n\nSee linked evidence note",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7bdcc2b4c7560a78",
+      "type": "text",
+      "x": 1640,
+      "y": 8580,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/John Markoff|John Markoff]]\n\nNew York Times journalist.\n\n[[Sources/Hassabis - source book.pdf#page=475|PDF p. 475]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e44bbed2f2fb350b",
+      "type": "text",
+      "x": 2050,
+      "y": 8580,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/John Moult|John Moult]]\n\nCASP founder and organizer.\n\n[[Sources/Hassabis - source book.pdf#page=344|PDF p. 344]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e84478003e3eab91",
+      "type": "text",
+      "x": 0,
+      "y": 8910,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/John Sugden|John Sugden]]\n\nHassabis chess opponent.\n\n[[Sources/Hassabis - source book.pdf#page=464|PDF p. 464]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "210782b86dcca41b",
+      "type": "text",
+      "x": 410,
+      "y": 8910,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/John von Neumann|John von Neumann]]\n\nAtomic-bomb-era epigraph and scientific responsibility comparison\n\n[[Sources/Hassabis - source book.pdf#page=14|PDF p. 14]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5b1e2581d73716a4",
+      "type": "text",
+      "x": 820,
+      "y": 8910,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jonah Brown-Cohen|Jonah Brown-Cohen]]\n\nCoauthor of scalable AI safety via efficient debate paper\n\n[[Sources/Hassabis - source book.pdf#page=496|PDF p. 496]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5b8744624ae08957",
+      "type": "text",
+      "x": 1230,
+      "y": 8910,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jordan Hoffmann|Jordan Hoffmann]]\n\nAuthor of Training Compute-Optimal Large Language Models\n\n[[Sources/Hassabis - source book.pdf#page=492|PDF p. 492]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9464cb195cf993fb",
+      "type": "text",
+      "x": 1640,
+      "y": 8910,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Joseph Modayil|Joseph Modayil]]\n\nSutton postdoctoral alumnus; researcher in reinforcement learning.\n\n[Profile / source](https://preview.ualberta.ca/science/about-us/contours/2017-fall-contours/2017/november/deepmind-is-ready-and-set-to-go.html)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "bbeef1f6b98cd5a8",
+      "type": "text",
+      "x": 2050,
+      "y": 8910,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Judit Polgár|Judit Polgár]]\n\nChess grandmaster.\n\n[[Sources/Hassabis - source book.pdf#page=464|PDF p. 464]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9f5e656ccdd65b61",
+      "type": "text",
+      "x": 0,
+      "y": 9240,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Julian Schrittwieser|Julian Schrittwieser]]\n\nAlphaZero researcher.\n\n[[Sources/Hassabis - source book.pdf#page=485|PDF p. 485]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "1ed9fbf7cd78c239",
+      "type": "text",
+      "x": 410,
+      "y": 9240,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Julius Caesar|Julius Caesar]]\n\nHistorical analogy.\n\n[[Sources/Hassabis - source book.pdf#page=206|PDF p. 206]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "59ad955a52f625e0",
+      "type": "text",
+      "x": 820,
+      "y": 9240,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jérémy Scheurer|Jérémy Scheurer]]\n\nAuthor of paper on strategic deception under pressure\n\n[[Sources/Hassabis - source book.pdf#page=500|PDF p. 500]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "fc477bb7a936a395",
+      "type": "text",
+      "x": 1230,
+      "y": 9240,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Jürgen Schmidhuber|Jürgen Schmidhuber]]\n\nResearcher combining deep and reinforcement learning.\n\n[[Sources/Hassabis - source book.pdf#page=473|PDF p. 473]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c20f80da55645bf9",
+      "type": "text",
+      "x": 1640,
+      "y": 9240,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Kamala Harris|Kamala Harris]]\n\nThen US vice president.\n\n[[Sources/Hassabis - source book.pdf#page=398|PDF p. 398]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "fa17a97885dbabc1",
+      "type": "text",
+      "x": 2050,
+      "y": 9240,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Karen Hao|Karen Hao]]\n\nAI journalist and cited author.\n\n[[Sources/Hassabis - source book.pdf#page=469|PDF p. 469]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "37e8ce9511130ebe",
+      "type": "text",
+      "x": 0,
+      "y": 9570,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Karen Weise|Karen Weise]]\n\nNew York Times journalist.\n\n[[Sources/Hassabis - source book.pdf#page=471|PDF p. 471]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "abde697d46afde3f",
+      "type": "text",
+      "x": 410,
+      "y": 9570,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Karol Gregor|Karol Gregor]]\n\nLeCun collaborator.\n\n[[Sources/Hassabis - source book.pdf#page=474|PDF p. 474]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5e0d54b01627f8ae",
+      "type": "text",
+      "x": 820,
+      "y": 9570,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Karoline Leavitt|Karoline Leavitt]]\n\nUS White House press secretary.\n\n[[Sources/Hassabis - source book.pdf#page=432|PDF p. 432]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "433ce41c075a683c",
+      "type": "text",
+      "x": 1230,
+      "y": 9570,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Kat Duffy|Kat Duffy]]\n\nAuthor's CFR colleague.\n\n[[Sources/Hassabis - source book.pdf#page=460|PDF p. 460]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "342a3acffcf85aaa",
+      "type": "text",
+      "x": 1640,
+      "y": 9570,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Ke Jie|Ke Jie]]\n\nGo player defeated by AlphaGo\n\n[[Sources/Hassabis - source book.pdf#page=38|PDF p. 38]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5a6bfa0b631eac2b",
+      "type": "text",
+      "x": 2050,
+      "y": 9570,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Keach Hagey|Keach Hagey]]\n\nAltman biographer.\n\n[[Sources/Hassabis - source book.pdf#page=481|PDF p. 481]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "47063a818f3e76bc",
+      "type": "text",
+      "x": 0,
+      "y": 9900,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Ken Macdonald|Ken Macdonald]]\n\nSenior lawyer in Suleyman's legal team; former prosecution head\n\n[[Sources/Hassabis - source book.pdf#page=488|PDF p. 488]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "58b6e68911152f62",
+      "type": "text",
+      "x": 410,
+      "y": 9900,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Kevin Hurler|Kevin Hurler]]\n\nGizmodo journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=495|PDF p. 495]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "12f9f734070bd287",
+      "type": "text",
+      "x": 820,
+      "y": 9900,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Kevin Roose|Kevin Roose]]\n\nNew York Times columnist.\n\n[[Sources/Hassabis - source book.pdf#page=382|PDF p. 382]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e397e1183e16b2fb",
+      "type": "text",
+      "x": 1230,
+      "y": 9900,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Klaus Fuchs|Klaus Fuchs]]\n\nManhattan Project spy, historical analogy.\n\n[[Sources/Hassabis - source book.pdf#page=481|PDF p. 481]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "93640895c0fb85b6",
+      "type": "text",
+      "x": 1640,
+      "y": 9900,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Krisha Desai|Krisha Desai]]\n\nResearch intern.\n\n[[Sources/Hassabis - source book.pdf#page=461|PDF p. 461]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e68b38201d51953c",
+      "type": "text",
+      "x": 2050,
+      "y": 9900,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Krystal Hu|Krystal Hu]]\n\nReuters journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=493|PDF p. 493]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0cb9b4efa6dd9f44",
+      "type": "text",
+      "x": 0,
+      "y": 10230,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Kurt Gödel|Kurt Gödel]]\n\nIncompleteness theorem and GEB influence\n\n[[Sources/Hassabis - source book.pdf#page=12|PDF p. 12]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d682758b26e3b45f",
+      "type": "text",
+      "x": 410,
+      "y": 10230,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Kyle Wiggers|Kyle Wiggers]]\n\nVentureBeat reporter cited for AlphaStar coverage\n\n[[Sources/Hassabis - source book.pdf#page=488|PDF p. 488]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b38abe42b0ff68e3",
+      "type": "text",
+      "x": 820,
+      "y": 10230,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Kylie Robison|Kylie Robison]]\n\nVerge journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=494|PDF p. 494]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b7d8986d15185733",
+      "type": "text",
+      "x": 1230,
+      "y": 10230,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Kyunghyun Cho|Kyunghyun Cho]]\n\nCoauthor of neural machine translation alignment/translation paper\n\n[[Sources/Hassabis - source book.pdf#page=486|PDF p. 486]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "bff0c1b4290f3ff9",
+      "type": "text",
+      "x": 1640,
+      "y": 10230,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Laurent Sifre|Laurent Sifre]]\n\nEngineer identified in AlphaFold chapter endnote\n\n[[Sources/Hassabis - source book.pdf#page=490|PDF p. 490]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "780923e8448de167",
+      "type": "text",
+      "x": 2050,
+      "y": 10230,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Lee Sedol|Lee Sedol]]\n\nGo player defeated by AlphaGo\n\n[[Sources/Hassabis - source book.pdf#page=38|PDF p. 38]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c7495846a7d2c615",
+      "type": "text",
+      "x": 0,
+      "y": 10560,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Leena Rao|Leena Rao]]\n\nTechCrunch journalist.\n\n[[Sources/Hassabis - source book.pdf#page=471|PDF p. 471]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9ed53020c0d31224",
+      "type": "text",
+      "x": 410,
+      "y": 10560,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Leila Hajaj|Leila Hajaj]]\n\nAcknowledged project supporter.\n\n[[Sources/Hassabis - source book.pdf#page=462|PDF p. 462]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "198f94c6e060d793",
+      "type": "text",
+      "x": 820,
+      "y": 10560,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Leo Szilard|Leo Szilard]]\n\nNuclear-chain-reaction pioneer invoked by Hassabis\n\n[[Sources/Hassabis - source book.pdf#page=157|PDF p. 157]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0a81f7d6db3d9914",
+      "type": "text",
+      "x": 1230,
+      "y": 10560,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Leonard Barden|Leonard Barden]]\n\nChess expert who recognized young Hassabis's talent\n\n[[Sources/Hassabis - source book.pdf#page=32|PDF p. 32]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "20a312a95ea29e7c",
+      "type": "text",
+      "x": 1640,
+      "y": 10560,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Leonardo da Vinci|Leonardo da Vinci]]\n\nHistorical art-and-science analogy.\n\n[[Sources/Hassabis - source book.pdf#page=187|PDF p. 187]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "57bbe7677c5d72c5",
+      "type": "text",
+      "x": 2050,
+      "y": 10560,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Leopold Aschenbrenner|Leopold Aschenbrenner]]\n\nSituational Awareness author\n\n[[Sources/Hassabis - source book.pdf#page=491|PDF p. 491]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "93346850d97c95c7",
+      "type": "text",
+      "x": 0,
+      "y": 10890,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Lex Fridman|Lex Fridman]]\n\nPodcast host named in citation\n\n[[Sources/Hassabis - source book.pdf#page=495|PDF p. 495]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "45f2e288c99d744c",
+      "type": "text",
+      "x": 410,
+      "y": 10890,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Leó Szilárd|Leó Szilárd]]\n\nNuclear physicist influenced by science fiction.\n\n[[Sources/Hassabis - source book.pdf#page=471|PDF p. 471]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d7c01fbe51a3caf1",
+      "type": "text",
+      "x": 820,
+      "y": 10890,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Li Ka-shing|Li Ka-shing]]\n\nBusinessperson whose wealth Chau manages in the account.\n\n[[Sources/Hassabis - source book.pdf#page=196|PDF p. 196]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f1defc8ca6b8d009",
+      "type": "text",
+      "x": 1230,
+      "y": 10890,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Li Qiang|Li Qiang]]\n\nChinese premier.\n\n[[Sources/Hassabis - source book.pdf#page=432|PDF p. 432]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f634e588bcff39bb",
+      "type": "text",
+      "x": 1640,
+      "y": 10890,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Liza Jacob|Liza Jacob]]\n\nResearch assistant replacing Pezzullo in 2025.\n\n[[Sources/Hassabis - source book.pdf#page=461|PDF p. 461]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "2e2f8197a3110564",
+      "type": "text",
+      "x": 2050,
+      "y": 10890,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Lyndon B. Johnson|Lyndon B. Johnson]]\n\nSubject of Caro biography.\n\n[[Sources/Hassabis - source book.pdf#page=238|PDF p. 238]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "10fcecb8ab94ccce",
+      "type": "text",
+      "x": 0,
+      "y": 11220,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Lü Yan|Lü Yan]]\n\nChinese edition print production editor; name visually checked\n\n[[Sources/Hassabis - source book.pdf#page=504|PDF p. 504]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "faaf4117f5c1a8f7",
+      "type": "text",
+      "x": 410,
+      "y": 11220,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/M. C. Escher|M. C. Escher]]\n\nName appears in book title Gödel, Escher, Bach; no affiliation implied.\n\n[[Sources/Hassabis - source book.pdf#page=12|PDF p. 12]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9c3d023548ce8668",
+      "type": "text",
+      "x": 820,
+      "y": 11220,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/MC Hammer|MC Hammer]]\n\nMusician mentioned in team music choices.\n\n[[Sources/Hassabis - source book.pdf#page=344|PDF p. 344]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "8ebb59e795a6e5a0",
+      "type": "text",
+      "x": 1230,
+      "y": 11220,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Madhumita Murgia|Madhumita Murgia]]\n\nFinancial Times reporter cited on DeepMind Health\n\n[[Sources/Hassabis - source book.pdf#page=489|PDF p. 489]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "ae1274b0f1ea4ae7",
+      "type": "text",
+      "x": 1640,
+      "y": 11220,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Madonna|Madonna]]\n\nSinger mentioned in team music choices.\n\n[[Sources/Hassabis - source book.pdf#page=344|PDF p. 344]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "099a91b1e460621f",
+      "type": "text",
+      "x": 2050,
+      "y": 11220,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Maisha Frost|Maisha Frost]]\n\nDaily Express journalist.\n\n[[Sources/Hassabis - source book.pdf#page=468|PDF p. 468]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5e0eb64a9b84ead4",
+      "type": "text",
+      "x": 0,
+      "y": 11550,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Margaret O'Mara|Margaret O'Mara]]\n\nEndorsement writer and historian\n\n[[Sources/Hassabis - source book.pdf#page=50|PDF p. 50]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d0264ea657c0834a",
+      "type": "text",
+      "x": 410,
+      "y": 11550,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Marion Kerr|Marion Kerr]]\n\nHealth-economics paper author.\n\n[[Sources/Hassabis - source book.pdf#page=483|PDF p. 483]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "1016e82c55debada",
+      "type": "text",
+      "x": 820,
+      "y": 11550,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Mark Bergen|Mark Bergen]]\n\nBloomberg reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=489|PDF p. 489]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c64d78e576e8e170",
+      "type": "text",
+      "x": 1230,
+      "y": 11550,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Mark Harris|Mark Harris]]\n\nTechCrunch reporter cited on Musk/OpenAI donations\n\n[[Sources/Hassabis - source book.pdf#page=488|PDF p. 488]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c3bc46ff84f8e040",
+      "type": "text",
+      "x": 1640,
+      "y": 11550,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book + web\n\n### [[People/Martin Müller|Martin Müller]]\n\nUniversity of Alberta researcher; Silver PhD co-supervisor.\n\n[Profile / source](https://webdocs.cs.ualberta.ca/~mmueller/students.html)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "dac2f73d6f74412a",
+      "type": "text",
+      "x": 2050,
+      "y": 11550,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Matthew Sadler|Matthew Sadler]]\n\nChess grandmaster and author.\n\n[[Sources/Hassabis - source book.pdf#page=464|PDF p. 464]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "23216a308be73796",
+      "type": "text",
+      "x": 0,
+      "y": 11880,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Maureen Dowd|Maureen Dowd]]\n\nVanity Fair journalist.\n\n[[Sources/Hassabis - source book.pdf#page=469|PDF p. 469]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0759dfd0eaa49042",
+      "type": "text",
+      "x": 410,
+      "y": 11880,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Max Planck|Max Planck]]\n\nQuantum physicist.\n\n[[Sources/Hassabis - source book.pdf#page=450|PDF p. 450]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "4daf6be8df32bc06",
+      "type": "text",
+      "x": 820,
+      "y": 11880,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Max Welling|Max Welling]]\n\nIncluded because a sourced relationship names this entity.\n\nSee linked evidence note",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "09b3c80416f4ee1c",
+      "type": "text",
+      "x": 1230,
+      "y": 11880,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Megan Garber|Megan Garber]]\n\nAtlantic journalist.\n\n[[Sources/Hassabis - source book.pdf#page=475|PDF p. 475]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "eb262de7cbc03a5b",
+      "type": "text",
+      "x": 1640,
+      "y": 11880,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Meghan O'Gieblyn|Meghan O'Gieblyn]]\n\nTechnology-and-religion author.\n\n[[Sources/Hassabis - source book.pdf#page=481|PDF p. 481]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "6e472f2d686dcc6c",
+      "type": "text",
+      "x": 2050,
+      "y": 11880,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Melissa Heikkilä|Melissa Heikkilä]]\n\nMIT Technology Review reporter cited on Gemini\n\n[[Sources/Hassabis - source book.pdf#page=497|PDF p. 497]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a8e879985ab20fc0",
+      "type": "text",
+      "x": 0,
+      "y": 12210,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Melissa Liu|Melissa Liu]]\n\nResearch intern.\n\n[[Sources/Hassabis - source book.pdf#page=461|PDF p. 461]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "784f6f01fc49aef8",
+      "type": "text",
+      "x": 410,
+      "y": 12210,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Michael Bhaskar|Michael Bhaskar]]\n\nSuleyman's Oxford friend and interviewee.\n\n[[Sources/Hassabis - source book.pdf#page=470|PDF p. 470]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c13afa5f154faca4",
+      "type": "text",
+      "x": 820,
+      "y": 12210,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Michael Redmond|Michael Redmond]]\n\nGo match commentator.\n\n[[Sources/Hassabis - source book.pdf#page=233|PDF p. 233]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7173b45828b796a7",
+      "type": "text",
+      "x": 1230,
+      "y": 12210,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Mike Diskett|Mike Diskett]]\n\nFormer Molyneux employee.\n\n[[Sources/Hassabis - source book.pdf#page=465|PDF p. 465]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "269a010d06d9790d",
+      "type": "text",
+      "x": 1640,
+      "y": 12210,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Mike Hodgkinson|Mike Hodgkinson]]\n\nIndependent journalist.\n\n[[Sources/Hassabis - source book.pdf#page=470|PDF p. 470]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "06195b1526998a0a",
+      "type": "text",
+      "x": 2050,
+      "y": 12210,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Mike Isaac|Mike Isaac]]\n\nNew York Times journalist.\n\n[[Sources/Hassabis - source book.pdf#page=471|PDF p. 471]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9ff13686e72a692c",
+      "type": "text",
+      "x": 0,
+      "y": 12540,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Miles Kruppa|Miles Kruppa]]\n\nWall Street Journal reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=494|PDF p. 494]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7e756f3e9b6471da",
+      "type": "text",
+      "x": 410,
+      "y": 12540,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Mohammed AlQuraishi|Mohammed AlQuraishi]]\n\nScientist/blog author commenting on AlphaFold and CASP\n\n[[Sources/Hassabis - source book.pdf#page=490|PDF p. 490]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "cf57c2028ac245e6",
+      "type": "text",
+      "x": 820,
+      "y": 12540,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Morgan Meaker|Morgan Meaker]]\n\nWired reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=494|PDF p. 494]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "091fae82bb2e5588",
+      "type": "text",
+      "x": 1230,
+      "y": 12540,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Murray Campbell|Murray Campbell]]\n\nDeep Blue engineer cited on machine capability.\n\n[[Sources/Hassabis - source book.pdf#page=268|PDF p. 268]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b42a777916e97513",
+      "type": "text",
+      "x": 1640,
+      "y": 12540,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Natasha Regan|Natasha Regan]]\n\nGame Changer coauthor.\n\n[[Sources/Hassabis - source book.pdf#page=464|PDF p. 464]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "6599b875c8e54f19",
+      "type": "text",
+      "x": 2050,
+      "y": 12540,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Navdeep Jaitly|Navdeep Jaitly]]\n\nAI researcher whom Zuckerberg interviewed.\n\n[[Sources/Hassabis - source book.pdf#page=477|PDF p. 477]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9866eeb249982354",
+      "type": "text",
+      "x": 0,
+      "y": 12870,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Nenad Tomašev|Nenad Tomašev]]\n\nKidney-injury prediction paper author.\n\n[[Sources/Hassabis - source book.pdf#page=485|PDF p. 485]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "28402f2cb8ef3ac0",
+      "type": "text",
+      "x": 410,
+      "y": 12870,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Nick Srnicek|Nick Srnicek]]\n\nPolitical-economy author.\n\n[[Sources/Hassabis - source book.pdf#page=483|PDF p. 483]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "316660675867252d",
+      "type": "text",
+      "x": 820,
+      "y": 12870,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Nico Grant|Nico Grant]]\n\nNew York Times journalist.\n\n[[Sources/Hassabis - source book.pdf#page=471|PDF p. 471]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5a5778cd99c05cde",
+      "type": "text",
+      "x": 1230,
+      "y": 12870,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Nicolaus Copernicus|Nicolaus Copernicus]]\n\nScientific-history comparison\n\n[[Sources/Hassabis - source book.pdf#page=94|PDF p. 94]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "58224c56e756a462",
+      "type": "text",
+      "x": 1640,
+      "y": 12870,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Nicole Kobie|Nicole Kobie]]\n\nWired journalist.\n\n[[Sources/Hassabis - source book.pdf#page=485|PDF p. 485]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "ffb900a8746a97fc",
+      "type": "text",
+      "x": 2050,
+      "y": 12870,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Nilay Patel|Nilay Patel]]\n\nVerge journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=495|PDF p. 495]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "8a0e9468a4887326",
+      "type": "text",
+      "x": 0,
+      "y": 13200,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Nitasha Tiku|Nitasha Tiku]]\n\nWashington Post reporter cited on Lemoine\n\n[[Sources/Hassabis - source book.pdf#page=493|PDF p. 493]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "763ff2255c794196",
+      "type": "text",
+      "x": 410,
+      "y": 13200,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Novak Djokovic|Novak Djokovic]]\n\nTennis player in Wimbledon anecdote.\n\n[[Sources/Hassabis - source book.pdf#page=176|PDF p. 176]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "3d449b70400489b7",
+      "type": "text",
+      "x": 820,
+      "y": 13200,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Orson Scott Card|Orson Scott Card]]\n\nEnder's Game author; influential fiction for Hassabis\n\n[[Sources/Hassabis - source book.pdf#page=75|PDF p. 75]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "bb97da428a51963b",
+      "type": "text",
+      "x": 1230,
+      "y": 13200,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Pablo Villalobos|Pablo Villalobos]]\n\nAuthor of paper on human-generated data limits for LLM scaling\n\n[[Sources/Hassabis - source book.pdf#page=498|PDF p. 498]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "8f2d51411c90a3b2",
+      "type": "text",
+      "x": 1640,
+      "y": 13200,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Parmy Olson|Parmy Olson]]\n\nAI journalist and author.\n\n[[Sources/Hassabis - source book.pdf#page=472|PDF p. 472]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a361f90f3a6ea1bf",
+      "type": "text",
+      "x": 2050,
+      "y": 13200,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Paul Lewis|Paul Lewis]]\n\nGuardian journalist.\n\n[[Sources/Hassabis - source book.pdf#page=484|PDF p. 484]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "bf0839a85c2adecb",
+      "type": "text",
+      "x": 0,
+      "y": 13530,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Pauline Luc|Pauline Luc]]\n\nCoauthor of DeepMind visual-language model post\n\n[[Sources/Hassabis - source book.pdf#page=492|PDF p. 492]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0ec3df98b5848813",
+      "type": "text",
+      "x": 410,
+      "y": 13530,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Pierre de Fermat|Pierre de Fermat]]\n\nName in chapter-title allusion to Fermat's Last Theorem; no AI-community affiliation.\n\n[[Sources/Hassabis - source book.pdf#page=60|PDF p. 60]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "97804d3dc7669915",
+      "type": "text",
+      "x": 820,
+      "y": 13530,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Plato|Plato]]\n\nPhilosopher in Republic analogy.\n\n[[Sources/Hassabis - source book.pdf#page=243|PDF p. 243]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "6d6d7633d16ea9a0",
+      "type": "text",
+      "x": 1230,
+      "y": 13530,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Pushmeet Kohli|Pushmeet Kohli]]\n\nDeepMind researcher interviewed about AlphaFold\n\n[[Sources/Hassabis - source book.pdf#page=490|PDF p. 490]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5b45af15d921d3d8",
+      "type": "text",
+      "x": 1640,
+      "y": 13530,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Qi Lu|Qi Lu]]\n\nAltman colleague.\n\n[[Sources/Hassabis - source book.pdf#page=481|PDF p. 481]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "4ae258c676c8a448",
+      "type": "text",
+      "x": 2050,
+      "y": 13530,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Rachel Kim|Rachel Kim]]\n\nResearch intern.\n\n[[Sources/Hassabis - source book.pdf#page=461|PDF p. 461]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9f5de938a803b259",
+      "type": "text",
+      "x": 0,
+      "y": 13860,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Radford Neal|Radford Neal]]\n\nIncluded because a sourced relationship names this entity.\n\nSee linked evidence note",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b9770caab23df0eb",
+      "type": "text",
+      "x": 410,
+      "y": 13860,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Raffaele Huang|Raffaele Huang]]\n\nWall Street Journal journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=499|PDF p. 499]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "4b06474763e2fc7d",
+      "type": "text",
+      "x": 820,
+      "y": 13860,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Rajat Raina|Rajat Raina]]\n\nGPU deep-learning paper coauthor.\n\n[[Sources/Hassabis - source book.pdf#page=469|PDF p. 469]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "2cd08b89501f18c2",
+      "type": "text",
+      "x": 1230,
+      "y": 13860,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/René Descartes|René Descartes]]\n\nPhilosophical quotation\n\n[[Sources/Hassabis - source book.pdf#page=66|PDF p. 66]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "3f8eb44fc31f2cff",
+      "type": "text",
+      "x": 1640,
+      "y": 13860,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Rhiannon Williams|Rhiannon Williams]]\n\nJournalist.\n\n[[Sources/Hassabis - source book.pdf#page=480|PDF p. 480]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d0c81727ea5598a8",
+      "type": "text",
+      "x": 2050,
+      "y": 13860,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Richard Dawkins|Richard Dawkins]]\n\nAuthor cited.\n\n[[Sources/Hassabis - source book.pdf#page=466|PDF p. 466]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "81fb03abfc5ccb17",
+      "type": "text",
+      "x": 0,
+      "y": 14190,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Richard Feynman|Richard Feynman]]\n\nScientific exemplar and influence on Hassabis\n\n[[Sources/Hassabis - source book.pdf#page=39|PDF p. 39]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9cad02a688430516",
+      "type": "text",
+      "x": 410,
+      "y": 14190,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Richard Powell|Richard Powell]]\n\nElixir colleague.\n\n[[Sources/Hassabis - source book.pdf#page=468|PDF p. 468]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "32be450f5cbe7172",
+      "type": "text",
+      "x": 820,
+      "y": 14190,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Richard Rhodes|Richard Rhodes]]\n\nHistory author.\n\n[[Sources/Hassabis - source book.pdf#page=471|PDF p. 471]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f04c3282d41b6339",
+      "type": "text",
+      "x": 1230,
+      "y": 14190,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Richard Zemel|Richard Zemel]]\n\nIncluded because a sourced relationship names this entity.\n\nSee linked evidence note",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "074867f2b88bb755",
+      "type": "text",
+      "x": 1640,
+      "y": 14190,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Rishi Sunak|Rishi Sunak]]\n\nThen UK prime minister; AI summit host.\n\n[[Sources/Hassabis - source book.pdf#page=395|PDF p. 395]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "311f31cf18ae47ec",
+      "type": "text",
+      "x": 2050,
+      "y": 14190,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Rob Copeland|Rob Copeland]]\n\nWall Street Journal reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=489|PDF p. 489]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "68379fb6fc8d79b2",
+      "type": "text",
+      "x": 0,
+      "y": 14520,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Robert A. Johnson|Robert A. Johnson]]\n\nJungian analyst and Owning Your Own Shadow author discussed by Suleyman\n\n[[Sources/Hassabis - source book.pdf#page=141|PDF p. 141]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "10590b5a801534cc",
+      "type": "text",
+      "x": 410,
+      "y": 14520,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Robert Caro|Robert Caro]]\n\nBiographer in editorial book recommendation.\n\n[[Sources/Hassabis - source book.pdf#page=238|PDF p. 238]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "ba4707feaf1ca54a",
+      "type": "text",
+      "x": 820,
+      "y": 14520,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Roger Penrose|Roger Penrose]]\n\nPhysicist whose theory of mind Hassabis disputes.\n\n[[Sources/Hassabis - source book.pdf#page=453|PDF p. 453]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9746f0e92a9e43bb",
+      "type": "text",
+      "x": 1230,
+      "y": 14520,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Roger Scruton|Roger Scruton]]\n\nPhilosophy author.\n\n[[Sources/Hassabis - source book.pdf#page=475|PDF p. 475]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a9c84b24c2d19376",
+      "type": "text",
+      "x": 1640,
+      "y": 14520,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Rosalind Franklin|Rosalind Franklin]]\n\nDNA X-ray crystallographer discussed in film context\n\n[[Sources/Hassabis - source book.pdf#page=93|PDF p. 93]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "88c9afe3c127eb3f",
+      "type": "text",
+      "x": 2050,
+      "y": 14520,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Rose Joyce|Rose Joyce]]\n\nResearch intern.\n\n[[Sources/Hassabis - source book.pdf#page=461|PDF p. 461]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "808a7b8390018857",
+      "type": "text",
+      "x": 0,
+      "y": 14850,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Rémi Coulom|Rémi Coulom]]\n\nGo programmer; Monte Carlo tree search.\n\n[[Sources/Hassabis - source book.pdf#page=478|PDF p. 478]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "9ab2869e88001249",
+      "type": "text",
+      "x": 410,
+      "y": 14850,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Sam Rayburn|Sam Rayburn]]\n\nPolitical analogy.\n\n[[Sources/Hassabis - source book.pdf#page=481|PDF p. 481]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "835849bbd79a35da",
+      "type": "text",
+      "x": 820,
+      "y": 14850,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Sam Shead|Sam Shead]]\n\nTechnology journalist.\n\n[[Sources/Hassabis - source book.pdf#page=477|PDF p. 477]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "80cb08ae1241f75f",
+      "type": "text",
+      "x": 1230,
+      "y": 14850,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Sarah Boseley|Sarah Boseley]]\n\nGuardian journalist.\n\n[[Sources/Hassabis - source book.pdf#page=484|PDF p. 484]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d19eac2e6a829ad2",
+      "type": "text",
+      "x": 1640,
+      "y": 14850,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Sarah Jane Allen|Sarah Jane Allen]]\n\nAcknowledged project supporter.\n\n[[Sources/Hassabis - source book.pdf#page=462|PDF p. 462]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "ae686862509b7dda",
+      "type": "text",
+      "x": 2050,
+      "y": 14850,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Scarlett Johansson|Scarlett Johansson]]\n\nActor who voiced AI companion in Her.\n\n[[Sources/Hassabis - source book.pdf#page=381|PDF p. 381]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a0d0c4abc004ba89",
+      "type": "text",
+      "x": 0,
+      "y": 15180,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Sean Cooper|Sean Cooper]]\n\nInterviewee on Bullfrog.\n\n[[Sources/Hassabis - source book.pdf#page=465|PDF p. 465]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "fe7454f0f0490c51",
+      "type": "text",
+      "x": 410,
+      "y": 15180,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Sebastian Mallaby|Sebastian Mallaby]]\n\nAuthor and interviewer\n\n[[Sources/Hassabis - source book.pdf#page=1|PDF p. 1]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "43b50ca6b6ad87a5",
+      "type": "text",
+      "x": 820,
+      "y": 15180,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Shakir Mohamed|Shakir Mohamed]]\n\nBayesian machine-learning researcher.\n\n[[Sources/Hassabis - source book.pdf#page=473|PDF p. 473]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "6b54504570bb87b7",
+      "type": "text",
+      "x": 1230,
+      "y": 15180,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Shira Schwartz|Shira Schwartz]]\n\nResearch-program executive director.\n\n[[Sources/Hassabis - source book.pdf#page=461|PDF p. 461]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7d2e84d098b12746",
+      "type": "text",
+      "x": 1640,
+      "y": 15180,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Shivon Zilis|Shivon Zilis]]\n\nMusk associate in OpenAI discussions.\n\n[[Sources/Hassabis - source book.pdf#page=313|PDF p. 313]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "88f61d60c7fd5c60",
+      "type": "text",
+      "x": 2050,
+      "y": 15180,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Simon Green|Simon Green]]\n\nElixir interviewee.\n\n[[Sources/Hassabis - source book.pdf#page=467|PDF p. 467]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "99dc1aad65cccfc1",
+      "type": "text",
+      "x": 0,
+      "y": 15510,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Simon Osindero|Simon Osindero]]\n\nDeep-belief-net paper coauthor.\n\n[[Sources/Hassabis - source book.pdf#page=469|PDF p. 469]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "6fb559c6f0b0381d",
+      "type": "text",
+      "x": 410,
+      "y": 15510,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Simon Willison|Simon Willison]]\n\nSoftware practitioner/newsletter author cited on Gemini Thinking\n\n[[Sources/Hassabis - source book.pdf#page=499|PDF p. 499]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a6d52000ec014569",
+      "type": "text",
+      "x": 820,
+      "y": 15510,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Socrates|Socrates]]\n\nLogic example\n\n[[Sources/Hassabis - source book.pdf#page=98|PDF p. 98]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7ad5e88da3bb0b4a",
+      "type": "text",
+      "x": 1230,
+      "y": 15510,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Solina Chau|Solina Chau]]\n\nInvestor associated with Li Ka-shing; backed DeepMind.\n\n[[Sources/Hassabis - source book.pdf#page=58|PDF p. 58]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "4e09e522dede1bc4",
+      "type": "text",
+      "x": 1640,
+      "y": 15510,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Solomon|Solomon]]\n\nBiblical attribution in context, not AI community member.\n\n[[Sources/Hassabis - source book.pdf#page=287|PDF p. 287]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f8917f5ad261987c",
+      "type": "text",
+      "x": 2050,
+      "y": 15510,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Sophie Borland|Sophie Borland]]\n\nDaily Mail journalist.\n\n[[Sources/Hassabis - source book.pdf#page=484|PDF p. 484]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f784b98548c2e35e",
+      "type": "text",
+      "x": 0,
+      "y": 15840,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Stefan Zweig|Stefan Zweig]]\n\nQuoted author\n\n[[Sources/Hassabis - source book.pdf#page=26|PDF p. 26]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d85b328cab206517",
+      "type": "text",
+      "x": 410,
+      "y": 15840,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Stephanie Palazzolo|Stephanie Palazzolo]]\n\nThe Information reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=497|PDF p. 497]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f54e60200b9182cc",
+      "type": "text",
+      "x": 820,
+      "y": 15840,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Stephen Hawking|Stephen Hawking]]\n\nPhotographed with Hassabis in 2017\n\n[[Sources/Hassabis - source book.pdf#page=5|PDF p. 5]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "63cb0e547e27d55f",
+      "type": "text",
+      "x": 1230,
+      "y": 15840,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Stephen Isard|Stephen Isard]]\n\nHinton describes Steve Isard as an effective doctoral co-advisor; formal status requires checking.\n\n[Profile / source](https://groups.inf.ed.ac.uk/aics_history/AICSCSHistory_Interview005_GeoffreyHinton_publish.pdf)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "340b47fdd08a1035",
+      "type": "text",
+      "x": 1640,
+      "y": 15840,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Stephen Totilo|Stephen Totilo]]\n\nJournalist cited.\n\n[[Sources/Hassabis - source book.pdf#page=466|PDF p. 466]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "197bd62d231e5fa8",
+      "type": "text",
+      "x": 2050,
+      "y": 15840,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Stephen Witt|Stephen Witt]]\n\nNVIDIA history author.\n\n[[Sources/Hassabis - source book.pdf#page=480|PDF p. 480]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0581bfacb84f7e9e",
+      "type": "text",
+      "x": 0,
+      "y": 16170,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Steve Coll|Steve Coll]]\n\nEndorsement writer and Pulitzer-winning journalist\n\n[[Sources/Hassabis - source book.pdf#page=50|PDF p. 50]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "5dfb68e7e6c4f87e",
+      "type": "text",
+      "x": 410,
+      "y": 16170,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Steve Jobs|Steve Jobs]]\n\nTechnology entrepreneur comparison\n\n[[Sources/Hassabis - source book.pdf#page=69|PDF p. 69]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "14caf20f4c3db43c",
+      "type": "text",
+      "x": 820,
+      "y": 16170,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Steve Mann|Steve Mann]]\n\nWearable-computing inventor at 2010 Singularity Summit\n\n[[Sources/Hassabis - source book.pdf#page=145|PDF p. 145]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b6efcd33f56d3634",
+      "type": "text",
+      "x": 1230,
+      "y": 16170,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Steven Levy|Steven Levy]]\n\nWired journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=493|PDF p. 493]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "656471bb5bfef6c1",
+      "type": "text",
+      "x": 1640,
+      "y": 16170,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Steven Pinker|Steven Pinker]]\n\nPsychologist quoted in discussion of machine ability.\n\n[[Sources/Hassabis - source book.pdf#page=268|PDF p. 268]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c0aa080e09fb09ad",
+      "type": "text",
+      "x": 2050,
+      "y": 16170,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Stewart Beddoes|Stewart Beddoes]]\n\nAuthor's family acknowledgment.\n\n[[Sources/Hassabis - source book.pdf#page=462|PDF p. 462]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "634eb2d89687de0a",
+      "type": "text",
+      "x": 0,
+      "y": 16500,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Stewart Brock|Stewart Brock]]\n\nIndustrialist in Elixir financing; English spelling to check.\n\n[[Sources/Hassabis - source book.pdf#page=467|PDF p. 467]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f8e07673b6ad9cab",
+      "type": "text",
+      "x": 410,
+      "y": 16500,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Stuart Reid|Stuart Reid]]\n\nCFR research deputy director and manuscript reader.\n\n[[Sources/Hassabis - source book.pdf#page=460|PDF p. 460]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "65b8bd2c0baa07a9",
+      "type": "text",
+      "x": 820,
+      "y": 16500,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Stuart Russell|Stuart Russell]]\n\nAI scientist discussing misuse and existential risk\n\n[[Sources/Hassabis - source book.pdf#page=495|PDF p. 495]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "49b007380b70f95e",
+      "type": "text",
+      "x": 1230,
+      "y": 16500,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Stuart Zweben|Stuart Zweben]]\n\nTaulbee survey coauthor.\n\n[[Sources/Hassabis - source book.pdf#page=473|PDF p. 473]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "af54eaf109097587",
+      "type": "text",
+      "x": 1640,
+      "y": 16500,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Sukhi Anand|Sukhi Anand]]\n\nHarrow Times journalist.\n\n[[Sources/Hassabis - source book.pdf#page=470|PDF p. 470]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b6c502fe15b5d06b",
+      "type": "text",
+      "x": 2050,
+      "y": 16500,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Sylvain Gelly|Sylvain Gelly]]\n\nGo researcher who improved MCTS.\n\n[[Sources/Hassabis - source book.pdf#page=478|PDF p. 478]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d181b0e06196ffd0",
+      "type": "text",
+      "x": 0,
+      "y": 16830,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Tad Friend|Tad Friend]]\n\nNew Yorker reporter cited on Altman\n\n[[Sources/Hassabis - source book.pdf#page=488|PDF p. 488]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "da87a62e0accaeaa",
+      "type": "text",
+      "x": 410,
+      "y": 16830,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Talulah Riley|Talulah Riley]]\n\nMusk's spouse during events described.\n\n[[Sources/Hassabis - source book.pdf#page=200|PDF p. 200]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "0343aad7d610fefc",
+      "type": "text",
+      "x": 820,
+      "y": 16830,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Thang Luong|Thang Luong]]\n\nGoogle Research coauthor of Meena conversational-agent post\n\n[[Sources/Hassabis - source book.pdf#page=491|PDF p. 491]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7740d670175a54af",
+      "type": "text",
+      "x": 1230,
+      "y": 16830,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Thomas Goetz|Thomas Goetz]]\n\nWired journalist; OCR truncates surname.\n\n[[Sources/Hassabis - source book.pdf#page=470|PDF p. 470]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "8615d517dbef9166",
+      "type": "text",
+      "x": 1640,
+      "y": 16830,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Thomas Hubert|Thomas Hubert]]\n\nAlphaZero researcher.\n\n[[Sources/Hassabis - source book.pdf#page=485|PDF p. 485]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "088fb8e74f766d20",
+      "type": "text",
+      "x": 2050,
+      "y": 16830,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Thomas Jefferson|Thomas Jefferson]]\n\nHistorical dating of DeepMind's first office building\n\n[[Sources/Hassabis - source book.pdf#page=156|PDF p. 156]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "8ce8eb867d1b8d11",
+      "type": "text",
+      "x": 0,
+      "y": 17160,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Thomas Petzinger Jr|Thomas Petzinger Jr.]]\n\nWall Street Journal author.\n\n[[Sources/Hassabis - source book.pdf#page=469|PDF p. 469]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7b686bfbe30204e8",
+      "type": "text",
+      "x": 410,
+      "y": 17160,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Tina Turner|Tina Turner]]\n\nSinger mentioned in team music choices.\n\n[[Sources/Hassabis - source book.pdf#page=344|PDF p. 344]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "7b404e5e1cfd5dea",
+      "type": "text",
+      "x": 820,
+      "y": 17160,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Tom Abate|Tom Abate]]\n\nSFGATE journalist.\n\n[[Sources/Hassabis - source book.pdf#page=470|PDF p. 470]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "abe4e2db5d9f6d8d",
+      "type": "text",
+      "x": 1230,
+      "y": 17160,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Tom Lieberum|Tom Lieberum]]\n\nLead author of circuit-analysis interpretability paper\n\n[[Sources/Hassabis - source book.pdf#page=496|PDF p. 496]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a22e8dd3ac51c4f7",
+      "type": "text",
+      "x": 1640,
+      "y": 17160,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Tom Perkins|Tom Perkins]]\n\nVenture investor quoted in research discussion.\n\n[[Sources/Hassabis - source book.pdf#page=221|PDF p. 221]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "abd5ff1c11f6ff1a",
+      "type": "text",
+      "x": 2050,
+      "y": 17160,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Tom Rowley|Tom Rowley]]\n\nJournalist cited.\n\n[[Sources/Hassabis - source book.pdf#page=464|PDF p. 464]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "15ede665a44da39c",
+      "type": "text",
+      "x": 0,
+      "y": 17490,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Tomio Geron|Tomio Geron]]\n\nWall Street Journal journalist.\n\n[[Sources/Hassabis - source book.pdf#page=472|PDF p. 472]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "8952b8bccb556897",
+      "type": "text",
+      "x": 410,
+      "y": 17490,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Tripp Mickle|Tripp Mickle]]\n\nNew York Times reporter cited\n\n[[Sources/Hassabis - source book.pdf#page=494|PDF p. 494]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e8fc969db0eb8e23",
+      "type": "text",
+      "x": 820,
+      "y": 17490,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Tris Warkentin|Tris Warkentin]]\n\nCoauthor of Google Gemma announcement\n\n[[Sources/Hassabis - source book.pdf#page=497|PDF p. 497]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "155248704b5092f6",
+      "type": "text",
+      "x": 1230,
+      "y": 17490,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Tyler Emerson|Tyler Emerson]]\n\nSingularity Summit speaker.\n\n[[Sources/Hassabis - source book.pdf#page=470|PDF p. 470]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "f95eea697c63641f",
+      "type": "text",
+      "x": 1640,
+      "y": 17490,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Vinod Nair|Vinod Nair]]\n\nSutskever's Go-network coauthor.\n\n[[Sources/Hassabis - source book.pdf#page=478|PDF p. 478]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "084fddebc3f7aa4a",
+      "type": "text",
+      "x": 2050,
+      "y": 17490,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Vladimir Putin|Vladimir Putin]]\n\nRussian president quoted in governance presentation.\n\n[[Sources/Hassabis - source book.pdf#page=315|PDF p. 315]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a14c9efa77f637f8",
+      "type": "text",
+      "x": 0,
+      "y": 17820,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Walter Isaacson|Walter Isaacson]]\n\nEndorsement writer and biographer\n\n[[Sources/Hassabis - source book.pdf#page=50|PDF p. 50]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "3a05646dab5c1f5a",
+      "type": "text",
+      "x": 410,
+      "y": 17820,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Warren Buffett|Warren Buffett]]\n\nInvestor comparison in editorial note.\n\n[[Sources/Hassabis - source book.pdf#page=302|PDF p. 302]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "8b7e77b9da380f16",
+      "type": "text",
+      "x": 820,
+      "y": 17820,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Werner Heisenberg|Werner Heisenberg]]\n\nPhysicist and example of solitary scientific work.\n\n[[Sources/Hassabis - source book.pdf#page=457|PDF p. 457]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "ed9cb4c5560bd2fe",
+      "type": "text",
+      "x": 1230,
+      "y": 17820,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Will Douglas Heaven|Will Douglas Heaven]]\n\nMIT Technology Review journalist cited\n\n[[Sources/Hassabis - source book.pdf#page=491|PDF p. 491]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d2cd61afc126f167",
+      "type": "text",
+      "x": 1640,
+      "y": 17820,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Will Knight|Will Knight]]\n\nWired journalist cited on Q-star\n\n[[Sources/Hassabis - source book.pdf#page=498|PDF p. 498]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "82ca30fc8e818193",
+      "type": "text",
+      "x": 2050,
+      "y": 17820,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/William Shakespeare|William Shakespeare]]\n\nLiterary allusion\n\n[[Sources/Hassabis - source book.pdf#page=23|PDF p. 23]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "6988c41daeaccd89",
+      "type": "text",
+      "x": 0,
+      "y": 18150,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Yavar Naddaf|Yavar Naddaf]]\n\nArcade Learning Environment coauthor.\n\n[[Sources/Hassabis - source book.pdf#page=474|PDF p. 474]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d873bbeaf24df713",
+      "type": "text",
+      "x": 410,
+      "y": 18150,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book + web\n\n### [[People/Yee Whye Teh|Yee Whye Teh]]\n\nHinton doctoral alumnus; Maddison doctoral co-supervisor.\n\n[Profile / source](https://www.stats.ox.ac.uk/~teh/)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d033f19161b0939c",
+      "type": "text",
+      "x": 820,
+      "y": 18150,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Yu Chunya|Yu Chunya]]\n\nChinese edition responsible editor; name visually checked\n\n[[Sources/Hassabis - source book.pdf#page=504|PDF p. 504]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "bac08dc40da89f75",
+      "type": "text",
+      "x": 1230,
+      "y": 18150,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Yuval Noah Harari|Yuval Noah Harari]]\n\nHistorian; AI pause-letter signatory.\n\n[[Sources/Hassabis - source book.pdf#page=391|PDF p. 391]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a801806829f9c909",
+      "type": "text",
+      "x": 1640,
+      "y": 18150,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Zanny Minton Beddoes|Zanny Minton Beddoes]]\n\nAuthor's wife; full identity should be corroborated.\n\n[[Sources/Hassabis - source book.pdf#page=13|PDF p. 13]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "147132176dde2c8b",
+      "type": "text",
+      "x": 2050,
+      "y": 18150,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Zeno of Elea|Zeno of Elea]]\n\nPhilosopher in editorial note on Zeno's paradox\n\n[[Sources/Hassabis - source book.pdf#page=34|PDF p. 34]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "ef6be497314de08d",
+      "type": "text",
+      "x": 0,
+      "y": 18480,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book\n\n### [[People/Zhou Jiangong|Zhou Jiangong]]\n\nChinese translator and fourth foreword writer; founder of 未尽研究\n\n[[Sources/Hassabis - source book.pdf#page=1|PDF p. 1]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c4598a9db8c24b8a",
+      "type": "text",
+      "x": 0,
+      "y": 19070,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Amanda Carr-Pratt|Amanda Carr-Pratt]]\n\nAcknowledged project supporter; English OCR uncertain.\n\n[[Sources/Hassabis - source book.pdf#page=462|PDF p. 462]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "168f0a5501cbc87a",
+      "type": "text",
+      "x": 410,
+      "y": 19070,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Aqil Naeem|Aqil Naeem]]\n\nResearch intern; English OCR uncertain.\n\n[[Sources/Hassabis - source book.pdf#page=461|PDF p. 461]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "58071f9453371fb0",
+      "type": "text",
+      "x": 820,
+      "y": 19070,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · identity review\n\n### [[Context/Aviemore resort (unspecified operator)|Aviemore resort (unspecified operator)]]\n\nCompany meeting venue; operator not identified.\n\n[[Sources/Hassabis - source book.pdf#page=310|PDF p. 310]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "a7ad259c9eae48bb",
+      "type": "text",
+      "x": 1230,
+      "y": 19070,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Cameron Gammon|Cameron Gammon]]\n\nDavid Gammon's youngest son, part of family investment pitch audience; surname inferred from father\n\n[[Sources/Hassabis - source book.pdf#page=151|PDF p. 151]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "98602ca70a51dec7",
+      "type": "text",
+      "x": 1640,
+      "y": 19070,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Cao Wanjun|Cao Wanjun]]\n\nChinese edition art editor; name visually checked; transliteration provisional\n\n[[Sources/Hassabis - source book.pdf#page=504|PDF p. 504]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "820bcfea6c79e337",
+      "type": "text",
+      "x": 2050,
+      "y": 19070,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Charlotte Mallaby|Charlotte Mallaby]]\n\nAuthor's sister; surname expansion unverified.\n\n[[Sources/Hassabis - source book.pdf#page=462|PDF p. 462]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a3437c53e2f893bd",
+      "type": "text",
+      "x": 0,
+      "y": 19400,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Emily Mallaby|Emily Mallaby]]\n\nAuthor's sister; first-name OCR and surname expansion unverified.\n\n[[Sources/Hassabis - source book.pdf#page=462|PDF p. 462]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a537557fb5c4f3de",
+      "type": "text",
+      "x": 410,
+      "y": 19400,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Felix (dedication)|Felix (dedication)]]\n\nDedicatee; surname/identity unstated\n\n[[Sources/Hassabis - source book.pdf#page=13|PDF p. 13]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "d63ca32df07cc404",
+      "type": "text",
+      "x": 820,
+      "y": 19400,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Jian Sun|Jian Sun]]\n\nResNet paper coauthor; expanded from citation initials\n\n[[Sources/Hassabis - source book.pdf#page=486|PDF p. 486]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "e45690817b02a0fc",
+      "type": "text",
+      "x": 1230,
+      "y": 19400,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Julia Mallaby|Julia Mallaby]]\n\nAuthor's sister; surname expansion unverified.\n\n[[Sources/Hassabis - source book.pdf#page=462|PDF p. 462]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "b467332fec0d58e8",
+      "type": "text",
+      "x": 1640,
+      "y": 19400,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Kaiming He|Kaiming He]]\n\nCoauthor of Deep Residual Learning for Image Recognition (2016); expanded from standard citation initials\n\n[[Sources/Hassabis - source book.pdf#page=486|PDF p. 486]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a0f2f1c05d25708c",
+      "type": "text",
+      "x": 2050,
+      "y": 19400,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Marek Barwinski|Marek Barwinski]]\n\nDeepMind protein-folding team member; Latin spelling normalized from OCR.\n\n[[Sources/Hassabis - source book.pdf#page=330|PDF p. 330]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "a2d7ec3675d25474",
+      "type": "text",
+      "x": 0,
+      "y": 19730,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Marilyn (Suleyman partner)|Marilyn (Suleyman partner)]]\n\nSuleyman's girlfriend mentioned as chess coach; surname absent\n\n[[Sources/Hassabis - source book.pdf#page=138|PDF p. 138]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "df828ed6e8d93ce1",
+      "type": "text",
+      "x": 410,
+      "y": 19730,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Maya (dedication)|Maya (dedication)]]\n\nDedicatee; surname/identity unstated\n\n[[Sources/Hassabis - source book.pdf#page=13|PDF p. 13]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "bd7977dcc77f881b",
+      "type": "text",
+      "x": 820,
+      "y": 19730,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Milo (dedication)|Milo (dedication)]]\n\nDedicatee; surname/identity unstated\n\n[[Sources/Hassabis - source book.pdf#page=13|PDF p. 13]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "dd698996fb87d587",
+      "type": "text",
+      "x": 1230,
+      "y": 19730,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Molly (dedication)|Molly (dedication)]]\n\nDedicatee; surname/identity unstated\n\n[[Sources/Hassabis - source book.pdf#page=13|PDF p. 13]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "719aa7387b393390",
+      "type": "text",
+      "x": 1640,
+      "y": 19730,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Sachit Gal|Sachit Gal]]\n\nResearch intern; English OCR uncertain.\n\n[[Sources/Hassabis - source book.pdf#page=461|PDF p. 461]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "395170f38858c6c5",
+      "type": "text",
+      "x": 2050,
+      "y": 19730,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Sean (Bullfrog programmer)|Sean (Bullfrog programmer)]]\n\nSelf-taught Bullfrog programmer admired by Hassabis; surname not supplied\n\n[[Sources/Hassabis - source book.pdf#page=88|PDF p. 88]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "757e4570a2766b68",
+      "type": "text",
+      "x": 0,
+      "y": 20060,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Shaoqing Ren|Shaoqing Ren]]\n\nResNet paper coauthor; expanded from citation initials\n\n[[Sources/Hassabis - source book.pdf#page=486|PDF p. 486]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "fc7ecc407005207f",
+      "type": "text",
+      "x": 410,
+      "y": 20060,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · identity review\n\n### [[Context/Weicao Zhiku|Weicao Zhiku]]\n\nDuan Yongchao founding partner affiliation; English name needs verification\n\n[[Sources/Hassabis - source book.pdf#page=49|PDF p. 49]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "f15e76e4ddb6f8f7",
+      "type": "text",
+      "x": 820,
+      "y": 20060,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · identity review\n\n### [[Context/Weijin Research|Weijin Research]]\n\nZhou Jiangong founded organization; English branding needs verification\n\n[[Sources/Hassabis - source book.pdf#page=38|PDF p. 38]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "3ccfe61cfb4863fd",
+      "type": "text",
+      "x": 1230,
+      "y": 20060,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Xiangyu Zhang|Xiangyu Zhang]]\n\nResNet paper coauthor; expanded from citation initials\n\n[[Sources/Hassabis - source book.pdf#page=486|PDF p. 486]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "8341fc067ad4da16",
+      "type": "text",
+      "x": 1640,
+      "y": 20060,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Zanny (dedication)|Zanny (dedication)]]\n\nDedicatee; surname/identity unstated\n\n[[Sources/Hassabis - source book.pdf#page=13|PDF p. 13]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "180bd8f5ad194da0",
+      "type": "text",
+      "x": 2050,
+      "y": 20060,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · identity review\n\n### [[People/Zhang Ning|Zhang Ning]]\n\nChinese edition proofreader; name visually checked; common name, identity not resolved\n\n[[Sources/Hassabis - source book.pdf#page=504|PDF p. 504]] · profile pending",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "8444728cc8a8fc1b",
+      "type": "text",
+      "x": 0,
+      "y": 20650,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Alice|Alice]]\n\nFictional literary character\n\n[[Sources/Hassabis - source book.pdf#page=119|PDF p. 119]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "c4304e27cb0b451b",
+      "type": "text",
+      "x": 410,
+      "y": 20650,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Asilomar Conference Grounds|Asilomar Conference Grounds]]\n\nConference and meeting venue.\n\n[[Sources/Hassabis - source book.pdf#page=305|PDF p. 305]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "6ebba68399409917",
+      "type": "text",
+      "x": 820,
+      "y": 20650,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/CASP|CASP]]\n\nCritical Assessment of protein Structure Prediction; scientific benchmarking community/competition.\n\n[[Sources/Hassabis - source book.pdf#page=331|PDF p. 331]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "88b715d97ce6bcfe",
+      "type": "text",
+      "x": 1230,
+      "y": 20650,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Computer Olympiad|Computer Olympiad]]\n\nComputer-game research competition.\n\n[[Sources/Hassabis - source book.pdf#page=218|PDF p. 218]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "6b306170494ba842",
+      "type": "text",
+      "x": 1640,
+      "y": 20650,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Daedalus|Daedalus]]\n\nMythological figure in editorial note\n\n[[Sources/Hassabis - source book.pdf#page=66|PDF p. 66]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "1d6989c4055f4328",
+      "type": "text",
+      "x": 2050,
+      "y": 20650,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Dire Straits|Dire Straits]]\n\nMusic group in acknowledgment anecdote.\n\n[[Sources/Hassabis - source book.pdf#page=459|PDF p. 459]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "a3ab63639e2503e4",
+      "type": "text",
+      "x": 0,
+      "y": 20980,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Eduard Satarov|Eduard Satarov]]\n\nFictional Republic game character\n\n[[Sources/Hassabis - source book.pdf#page=111|PDF p. 111]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "2262586b4cc447ee",
+      "type": "text",
+      "x": 410,
+      "y": 20980,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Ender Wiggin|Ender Wiggin]]\n\nFictional protagonist of Ender's Game; not a real researcher\n\n[[Sources/Hassabis - source book.pdf#page=51|PDF p. 51]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "a6d333c5687acbe2",
+      "type": "text",
+      "x": 820,
+      "y": 20980,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Frankie Goes to Hollywood|Frankie Goes to Hollywood]]\n\nMusic group mentioned in team music choices.\n\n[[Sources/Hassabis - source book.pdf#page=344|PDF p. 344]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "b58fa77eb73e453e",
+      "type": "text",
+      "x": 1230,
+      "y": 20980,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Global Interest Company (proposed)|Global Interest Company (proposed)]]\n\nProposed legal/governance vehicle; never treat discussion as an established independent DeepMind company.\n\n[[Sources/Hassabis - source book.pdf#page=306|PDF p. 306]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "ab7b7cb8fbb15044",
+      "type": "text",
+      "x": 1640,
+      "y": 20980,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Hamlet|Hamlet]]\n\nFictional character invoked in foreword\n\n[[Sources/Hassabis - source book.pdf#page=23|PDF p. 23]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "8782b1f5ce1250b9",
+      "type": "text",
+      "x": 2050,
+      "y": 20980,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Hari Seldon|Hari Seldon]]\n\nFictional Foundation character\n\n[[Sources/Hassabis - source book.pdf#page=90|PDF p. 90]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "55b3f4792eeaaccd",
+      "type": "text",
+      "x": 0,
+      "y": 21310,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Heaven's Gate|Heaven's Gate]]\n\nHistorical group cited as analogy.\n\n[[Sources/Hassabis - source book.pdf#page=388|PDF p. 388]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "6d7660e6f868e530",
+      "type": "text",
+      "x": 410,
+      "y": 21310,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Icarus|Icarus]]\n\nMythological figure in editorial note\n\n[[Sources/Hassabis - source book.pdf#page=66|PDF p. 66]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "5021515454accbc0",
+      "type": "text",
+      "x": 820,
+      "y": 21310,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/James T. Kirk|James T. Kirk]]\n\nFictional Star Trek character\n\n[[Sources/Hassabis - source book.pdf#page=109|PDF p. 109]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "b1b23b515160cacc",
+      "type": "text",
+      "x": 1230,
+      "y": 21310,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/LessWrong|LessWrong]]\n\nOnline discussion site.\n\n[[Sources/Hassabis - source book.pdf#page=481|PDF p. 481]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "a56cf37be13e6dab",
+      "type": "text",
+      "x": 1640,
+      "y": 21310,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Liverpool Football Club|Liverpool Football Club]]\n\nHassabis supports this football club\n\n[[Sources/Hassabis - source book.pdf#page=77|PDF p. 77]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "5ce0e79eeae0ad60",
+      "type": "text",
+      "x": 2050,
+      "y": 21310,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Ludmilla Mironova|Ludmilla Mironova]]\n\nFictional Republic game character; English OCR may be imperfect\n\n[[Sources/Hassabis - source book.pdf#page=111|PDF p. 111]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "51b5a6a056b811e2",
+      "type": "text",
+      "x": 0,
+      "y": 21640,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Manhattan Project|Manhattan Project]]\n\nHistorical program used in AI governance analogies.\n\n[[Sources/Hassabis - source book.pdf#page=37|PDF p. 37]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "987c58bdb0e2c4fd",
+      "type": "text",
+      "x": 410,
+      "y": 21640,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Manson Family|Manson Family]]\n\nHistorical group cited as analogy.\n\n[[Sources/Hassabis - source book.pdf#page=388|PDF p. 388]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "bffa792b47ba9da3",
+      "type": "text",
+      "x": 820,
+      "y": 21640,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Nature|Nature]]\n\nScientific journal publishing AI research.\n\n[[Sources/Hassabis - source book.pdf#page=17|PDF p. 17]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "ba42bbb211f90ca2",
+      "type": "text",
+      "x": 1230,
+      "y": 21640,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Nature Medicine|Nature Medicine]]\n\nScientific journal associated with healthcare research.\n\n[[Sources/Hassabis - source book.pdf#page=262|PDF p. 262]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "efe8d1e9aaab446c",
+      "type": "text",
+      "x": 1640,
+      "y": 21640,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/NeurIPS|NeurIPS]]\n\nAI research conference; historically NIPS.\n\n[[Sources/Hassabis - source book.pdf#page=180|PDF p. 180]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "e0072a43c3718731",
+      "type": "text",
+      "x": 2050,
+      "y": 21640,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Peoples Temple|Peoples Temple]]\n\nHistorical group cited as analogy.\n\n[[Sources/Hassabis - source book.pdf#page=388|PDF p. 388]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "5332a206b9af04e7",
+      "type": "text",
+      "x": 0,
+      "y": 21970,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Prometheus|Prometheus]]\n\nMythological figure used metaphorically\n\n[[Sources/Hassabis - source book.pdf#page=37|PDF p. 37]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "38a40d36046a79b6",
+      "type": "text",
+      "x": 410,
+      "y": 21970,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Retromags|Retromags]]\n\nMagazine archive cited.\n\n[[Sources/Hassabis - source book.pdf#page=464|PDF p. 464]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "b2ff2ca1c38a2cef",
+      "type": "text",
+      "x": 820,
+      "y": 21970,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Singularity Summit|Singularity Summit]]\n\nConference associated with early investor connections.\n\n[[Sources/Hassabis - source book.pdf#page=126|PDF p. 126]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "8c25c896fa7ef3f4",
+      "type": "text",
+      "x": 1230,
+      "y": 21970,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Spock|Spock]]\n\nFictional Star Trek character\n\n[[Sources/Hassabis - source book.pdf#page=109|PDF p. 109]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "e81b3f3ddf28b30d",
+      "type": "text",
+      "x": 1640,
+      "y": 21970,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/The Prodigy|The Prodigy]]\n\nElectronic music group listened to by Hassabis\n\n[[Sources/Hassabis - source book.pdf#page=26|PDF p. 26]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "223e336e4fc213e8",
+      "type": "text",
+      "x": 2050,
+      "y": 21970,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/UniProt|UniProt]]\n\nProtein sequence database.\n\n[[Sources/Hassabis - source book.pdf#page=336|PDF p. 336]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "7817668f25277edf",
+      "type": "text",
+      "x": 0,
+      "y": 22300,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/White Queen|White Queen]]\n\nFictional literary character\n\n[[Sources/Hassabis - source book.pdf#page=119|PDF p. 119]] · profile pending",
+      "color": "#A4AAB8"
+    },
+    {
+      "id": "2e9838df3c7064a2",
+      "type": "text",
+      "x": 410,
+      "y": 22300,
+      "width": 350,
+      "height": 270,
+      "text": "**◇ OTHER** · book\n\n### [[Context/Wimbledon|Wimbledon]]\n\nTennis tournament context.\n\n[[Sources/Hassabis - source book.pdf#page=176|PDF p. 176]] · profile pending",
+      "color": "#A4AAB8"
+    }
+  ],
+  "edges": []
+}

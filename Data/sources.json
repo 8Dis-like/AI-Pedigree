@@ -1,0 +1,521 @@
+[
+  {
+    "id": "H01",
+    "url": "https://www.cs.toronto.edu/~hinton/",
+    "title": "Geoffrey Hinton — official University of Toronto homepage",
+    "source_type": "personal university biography",
+    "claims_supported": "Hinton's Cambridge BA, Edinburgh PhD, Sussex/UC San Diego research, CMU faculty, Toronto, Gatsby/UCL, CIFAR, and Google career; Google employment ended 2023."
+  },
+  {
+    "id": "H02",
+    "url": "https://www.cs.toronto.edu/~hinton/shortcv.pdf",
+    "title": "Geoffrey Hinton — Curriculum Vitae, 6 January 2025",
+    "source_type": "personal CV",
+    "claims_supported": "Precise education and employment dates: Cambridge 1967–1970; Edinburgh doctoral work 1972–1975, award 1978; Sussex 1976–1978; UC San Diego 1978–1980; CMU 1982–1987; Toronto 1987–1998 and 2001–2013, emeritus from 2014; Gatsby 1998–2001; Google 2013–2023."
+  },
+  {
+    "id": "H03",
+    "url": "https://www.cs.toronto.edu/~hinton/gradstuphd.html",
+    "title": "Geoffrey Hinton's former PhD students",
+    "source_type": "advisor-maintained roster",
+    "claims_supported": "Lists Sutskever (2012), Salakhutdinov (2009), Volodymyr Mnih (2013), Radford Neal (1994), Richard Zemel (1994), Brendan Frey (1997), Yee Whye Teh (2003), and other completed PhD students."
+  },
+  {
+    "id": "H04",
+    "url": "https://www.cs.toronto.edu/~hinton/pages/students/postdocs.html",
+    "title": "Geoffrey Hinton's former postdocs",
+    "source_type": "advisor-maintained roster",
+    "claims_supported": "Lists Yann LeCun, Peter Dayan, Zoubin Ghahramani, Max Welling, Alex Graves and other former postdoctoral researchers."
+  },
+  {
+    "id": "H05",
+    "url": "https://homepages.inf.ed.ac.uk/ckiw/postscript/whai2024_camready.pdf",
+    "title": "A Short History of the Early Years of Artificial Intelligence at the University of Edinburgh",
+    "source_type": "university-hosted research paper",
+    "claims_supported": "States that Christopher Longuet-Higgins supervised Hinton's PhD thesis."
+  },
+  {
+    "id": "H06",
+    "url": "https://groups.inf.ed.ac.uk/aics_history/AICSCSHistory_Interview005_GeoffreyHinton_publish.pdf",
+    "title": "Edinburgh AI oral history — interview with Geoffrey Hinton",
+    "source_type": "first-person oral history",
+    "claims_supported": "Hinton describes Longuet-Higgins as doctoral advisor and Steve Isard as effectively taking over as an advisor/co-advisor; do not assume a formal recorded co-supervision appointment."
+  },
+  {
+    "id": "H07",
+    "url": "https://www.cs.toronto.edu/~ilya/",
+    "title": "Ilya Sutskever's University of Toronto homepage",
+    "source_type": "historical personal university biography",
+    "claims_supported": "Sutskever identifies Hinton as mentor, DNNresearch cofounding, Stanford postdoc with Andrew Ng, and three years at Google Brain; OpenAI role on this page is historical."
+  },
+  {
+    "id": "H08",
+    "url": "https://cave.cs.toronto.edu/kriz/",
+    "title": "Alex Krizhevsky — University of Toronto homepage",
+    "source_type": "personal university biography",
+    "claims_supported": "MSc thesis 2009 and employment at Google March 2013–September 2017."
+  },
+  {
+    "id": "H09",
+    "url": "https://web.cs.toronto.edu/news-events/news/three-papers-authored-by-u-of-t-computer-scientists-among-the-most-cited-of-the-21st-century-nature",
+    "title": "Three papers authored by U of T computer scientists among the most cited of the 21st century",
+    "source_type": "university news",
+    "claims_supported": "Krizhevsky BSc 2007/MSc 2009; Sutskever BSc 2005/MSc 2007/PhD 2013; AlexNet coauthors. The Sutskever PhD year differs from Hinton's 2012 roster."
+  },
+  {
+    "id": "H10",
+    "url": "https://www.cs.utoronto.ca/~hinton/fullcv14.pdf",
+    "title": "Geoffrey Hinton — CV including Contributions to Industry",
+    "source_type": "personal CV",
+    "claims_supported": "Hinton founded DNNresearch with two graduate students in November 2012; its IP sold to Google March 2013."
+  },
+  {
+    "id": "H11",
+    "url": "https://www.utoronto.ca/news/u-t-geoffrey-hinton-ai-will-eventually-surpass-human-brain-getting-jokes-could-take-time",
+    "title": "U of T's Geoffrey Hinton: AI will eventually surpass the human brain",
+    "source_type": "university interview",
+    "claims_supported": "States Google acquired Hinton's DNNresearch in 2013."
+  },
+  {
+    "id": "H12",
+    "url": "https://www.cs.cmu.edu/~rsalakhu/cv_web.pdf",
+    "title": "Ruslan Salakhutdinov — curriculum vitae",
+    "source_type": "personal university CV",
+    "claims_supported": "Toronto PhD 2005–2009; MIT postdoc 2009–2011; Toronto assistant professor 2011–January 2016; CMU associate professor from February 2016. CV is old, so do not infer current rank."
+  },
+  {
+    "id": "H13",
+    "url": "https://www.cs.cmu.edu/~rsalakhu/",
+    "title": "Ruslan Salakhutdinov — Carnegie Mellon University homepage",
+    "source_type": "personal university biography",
+    "claims_supported": "Identifies him as UPMC Professor of Computer Science in CMU's Machine Learning Department."
+  },
+  {
+    "id": "H14",
+    "url": "https://www.ucl.ac.uk/life-sciences/gatsby/about",
+    "title": "About the Gatsby Computational Neuroscience Unit",
+    "source_type": "official institutional history",
+    "claims_supported": "Unit established July 1998 at UCL; founding faculty Hinton, Dayan, Li Zhaoping and Ghahramani. Hinton founding director 1998–2001; Dayan director 2002–2017."
+  },
+  {
+    "id": "H15",
+    "url": "https://www.mpg.de/12300126/appointment-dayan-li",
+    "title": "Peter Dayan and Li Zhaoping appointed to Max Planck Institute for Biological Cybernetics",
+    "source_type": "official appointment announcement",
+    "claims_supported": "Dayan studied Cambridge mathematics, earned Edinburgh doctorate, held Salk/Toronto postdocs, moved to MIT 1995, cofounded Gatsby 1998 and directed it 2002–2017; appointed Max Planck director in 2018."
+  },
+  {
+    "id": "H16",
+    "url": "https://www.kyb.tuebingen.mpg.de/person/95844",
+    "title": "Dr Peter Dayan — Max Planck Institute for Biological Cybernetics",
+    "source_type": "official staff profile",
+    "claims_supported": "Director, Department of Computational Neuroscience."
+  },
+  {
+    "id": "H17",
+    "url": "https://www.darwin.cam.ac.uk/news/physics-nobel-laureates-were-personal-heroes-to-professor-sir-david-mackay/",
+    "title": "Physics Nobel Laureates were personal heroes to Professor Sir David MacKay",
+    "source_type": "official college remembrance with widow testimony",
+    "claims_supported": "John Hopfield supervised MacKay's Caltech PhD; Hinton was a close friend and influence. MacKay worked at Gatsby, was Cambridge Regius Professor and Darwin Fellow. Not evidence of a Hinton PhD supervision."
+  },
+  {
+    "id": "H18",
+    "url": "https://cims.nyu.edu/ai/events/919/",
+    "title": "NYU CILVR Seminar — Yann LeCun, 9 September 2026",
+    "source_type": "official university speaker biography",
+    "claims_supported": "LeCun: PhD 1987; Toronto postdoc; Bell Labs from 1988; AT&T Labs head from 1996; NYU professor from 2003; FAIR founding director 2013–2017; Meta chief AI scientist 2018–2025; AMI Labs executive chairman in 2026."
+  },
+  {
+    "id": "H19",
+    "url": "https://openai.com/index/introducing-openai/",
+    "title": "Introducing OpenAI — 11 December 2015",
+    "source_type": "official founding announcement",
+    "claims_supported": "Ilya Sutskever founding research director; Greg Brockman CTO; other founding members and advisors named. Historical founding roles only."
+  },
+  {
+    "id": "H20",
+    "url": "https://ssi.inc/updates",
+    "title": "Safe Superintelligence — official updates",
+    "source_type": "official company statement",
+    "claims_supported": "Ilya's July 3, 2025 message states he is now CEO; Daniel Levy is president; Daniel Gross departed June 29, 2025."
+  },
+  {
+    "id": "dm01",
+    "url": "https://deepmind.google/blog/from-unlikely-start-up-to-major-scientific-organisation-entering-our-tenth-year-at-deepmind/",
+    "title": "Entering our tenth year at DeepMind",
+    "claim_supported": "Hassabis identifies himself, Shane Legg and Mustafa Suleyman as 2010 co-founders; Suleyman leaves DeepMind for Google in 2019; Legg was Chief Scientist; Lila Ibrahim COO and Koray Kavukcuoglu VP Research.",
+    "date": "2019-12-05",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm02",
+    "url": "https://www.ucl.ac.uk/news/2023/dec/google-deepmind-co-founder-discusses-how-ai-can-benefit-humanity-ucl",
+    "title": "Google DeepMind co-founder discusses how AI can benefit humanity at UCL",
+    "claim_supported": "Hassabis completed UCL cognitive-neuroscience PhD in 2009 under Eleanor Maguire; met Legg at Gatsby; Google acquired DeepMind in 2014.",
+    "date": "2023-12-13",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm03",
+    "url": "https://www.ucl.ac.uk/brain-sciences/news/2024/oct/ucl-alumnus-and-ai-innovator-awarded-nobel-prize-chemistry",
+    "title": "UCL alumnus and AI innovator awarded Nobel Prize in Chemistry",
+    "claim_supported": "Eleanor Maguire was Hassabis's primary supervisor; Geraint Rees was secondary supervisor, degree completed 2009.",
+    "date": "2024-10",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm04",
+    "url": "https://www.ae-info.org/ae/Member/Hassabis_Demis/CV",
+    "title": "Demis Hassabis - Curriculum Vitae",
+    "claim_supported": "Cambridge BA 1994–1997; UCL PhD 2005–2009; joint UCL/MIT/Harvard postdoc 2009–2010; Elixir founder and CEO 1998–2005; historical Bullfrog/Lionhead employment.",
+    "date": "2023-07-05",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm05",
+    "url": "https://www.ucl.ac.uk/life-sciences/gatsby/about",
+    "title": "About the Gatsby Computational Neuroscience Unit",
+    "claim_supported": "Gatsby established at UCL in July 1998. Hinton founding director 1998–2001; Dayan member 1998–2018 and director 2002–2017; founding faculty includes Zoubin Ghahramani.",
+    "date": "undated",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm06",
+    "url": "https://www.ucl.ac.uk/life-sciences/gatsby/people",
+    "title": "People — Gatsby Unit",
+    "claim_supported": "Former postdoctoral researchers include Hassabis and Legg; dates here differ from Hassabis CV. Dayan former director.",
+    "date": "undated",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm07",
+    "url": "https://susi.usi.ch/usi/documents/317954",
+    "title": "Machine super intelligence — Shane Legg doctoral thesis",
+    "claim_supported": "USI 2008 PhD; Marcus Hutter explicitly named degree supervisor.",
+    "date": "2008-06-17",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm08",
+    "url": "https://www.inf.usi.ch/en/feeds/8625",
+    "title": "Machine Super Intelligence — doctoral defence announcement",
+    "claim_supported": "Legg defence: Marcus Hutter research advisor; Jürgen Schmidhuber co-advisor.",
+    "date": "2008-06-17",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm09",
+    "url": "https://webdocs.cs.ualberta.ca/~mmueller/students.html",
+    "title": "Martin Müller's Research Group",
+    "claim_supported": "David Silver 2009 PhD co-supervised by Müller and Rich Sutton; Aja Huang postdoc 2011–2012 co-supervised by Müller and Ryan Hayward.",
+    "date": "2025-03-05",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm10",
+    "url": "https://apps.ualberta.ca/directory/person/rsutton",
+    "title": "Rich Sutton, PhD — University of Alberta directory",
+    "claim_supported": "University of Alberta professor; Stanford BA 1978; University of Massachusetts MS 1980 and PhD 1984.",
+    "date": "undated",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm11",
+    "url": "https://davidstarsilver.wordpress.com/about/",
+    "title": "David Silver — Bio",
+    "claim_supported": "Silver's personal profile identifies him as former DeepMind reinforcement-learning lead and UCL professor. The page now says CEO of Ineffable Intelligence; do not imply his DeepMind role is current.",
+    "date": "undated; accessed 2026-10-22",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm12",
+    "url": "https://deepmind.google/blog/deepmind-expands-to-canada-with-new-research-office-in-edmonton-alberta",
+    "title": "DeepMind expands to Canada with new research office in Edmonton, Alberta",
+    "claim_supported": "Sutton first DeepMind advisor in 2010; Alberta office established 2017 with Sutton, Michael Bowling and Patrick Pilarski as leaders while retaining UAlberta professorships; Hassabis and Legg met as Gatsby postdocs.",
+    "date": "2017-07-05",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm13",
+    "url": "https://deepmind.google/blog/announcing-google-deepmind/",
+    "title": "Announcing Google DeepMind",
+    "claim_supported": "DeepMind and Google Research's Brain team combined as Google DeepMind on 20 April 2023; Zoubin Ghahramani joins research leadership reporting to Koray Kavukcuoglu.",
+    "date": "2023-04-20",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm14",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/april-ai-update/",
+    "title": "Google DeepMind: Bringing together two world-class AI teams",
+    "claim_supported": "2023 reorganization forms Google DeepMind under Demis Hassabis; Jeff Dean becomes Google Chief Scientist, serving Google Research and Google DeepMind.",
+    "date": "2023-04-20",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm15",
+    "url": "https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/",
+    "title": "Mustafa Suleyman, DeepMind and Inflection Co-founder, joins Microsoft to lead Copilot",
+    "claim_supported": "Suleyman appointed Microsoft AI CEO in March 2024; Microsoft identifies him as DeepMind and Inflection co-founder. Karén Simonyan joins as chief scientist reporting to Suleyman.",
+    "date": "2024-03-19",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm16",
+    "url": "https://mustafa-suleyman.ai/",
+    "title": "Mustafa Suleyman — personal biography",
+    "claim_supported": "Suleyman co-founded and was CEO of Inflection AI, previously co-founded DeepMind and led applied research and commercialisation.",
+    "date": "undated; accessed 2026-10-22",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm17",
+    "url": "https://www.kyb.tuebingen.mpg.de/person/95844",
+    "title": "Dr. Peter Dayan — Max Planck Institute for Biological Cybernetics",
+    "claim_supported": "Dayan profile: director, Department of Computational Neuroscience.",
+    "date": "undated",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm18",
+    "url": "https://royalsociety.org/people/eleanor-maguire-12883/",
+    "title": "Professor Eleanor Maguire — Royal Society Fellow",
+    "claim_supported": "Maguire UCL Wellcome Centre researcher; death date 4 January 2025.",
+    "date": "undated",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm19",
+    "url": "https://www.cam.ac.uk/stories/demis-hassabis-AI-Cambridge",
+    "title": "Driving scientific discovery with AI — Demis Hassabis at Cambridge",
+    "claim_supported": "Hassabis studied computer science as a Queens' College undergraduate at Cambridge.",
+    "date": "2025",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "dm20",
+    "url": "https://www.gov.uk/government/people/demis-hassabis",
+    "title": "Demis Hassabis — GOV.UK",
+    "claim_supported": "Government biography records Google's purchase of DeepMind in January 2014; other role wording appears historical and is not treated as current.",
+    "date": "undated",
+    "source_class": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R01",
+    "url": "https://awards.acm.org/binaries/content/assets/press-releases/2025/march/turing-award-2024.pdf",
+    "title": "ACM: 2024 Turing Award announcement",
+    "claims_supported": "Barto was Sutton’s doctoral and postdoctoral adviser; Sutton worked at AT&T Shannon Laboratory in 1998–2002. Award year 2024, announced 2025.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R02",
+    "url": "https://apps.ualberta.ca/directory/person/rsutton",
+    "title": "Richard Sutton — University of Alberta",
+    "claims_supported": "Stanford BA 1978; UMass MS 1980 and PhD 1984; Alberta professor.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R03",
+    "url": "https://www.amii.ca/people/richard-s-sutton",
+    "title": "Richard Sutton — Amii profile",
+    "claims_supported": "Amii Chief Scientific Advisor; Alberta professor and RLAI founder; Keen Technologies researcher; founder of Openmind Research Institute.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R04",
+    "url": "https://www.amii.ca/updates-insights/john-carmack-and-rich-sutton-agi",
+    "title": "Amii: Carmack and Sutton partnership, 25 September 2023",
+    "claims_supported": "Carmack founded Keen in 2022; Sutton joined the collaboration in 2023, retaining academic roles.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R05",
+    "url": "https://www.cics.umass.edu/about/directory/andrew-g-barto",
+    "title": "Andrew Barto — UMass profile",
+    "claims_supported": "UMass faculty career; coauthored Reinforcement Learning: An Introduction with Sutton.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R06",
+    "url": "https://sites.ualberta.ca/~amw8/cv.pdf",
+    "title": "Adam White — curriculum vitae",
+    "claims_supported": "Sutton advised MSc 2006 and PhD 2015; White worked at DeepMind 2017–2023 and Alberta.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R07",
+    "url": "https://www.cs.mcgill.ca/~dprecup/",
+    "title": "Doina Precup — personal university profile",
+    "claims_supported": "McGill and Mila affiliations; leadership in DeepMind Montreal.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R08",
+    "url": "https://www.amii.ca/updates-insights/rich-sutton-turing",
+    "title": "Amii: Understanding Intelligence, 5 March 2025",
+    "claims_supported": "Names Silver, Precup, Adam White and Cam Linke as researchers who studied under Sutton; only use unspecified mentorship for Precup and Linke here.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R09",
+    "url": "https://deepmind.google/blog/deepmind-expands-to-canada-with-new-research-office-in-edmonton-alberta/",
+    "title": "DeepMind Alberta opening, 5 July 2017",
+    "claims_supported": "Sutton, Michael Bowling and Patrick Pilarski lead new Edmonton office while retaining Alberta posts; Adam White joins.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R10",
+    "url": "https://preview.ualberta.ca/science/about-us/contours/2017-fall-contours/2017/november/deepmind-is-ready-and-set-to-go.html",
+    "title": "University of Alberta: DeepMind is ready and set to GO",
+    "claims_supported": "Joseph Modayil did postdoctoral work with Sutton. Use for this specific biographical fact, not the article’s mistaken AlphaGo competition year.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R11",
+    "url": "https://arxiv.org/abs/2208.11173",
+    "title": "The Alberta Plan for AI Research (2022)",
+    "claims_supported": "Coauthored by Sutton, Michael Bowling and Patrick Pilarski; collaboration is not doctoral supervision.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R12",
+    "url": "https://www.cs.toronto.edu/~cmaddis/maddison_cv.pdf",
+    "title": "Chris Maddison — CV (historical)",
+    "claims_supported": "MSc Toronto 2012–2014 supervised by Hinton; Oxford DPhil 2016–2020 supervised by Arnaud Doucet and Yee Whye Teh. 2014 Google Brain internship.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R13",
+    "url": "https://www.gatsby.ucl.ac.uk/~aguez/",
+    "title": "Arthur Guez — university homepage",
+    "claims_supported": "UCL PhD 2015 supervised by Peter Dayan and David Silver; McGill MSc 2010 supervised by Joelle Pineau; DeepMind research scientist.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R14",
+    "url": "https://yann.lecun.com/",
+    "title": "Yann LeCun — personal university homepage",
+    "claims_supported": "Lists Koray Kavukcuoglu as NYU PhD student, 2010.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R15",
+    "url": "https://www.cs.utoronto.ca/~vmnih/",
+    "title": "Volodymyr Mnih — Toronto homepage",
+    "claims_supported": "PhD supervised by Geoffrey Hinton; DeepMind researcher on historical page.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R16",
+    "url": "https://openai.com/index/introducing-openai/",
+    "title": "Introducing OpenAI (11 December 2015)",
+    "claims_supported": "2015 founders, research director Sutskever, CTO Brockman, co-chairs Altman/Musk and listed donors. Historical snapshot only.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R17",
+    "url": "https://www.andrewng.org/",
+    "title": "Andrew Ng — official profile",
+    "claims_supported": "Stanford adjunct professor; Google Brain founding lead; former Baidu chief scientist.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R18",
+    "url": "https://www.anthropic.com/company/leadership",
+    "title": "Anthropic leadership",
+    "claims_supported": "Dario Amodei cofounder and CEO; Daniela Amodei cofounder and president.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R19",
+    "url": "https://www.nobelprize.org/prizes/chemistry/2024/jumper/facts/",
+    "title": "John Jumper — Nobel Prize facts",
+    "claims_supported": "2024 Nobel chemistry laureate affiliated with Google DeepMind at award.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R20",
+    "url": "https://www.nobelprize.org/prizes/chemistry/2024/press-release/",
+    "title": "Nobel Prize in Chemistry 2024 — official press release",
+    "claims_supported": "University of Washington affiliation at 2024 Nobel award.",
+    "source_type": "primary",
+    "accessed": "2026-10-23"
+  },
+  {
+    "id": "R21",
+    "url": "https://arxiv.org/abs/1409.3215",
+    "title": "Sequence to Sequence Learning with Neural Networks (2014)",
+    "claims_supported": "Authors Ilya Sutskever, Oriol Vinyals and Quoc V. Le.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R22",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "title": "Attention Is All You Need (2017)",
+    "claims_supported": "Original Transformer paper; use as technical context, not as a supervision link.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R23",
+    "url": "https://www.stats.ox.ac.uk/~teh/",
+    "title": "Yee Whye Teh — Oxford profile",
+    "claims_supported": "Oxford professor; historical DeepMind research role.",
+    "source_type": "primary",
+    "accessed": "2026-10-22"
+  },
+  {
+    "id": "R25",
+    "url": "https://noambrown.com/",
+    "title": "Noam Brown — first-person research profile",
+    "claims_supported": "Research scientist at OpenAI; previously FAIR (Meta); PhD in computer science from Carnegie Mellon. Does not support the book’s DeepMind affiliation.",
+    "source_type": "primary",
+    "accessed": "2026-10-23"
+  },
+  {
+    "id": "R24",
+    "url": "https://www.ebi.ac.uk/about/faq/",
+    "title": "EMBL-EBI: About and FAQ",
+    "claims_supported": "EMBL-EBI is part of EMBL and located near Cambridge; it is not a University of Cambridge unit.",
+    "accessed": "2026-10-23"
+  }
+]

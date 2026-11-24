@@ -1,0 +1,54 @@
+{
+  "errors": [],
+  "warnings": [],
+  "canvases": [
+    {
+      "file": "10 Hinton Lineage.canvas",
+      "nodes": 36,
+      "edges": 31
+    },
+    {
+      "file": "11 Richard Sutton Lineage.canvas",
+      "nodes": 34,
+      "edges": 35
+    },
+    {
+      "file": "12 Hassabis and DeepMind.canvas",
+      "nodes": 39,
+      "edges": 63
+    },
+    {
+      "file": "13 Industry and Labs.canvas",
+      "nodes": 46,
+      "edges": 49
+    },
+    {
+      "file": "20 Organization Atlas.canvas",
+      "nodes": 699,
+      "edges": 161
+    },
+    {
+      "file": "21 Context and Unresolved.canvas",
+      "nodes": 398,
+      "edges": 0
+    },
+    {
+      "file": "Modern AI Pedigree.canvas",
+      "nodes": 31,
+      "edges": 18
+    }
+  ],
+  "entity_notes": 822,
+  "relationships": 537,
+  "checks": [
+    "JSON Canvas geometry and types",
+    "unique IDs and paths",
+    "edge endpoints and evidence",
+    "book page ranges",
+    "all internal note links",
+    "nonoverlapping cards",
+    "atlas coverage",
+    "disputed-edge exclusion"
+  ],
+  "limitation": "Checked structurally and with programmatic layout previews; not rendered inside a running Obsidian application."
+}

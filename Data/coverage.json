@@ -1,0 +1,36 @@
+[
+  {
+    "file": "book_first.json",
+    "range": [
+      1,
+      170
+    ],
+    "reviewed_through": 170
+  },
+  {
+    "file": "book_middle.json",
+    "coverage": {
+      "pdf_pages_requested": [
+        171,
+        335
+      ],
+      "status": "completed",
+      "reviewed_pages": [
+        [
+          171,
+          335
+        ]
+      ],
+      "method": "All 165 assigned physical PDF pages reviewed as normalized OCR, with named-passage inventory cross-check. Brief paraphrases only. Page arrays are supporting occurrences, not guaranteed exhaustive occurrence indexes.",
+      "scope_note": "People and organizations retained, including peripheral historical/editorial names and venues. Products and algorithms usually omitted unless useful as a research community. Broad pupil/group labels are not converted into doctoral supervision. Proposed appointments and investments are not treated as completed."
+    }
+  },
+  {
+    "file": "book_last.json",
+    "range": [
+      336,
+      505
+    ],
+    "read_through": 505
+  }
+]

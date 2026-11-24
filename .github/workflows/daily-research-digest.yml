@@ -1,0 +1,50 @@
+name: AI Research Daily Digest
+
+on:
+  schedule:
+    # 08:00 Asia/Shanghai (UTC+8). GitHub schedules use UTC.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-research-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      RECIPIENTS: ${{ secrets.RECIPIENTS }}
+      VAULT_ROOT: ${{ github.workspace }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch research and send digest
+        run: python Scripts/ai_research_watcher.py
+
+      - name: Commit updated state and research notes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Scripts/.watcher_state.json "Previews/Research Digest"
+          if git diff --cached --quiet; then
+            echo "No archive changes to commit."
+          else
+            git commit -m "chore: update daily AI research digest"
+            git push
+          fi

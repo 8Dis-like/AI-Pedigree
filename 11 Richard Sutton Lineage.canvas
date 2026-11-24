@@ -1,0 +1,728 @@
+{
+  "nodes": [
+    {
+      "id": "e50096742f4f1da7",
+      "type": "group",
+      "x": 4165,
+      "y": -55,
+      "width": 790,
+      "height": 1385,
+      "label": "Industry and international links",
+      "color": "#526178"
+    },
+    {
+      "id": "95d436aa8dd45e99",
+      "type": "group",
+      "x": 3065,
+      "y": -55,
+      "width": 790,
+      "height": 1055,
+      "label": "Alberta institutions and research",
+      "color": "#526178"
+    },
+    {
+      "id": "4540717d3b4bb166",
+      "type": "group",
+      "x": 2265,
+      "y": -55,
+      "width": 380,
+      "height": 1715,
+      "label": "Co-supervision and other mentorship",
+      "color": "#526178"
+    },
+    {
+      "id": "4299fae862ccefa0",
+      "type": "group",
+      "x": 1515,
+      "y": -55,
+      "width": 380,
+      "height": 1055,
+      "label": "Documented doctoral descendants",
+      "color": "#526178"
+    },
+    {
+      "id": "5c70735e87b483f5",
+      "type": "group",
+      "x": -35,
+      "y": -55,
+      "width": 380,
+      "height": 1055,
+      "label": "Education and adviser",
+      "color": "#526178"
+    },
+    {
+      "id": "02a744e8823f6ba8",
+      "type": "text",
+      "x": 0,
+      "y": -360,
+      "width": 2000,
+      "height": 170,
+      "text": "# Richard Sutton — reinforcement-learning lineage\n\nBarto → Sutton → Silver / White, with separate mentorship and collaboration branches. External additions are marked web extension.\n\n[[00 Start Here|Guide]] · [[01 Map Index|All maps]] · [[03 Evidence and Open Questions|Evidence rules]]"
+    },
+    {
+      "id": "47e917d3c9a118a5",
+      "type": "text",
+      "x": 2100,
+      "y": -360,
+      "width": 1450,
+      "height": 170,
+      "text": "**● HUMAN** blue · **◆ INSTITUTION** purple · **■ COMPANY** amber · **▣ LAB / TEAM** green · **◇ CONTEXT** grey\n\n**V** green edges = primary-source checked. **B** amber edges = book report. Full evidence and dates are in the linked notes. Grouping is navigation, not a current org chart."
+    },
+    {
+      "id": "79c13355de67432a",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Andrew Barto|Andrew Barto]]\n\nReinforcement-learning researcher; Sutton’s doctoral adviser.\n\n[Profile / source](https://www.cics.umass.edu/about/directory/andrew-g-barto)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "de24a6e69cbc6a1a",
+      "type": "text",
+      "x": 0,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**◆ INSTITUTION** · web extension\n\n### [[Institutions/University of Massachusetts Amherst|University of Massachusetts Amherst]]\n\n\n\n[Profile / source](https://www.cics.umass.edu/about/directory/andrew-g-barto)",
+      "color": "#B19CDE"
+    },
+    {
+      "id": "f03ddb39287896a4",
+      "type": "text",
+      "x": 0,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**◆ INSTITUTION** · book\n\n### [[Institutions/Stanford University|Stanford University]]\n\nVenture-capital geographic reference\n\n[[Sources/Hassabis - source book.pdf#page=155|PDF p. 155]] · profile pending",
+      "color": "#B19CDE"
+    },
+    {
+      "id": "c20830e44d6be287",
+      "type": "text",
+      "x": 650,
+      "y": 310,
+      "width": 420,
+      "height": 240,
+      "text": "**● HUMAN** · book + web\n\n### [[People/Richard Sutton|Richard Sutton]]\n\nReinforcement learning; adviser, collaborator and institution builder.\n\n[Profile / source](https://www.amii.ca/people/richard-s-sutton)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "bbf4f7fc7eb9dd30",
+      "type": "text",
+      "x": 1550,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book + web\n\n### [[People/David Silver|David Silver]]\n\nReinforcement-learning researcher; former DeepMind team leader.\n\n[Profile / source](https://davidstarsilver.wordpress.com/about/)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "98172a1b6ed23831",
+      "type": "text",
+      "x": 1550,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Adam White|Adam White]]\n\nReinforcement-learning researcher; Sutton doctoral alumnus.\n\n[Profile / source](https://sites.ualberta.ca/~amw8/)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "28474fd9565504d3",
+      "type": "text",
+      "x": 1550,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book + web\n\n### [[People/Arthur Guez|Arthur Guez]]\n\nUCL PhD supervised jointly by Dayan and Silver.\n\n[Profile / source](https://www.gatsby.ucl.ac.uk/~aguez/)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "3074e9df5cb87491",
+      "type": "text",
+      "x": 2300,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book + web\n\n### [[People/Martin Müller|Martin Müller]]\n\nUniversity of Alberta researcher; Silver PhD co-supervisor.\n\n[Profile / source](https://webdocs.cs.ualberta.ca/~mmueller/students.html)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "28d3c018921f2e5d",
+      "type": "text",
+      "x": 2300,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book + web\n\n### [[People/Peter Dayan|Peter Dayan]]\n\nComputational neuroscientist; former Gatsby director.\n\n[Profile / source](https://www.kyb.tuebingen.mpg.de/person/95844)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "39b4ce57c87258f5",
+      "type": "text",
+      "x": 2300,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Doina Precup|Doina Precup]]\n\nReinforcement-learning researcher; McGill, Mila and DeepMind Montreal.\n\n[Profile / source](https://www.cs.mcgill.ca/~dprecup/)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "161d4e0d83148c14",
+      "type": "text",
+      "x": 2300,
+      "y": 990,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Joseph Modayil|Joseph Modayil]]\n\nSutton postdoctoral alumnus; researcher in reinforcement learning.\n\n[Profile / source](https://preview.ualberta.ca/science/about-us/contours/2017-fall-contours/2017/november/deepmind-is-ready-and-set-to-go.html)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "acc63ea370c61fc7",
+      "type": "text",
+      "x": 2300,
+      "y": 1320,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Cam Linke|Cam Linke]]\n\nAmii leader; Sutton mentee, degree type not assigned here.\n\n[Profile / source](https://www.amii.ca/updates-insights/rich-sutton-turing)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "3ecc86e3095b5766",
+      "type": "text",
+      "x": 3100,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**◆ INSTITUTION** · book + web\n\n### [[Institutions/University of Alberta|University of Alberta]]\n\nUniversity.\n\n[Profile / source](https://www.ualberta.ca/)",
+      "color": "#B19CDE"
+    },
+    {
+      "id": "88874c47d6e19ad9",
+      "type": "text",
+      "x": 3510,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**▣ LAB** · web extension\n\n### [[Labs/RLAI Lab|RLAI Lab]]\n\nReinforcement Learning and Artificial Intelligence Lab, University of Alberta.\n\n[Profile / source](https://www.amii.ca/people/richard-s-sutton)",
+      "color": "#63BFA7"
+    },
+    {
+      "id": "8920b9d98ffce50a",
+      "type": "text",
+      "x": 3100,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**◆ INSTITUTION** · web extension\n\n### [[Institutions/Amii|Amii]]\n\nAlberta Machine Intelligence Institute.\n\n[Profile / source](https://www.amii.ca/)",
+      "color": "#B19CDE"
+    },
+    {
+      "id": "632f39a9e42f878e",
+      "type": "text",
+      "x": 3510,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**▣ LAB** · book + web\n\n### [[Labs/DeepMind Alberta|DeepMind Alberta]]\n\nCorporate research office announced in Edmonton in 2017.\n\n[Profile / source](https://deepmind.google/blog/deepmind-expands-to-canada-with-new-research-office-in-edmonton-alberta)",
+      "color": "#63BFA7"
+    },
+    {
+      "id": "c2bee00686aca7af",
+      "type": "text",
+      "x": 3100,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · book + web\n\n### [[People/Michael Bowling|Michael Bowling]]\n\nAlberta faculty member and 2017 DeepMind Alberta co-lead.\n\n[Profile / source](https://deepmind.google/blog/deepmind-expands-to-canada-with-new-research-office-in-edmonton-alberta/)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "c3e0346cf16c8a54",
+      "type": "text",
+      "x": 3510,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/Patrick Pilarski|Patrick Pilarski]]\n\nAlberta faculty member and 2017 DeepMind Alberta co-lead.\n\n[Profile / source](https://deepmind.google/blog/deepmind-expands-to-canada-with-new-research-office-in-edmonton-alberta/)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "edf4543031833fd6",
+      "type": "text",
+      "x": 4200,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**■ COMPANY** · book + web\n\n### [[Companies/DeepMind|DeepMind]]\n\nCompany founded 2010; acquired by Google 2014; historical entity distinguished from 2023 Google DeepMind.\n\n[Profile / source](https://deepmind.google/blog/from-unlikely-start-up-to-major-scientific-organisation-entering-our-tenth-year-at-deepmind/)",
+      "color": "#E8AD59"
+    },
+    {
+      "id": "c00537dab21326b6",
+      "type": "text",
+      "x": 4610,
+      "y": 0,
+      "width": 350,
+      "height": 270,
+      "text": "**▣ LAB** · web extension\n\n### [[Labs/DeepMind Montreal|DeepMind Montreal]]\n\nIncluded because a sourced relationship names this entity.\n\nSee linked evidence note",
+      "color": "#63BFA7"
+    },
+    {
+      "id": "fe91f989c0cac86a",
+      "type": "text",
+      "x": 4200,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**◆ INSTITUTION** · web extension\n\n### [[Institutions/McGill University|McGill University]]\n\n\n\n[Profile / source](https://www.cs.mcgill.ca/~dprecup/)",
+      "color": "#B19CDE"
+    },
+    {
+      "id": "85b4d017ff7d240b",
+      "type": "text",
+      "x": 4610,
+      "y": 330,
+      "width": 350,
+      "height": 270,
+      "text": "**◆ INSTITUTION** · web extension\n\n### [[Institutions/Mila|Mila]]\n\n\n\n[Profile / source](https://www.cs.mcgill.ca/~dprecup/)",
+      "color": "#B19CDE"
+    },
+    {
+      "id": "3a69f1ca31b84bc9",
+      "type": "text",
+      "x": 4200,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**● HUMAN** · web extension\n\n### [[People/John Carmack|John Carmack]]\n\nKeen Technologies founder; Sutton collaborator.\n\n[Profile / source](https://www.amii.ca/updates-insights/john-carmack-and-rich-sutton-agi)",
+      "color": "#43A8D1"
+    },
+    {
+      "id": "dde78e15505e65ca",
+      "type": "text",
+      "x": 4610,
+      "y": 660,
+      "width": 350,
+      "height": 270,
+      "text": "**■ COMPANY** · web extension\n\n### [[Companies/Keen Technologies|Keen Technologies]]\n\nAGI research company founded by John Carmack in 2022.\n\n[Profile / source](https://www.amii.ca/updates-insights/john-carmack-and-rich-sutton-agi)",
+      "color": "#E8AD59"
+    },
+    {
+      "id": "24346bc6fb183ecd",
+      "type": "text",
+      "x": 4200,
+      "y": 990,
+      "width": 350,
+      "height": 270,
+      "text": "**◆ INSTITUTION** · web extension\n\n### [[Institutions/Openmind Research Institute|Openmind Research Institute]]\n\nInstitute listed in Sutton’s Amii biography; do not conflate with similarly named robotics companies.\n\n[Profile / source](https://www.amii.ca/people/richard-s-sutton)",
+      "color": "#B19CDE"
+    },
+    {
+      "id": "091c8b8c70a3efb8",
+      "type": "text",
+      "x": 4610,
+      "y": 990,
+      "width": 350,
+      "height": 270,
+      "text": "**▣ LAB** · web extension\n\n### [[Labs/AT&T Shannon Laboratory|AT&T Shannon Laboratory]]\n\n\n\n[Profile / source](https://awards.acm.org/binaries/content/assets/press-releases/2025/march/turing-award-2024.pdf)",
+      "color": "#63BFA7"
+    },
+    {
+      "id": "e5be64ea7ca3a40e",
+      "type": "text",
+      "x": 650,
+      "y": 900,
+      "width": 650,
+      "height": 370,
+      "text": "## Reading this branch\n\n**PhD adviser** = degree supervision.\n\n**Academic mentor** leaves degree type open.\n\n**Postdoctoral mentor** is a separate training relationship.\n\n**Alberta Plan coauthor / co-led office** is collaboration. Bowling and Pilarski are not labelled Sutton students.\n\nSutton and Martin Müller co-supervised Silver. Dayan and Silver co-supervised Guez.\n\n[[People/Richard Sutton|Open the full Sutton evidence note]]"
+    }
+  ],
+  "edges": [
+    {
+      "id": "rel-bbb46a5fd1",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "bbf4f7fc7eb9dd30",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · PhD co-supervisor · completed 2009"
+    },
+    {
+      "id": "rel-f32f53010e",
+      "fromNode": "3074e9df5cb87491",
+      "toNode": "bbf4f7fc7eb9dd30",
+      "fromSide": "left",
+      "toSide": "right",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · PhD co-supervisor · completed 2009"
+    },
+    {
+      "id": "rel-fb87cef372",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "3ecc86e3095b5766",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · professor · documented 2017"
+    },
+    {
+      "id": "rel-54dbcba3fc",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "edf4543031833fd6",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · first scientific advisor · 2010"
+    },
+    {
+      "id": "rel-e5118d141b",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "632f39a9e42f878e",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · co-led office · announced 2017-07-05"
+    },
+    {
+      "id": "rel-bcc89d1462",
+      "fromNode": "632f39a9e42f878e",
+      "toNode": "edf4543031833fd6",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · research office of · established 2017"
+    },
+    {
+      "id": "rel-f7fbafddfc",
+      "fromNode": "632f39a9e42f878e",
+      "toNode": "3ecc86e3095b5766",
+      "fromSide": "left",
+      "toSide": "right",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · research collaboration · announced 2017-07-05"
+    },
+    {
+      "id": "rel-b0ff2c5bac",
+      "fromNode": "79c13355de67432a",
+      "toNode": "c20830e44d6be287",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · PhD adviser · PhD 1984; postdoctoral mentor"
+    },
+    {
+      "id": "rel-faf75db501",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "f03ddb39287896a4",
+      "fromSide": "left",
+      "toSide": "right",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · BA Psychology · 1978"
+    },
+    {
+      "id": "rel-1415385289",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "de24a6e69cbc6a1a",
+      "fromSide": "left",
+      "toSide": "right",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · MS and PhD · MS 1980; PhD 1984"
+    },
+    {
+      "id": "rel-1633968d66",
+      "fromNode": "79c13355de67432a",
+      "toNode": "de24a6e69cbc6a1a",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · faculty member"
+    },
+    {
+      "id": "rel-4108fbdca6",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "8920b9d98ffce50a",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · Chief Scientific Advisor"
+    },
+    {
+      "id": "rel-ec97d94ebf",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "88874c47d6e19ad9",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · founder"
+    },
+    {
+      "id": "rel-66aabb0e98",
+      "fromNode": "88874c47d6e19ad9",
+      "toNode": "3ecc86e3095b5766",
+      "fromSide": "left",
+      "toSide": "right",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · lab within"
+    },
+    {
+      "id": "rel-3d2ace1dba",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "24346bc6fb183ecd",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · founder"
+    },
+    {
+      "id": "rel-db23c6b38e",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "dde78e15505e65ca",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · research partnership · 2023"
+    },
+    {
+      "id": "rel-2848023223",
+      "fromNode": "3a69f1ca31b84bc9",
+      "toNode": "dde78e15505e65ca",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · founder · 2022"
+    },
+    {
+      "id": "rel-785c973931",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "3a69f1ca31b84bc9",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · research collaborator · 2023"
+    },
+    {
+      "id": "rel-e8dda0c8a4",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "091c8b8c70a3efb8",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · technical staff member · 1998–2002"
+    },
+    {
+      "id": "rel-bf702fc1ee",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "98172a1b6ed23831",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · PhD adviser · 2015; MSc adviser · 2006"
+    },
+    {
+      "id": "rel-10cd2d9fac",
+      "fromNode": "98172a1b6ed23831",
+      "toNode": "3ecc86e3095b5766",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · MSc and PhD · 2006; 2015"
+    },
+    {
+      "id": "rel-ac92002d05",
+      "fromNode": "98172a1b6ed23831",
+      "toNode": "edf4543031833fd6",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · research scientist · 2017–2023"
+    },
+    {
+      "id": "rel-e798e16d74",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "39b4ce57c87258f5",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · academic mentor"
+    },
+    {
+      "id": "rel-92d553ef1d",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "acc63ea370c61fc7",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · academic mentor"
+    },
+    {
+      "id": "rel-c4bfa092ec",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "161d4e0d83148c14",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · postdoctoral mentor"
+    },
+    {
+      "id": "rel-bdc5374b42",
+      "fromNode": "39b4ce57c87258f5",
+      "toNode": "fe91f989c0cac86a",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · faculty affiliation"
+    },
+    {
+      "id": "rel-9296ee4c20",
+      "fromNode": "39b4ce57c87258f5",
+      "toNode": "85b4d017ff7d240b",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · research affiliation"
+    },
+    {
+      "id": "rel-e46fe5e96c",
+      "fromNode": "39b4ce57c87258f5",
+      "toNode": "c00537dab21326b6",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · research team lead"
+    },
+    {
+      "id": "rel-255522ab75",
+      "fromNode": "c00537dab21326b6",
+      "toNode": "edf4543031833fd6",
+      "fromSide": "left",
+      "toSide": "right",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · research office"
+    },
+    {
+      "id": "rel-58f03b1274",
+      "fromNode": "c2bee00686aca7af",
+      "toNode": "632f39a9e42f878e",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · co-led office · announced 2017"
+    },
+    {
+      "id": "rel-73c1133540",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "c2bee00686aca7af",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · Alberta Plan coauthor · 2022"
+    },
+    {
+      "id": "rel-cba5146962",
+      "fromNode": "c3e0346cf16c8a54",
+      "toNode": "632f39a9e42f878e",
+      "fromSide": "top",
+      "toSide": "bottom",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · co-led office · announced 2017"
+    },
+    {
+      "id": "rel-04fa6698ff",
+      "fromNode": "c20830e44d6be287",
+      "toNode": "c3e0346cf16c8a54",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · Alberta Plan coauthor · 2022"
+    },
+    {
+      "id": "rel-4240e3c21c",
+      "fromNode": "bbf4f7fc7eb9dd30",
+      "toNode": "28474fd9565504d3",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · PhD co-supervisor · 2015"
+    },
+    {
+      "id": "rel-350139ee57",
+      "fromNode": "28d3c018921f2e5d",
+      "toNode": "28474fd9565504d3",
+      "fromSide": "left",
+      "toSide": "right",
+      "fromEnd": "none",
+      "toEnd": "arrow",
+      "color": "#6CBF95",
+      "label": "V · PhD co-supervisor · 2015"
+    }
+  ]
+}
