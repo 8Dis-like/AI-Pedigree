@@ -395,10 +395,9 @@ def main() -> None:
 
         log(f"  → {new_count} new relevant items from {source['label']}")
 
-    save_state(state)
-    log(f"State saved. Total new relevant items this run: {len(all_new_items)}")
-
     if not all_new_items:
+        save_state(state)
+        log("State saved. Total new relevant items this run: 0")
         log("Nothing new — no email sent.")
         return
 
@@ -409,8 +408,12 @@ def main() -> None:
         f"{it['title']}\n{it['link']}\n{(it['summary'] or '')[:200]}"
         for it in all_new_items[:MAX_EMAIL_ITEMS]
     )
-    send_email(subject, html_body, plain_body)
+    if not send_email(subject, html_body, plain_body):
+        log("State not saved so the digest can be retried on the next run.")
+        raise SystemExit(1)
 
+    save_state(state)
+    log(f"State saved. Total new relevant items this run: {len(all_new_items)}")
     log("=== Run complete ===\n")
 
 
