@@ -11,6 +11,7 @@ items as Markdown notes, and emails a daily digest.
 | --- | --- |
 | `People/`, `Companies/`, `Institutions/`, `Labs/` | Linked entity notes |
 | `Sources/` | Evidence notes and source references |
+| `Research/` | Audited landmark-paper registry, concept boundaries, and people/institution correlations |
 | `Data/` | Structured entities, relationships, coverage, and validation data |
 | `*.canvas` | Obsidian lineage and organization maps |
 | `Scripts/ai_research_watcher.py` | Feed fetcher, filter, note writer, and mailer |
@@ -90,3 +91,7 @@ The repository contains original knowledge-base notes and links to external
 sources. Referenced source PDFs and local application artifacts are intentionally
 excluded from version control; follow the linked publishers' terms when using
 underlying material.
+
+The research atlas links to primary paper records and specifications rather than
+vendoring their text. Start at `Research/00 Research Atlas.md` or open
+`22 Landmark Research Atlas.canvas` in Obsidian.

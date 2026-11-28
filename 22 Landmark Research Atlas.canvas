@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# Landmark AI research atlas\n\nPaper families, personnel clusters, and concept boundaries. Dashed conceptual links are navigation aids, not employment or supervision claims.\n\n[[Research/00 Research Atlas|Open the research hub]]","x":0,"y":-660,"width":1540,"height":220},
+		{"id":"g-systems","type":"group","x":-1320,"y":-300,"width":1120,"height":1380,"color":"#526178","label":"Systems, agents, and serving"},
+		{"id":"g-learning","type":"group","x":-80,"y":-300,"width":1120,"height":1380,"color":"#526178","label":"Learning objectives and post-training"},
+		{"id":"g-models","type":"group","x":1160,"y":-300,"width":1120,"height":1380,"color":"#526178","label":"Architectures, generation, and planning"},
+		{"id":"hub","type":"file","file":"Research/00 Research Atlas.md","x":520,"y":-280,"width":380,"height":220},
+		{"id":"audit","type":"file","file":"Research/01 Source Audit.md","x":520,"y":120,"width":380,"height":220},
+		{"id":"people","type":"file","file":"Research/02 People and Institution Correlations.md","x":520,"y":520,"width":380,"height":220},
+		{"id":"concepts","type":"file","file":"Research/03 Concept Boundaries.md","x":520,"y":860,"width":380,"height":180},
+		{"id":"agents","type":"text","text":"## Agent systems\n\nMCP · Agent Skills · ReAct · Toolformer · SWE-agent · AutoGen · prompt injection","x":-1240,"y":-220,"width":440,"height":260,"color":"#63BFA7"},
+		{"id":"memory","type":"text","text":"## Memory and retrieval\n\nMemGPT · embeddings · DPR/HNSW · RAG · long-context evaluation","x":-1240,"y":140,"width":440,"height":240,"color":"#63BFA7"},
+		{"id":"serving","type":"text","text":"## Inference and scale\n\nKV cache · PagedAttention · SGLang · FlashAttention · Megatron · GPipe · ZeRO/FSDP","x":-1240,"y":480,"width":440,"height":270,"color":"#63BFA7"},
+		{"id":"systems-cluster","type":"text","text":"### Repeated institutions\n\nPrinceton · Berkeley · Stanford · Microsoft · Google","x":-720,"y":120,"width":420,"height":250,"color":"#B19CDE"},
+		{"id":"ssl","type":"text","text":"## Self-supervision\n\nDenoising · context prediction · CPC · SimCLR/MoCo · BYOL · DINO · VICReg · MAE · I-JEPA","x":40,"y":-220,"width":420,"height":300,"color":"#43A8D1"},
+		{"id":"post","type":"text","text":"## Post-training\n\nSFT · RLHF/PPO · DPO · RLAIF · GRPO/RLVR · test-time compute · LoRA/QLoRA","x":40,"y":220,"width":420,"height":300,"color":"#43A8D1"},
+		{"id":"data","type":"text","text":"## Data provenance\n\nSelf-Instruct · simulation · deduplication · contamination · recursive model collapse","x":40,"y":660,"width":420,"height":280,"color":"#43A8D1"},
+		{"id":"arch","type":"text","text":"## Architecture\n\nAttention · Transformer · RoPE · MoE · CNN/ResNet · ViT","x":1240,"y":-220,"width":440,"height":260,"color":"#E8AD59"},
+		{"id":"gen","type":"text","text":"## Generative models\n\nVAE · GAN · diffusion/DDPM · latent diffusion · flow matching · rectified flow","x":1240,"y":160,"width":440,"height":280,"color":"#E8AD59"},
+		{"id":"rl","type":"text","text":"## Reinforcement learning and planning\n\nTD learning · DQN · AlphaZero · MuZero","x":1240,"y":560,"width":440,"height":250,"color":"#E8AD59"},
+		{"id":"hinton","type":"file","file":"10 Hinton Lineage.canvas","x":1760,"y":-180,"width":400,"height":180},
+		{"id":"sutton","type":"file","file":"11 Richard Sutton Lineage.canvas","x":1760,"y":560,"width":400,"height":180},
+		{"id":"deepmind","type":"file","file":"12 Hassabis and DeepMind.canvas","x":1760,"y":820,"width":400,"height":180}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"hub","fromSide":"bottom","toNode":"audit","toSide":"top","label":"verified sources"},
+		{"id":"e2","fromNode":"audit","fromSide":"bottom","toNode":"people","toSide":"top","label":"authors and affiliations"},
+		{"id":"e3","fromNode":"people","fromSide":"bottom","toNode":"concepts","toSide":"top","label":"interpret carefully"},
+		{"id":"e4","fromNode":"agents","fromSide":"right","toNode":"hub","toSide":"left","label":"system layer"},
+		{"id":"e5","fromNode":"memory","fromSide":"right","toNode":"audit","toSide":"left","label":"sources"},
+		{"id":"e6","fromNode":"serving","fromSide":"right","toNode":"concepts","toSide":"left","label":"boundaries"},
+		{"id":"e7","fromNode":"ssl","fromSide":"right","toNode":"audit","toSide":"left","label":"sources"},
+		{"id":"e8","fromNode":"post","fromSide":"right","toNode":"people","toSide":"left","label":"coauthor clusters"},
+		{"id":"e9","fromNode":"arch","fromSide":"left","toNode":"audit","toSide":"right","label":"sources"},
+		{"id":"e10","fromNode":"arch","fromSide":"right","toNode":"hinton","toSide":"left","label":"historical bridge"},
+		{"id":"e11","fromNode":"rl","fromSide":"right","toNode":"sutton","toSide":"left","label":"lineage bridge"},
+		{"id":"e12","fromNode":"rl","fromSide":"right","toNode":"deepmind","toSide":"left","label":"lab bridge"}
+	]
+}

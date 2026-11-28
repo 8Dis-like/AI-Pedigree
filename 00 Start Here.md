@@ -6,7 +6,7 @@ share_updated: 2026-11-01T20:09:27+08:00
 
 An editable Obsidian research vault based on *The Infinity Machine* / *哈萨比斯：谷歌AI之脑*. Built 2026-10-23. English is the default; original Chinese names are retained as aliases.
 
-**Start with [[Modern AI Pedigree.canvas|Modern AI Pedigree]].** The dedicated [[11 Richard Sutton Lineage.canvas|Richard Sutton branch]] is included alongside the [[10 Hinton Lineage.canvas|Geoffrey Hinton branch]].
+**Start with [[Modern AI Pedigree.canvas|Modern AI Pedigree]].** The dedicated [[11 Richard Sutton Lineage.canvas|Richard Sutton branch]] is included alongside the [[10 Hinton Lineage.canvas|Geoffrey Hinton branch]]. For terminology, landmark papers, and paper-era institution clusters, open [[Research/00 Research Atlas|the research atlas]] or [[22 Landmark Research Atlas.canvas|its visual map]].
 
 ## Open in Obsidian
 
@@ -22,7 +22,7 @@ The canvases use the standard [JSON Canvas 1.0 format](https://jsoncanvas.org/sp
 - 822 entity notes, including 519 people; 781 entities have book page references.
 - 161 primary-source checked relationships, 375 book-reported relationships, and 1 disputed relationships withheld from canvas views.
 - 65 external source records and 82 entities with a checked profile or institutional evidence link.
-- 7 editable canvases, a name register, an evidence review queue, and the supplied PDF for portable page links.
+- 8 editable canvases, a name register, an evidence review queue, and a primary-source-audited research atlas.
 
 ## Read the map correctly
 
@@ -40,4 +40,4 @@ All 505 scanned PDF pages received local OCR. The inventory includes narrative, 
 
 See [[03 Evidence and Open Questions]] for corrections, source disagreements and the next verification work. Source and relationship records are also in `Data/` for later expansion. Changing a canvas does not automatically update its entity notes or the evidence data; update the claim record when changing a factual relationship.
 
-[[01 Map Index]] · [[02 Name Register]] · [[Sources/Book|Source book]] · [[04 Expansion Guide]]
+[[01 Map Index]] · [[02 Name Register]] · [[Research/00 Research Atlas|Research atlas]] · [[Sources/Book|Source book]] · [[04 Expansion Guide]]

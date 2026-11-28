@@ -8,7 +8,7 @@
     "book_relationships": 375,
     "disputed_relationships": 1,
     "external_sources": 65,
-    "canvas_files": 7,
+    "canvas_files": 8,
     "profiles_or_primary_links": 82,
     "book_entities": 781
   },
@@ -19,7 +19,8 @@
     "12 Hassabis and DeepMind.canvas",
     "13 Industry and Labs.canvas",
     "20 Organization Atlas.canvas",
-    "21 Context and Unresolved.canvas"
+    "21 Context and Unresolved.canvas",
+    "22 Landmark Research Atlas.canvas"
   ],
   "format": "JSON Canvas 1.0",
   "scope": "Curated book inventory plus explicitly marked sourced extensions; OCR name resolution and external profile verification remain incomplete."
